@@ -1,0 +1,6 @@
+* text=auto !eol
+/README -text
+/apertium-en-sco.en-sco.dix -text
+/apertium-en-sco.sco.dix -text
+/apertium-en-sco.sco.tsx -text
+/sco-en.prob -text
