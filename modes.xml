@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <!-- eng → sco -->
+
+  <mode name="eng-sco" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-sco.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-sco.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="eng-sco.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-sco.eng-sco.t1x"/>
+        <file name="eng-sco.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-eng-sco.eng-sco.t2x"/>
+        <file name="eng-sco.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-eng-sco.eng-sco.t3x"/>
+        <file name="eng-sco.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="eng-sco.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="eng-sco.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-sco-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-sco.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-sco.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-sco.eng-sco.t1x"/>
+        <file name="eng-sco.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-eng-sco.eng-sco.t2x"/>
+        <file name="eng-sco.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-eng-sco.eng-sco.t3x"/>
+        <file name="eng-sco.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="eng-sco.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-sco-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-sco-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-sco-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-sco.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-sco-pretransfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-sco.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-sco-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-sco.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-sco.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-sco-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-sco.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-sco.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t">
+        <file name="eng-sco.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-sco-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-sco.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-sco.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="eng-sco.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-eng-sco.eng-sco.t1x"/>
+        <file name="eng-sco.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-sco-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-sco.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-sco.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="eng-sco.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-sco.eng-sco.t1x"/>
+        <file name="eng-sco.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-eng-sco.eng-sco.t2x"/>
+        <file name="eng-sco.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-sco-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-sco.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-sco.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="eng-sco.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-sco.eng-sco.t1x"/>
+        <file name="eng-sco.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-eng-sco.eng-sco.t2x"/>
+        <file name="eng-sco.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-eng-sco.eng-sco.t3x"/>
+        <file name="eng-sco.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- sco → eng -->
+
+  <mode name="sco-eng" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="sco-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="sco-eng.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="sco-eng.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-sco.sco-eng.t1x"/>
+        <file name="sco-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-eng-sco.sco-eng.t2x"/>
+        <file name="sco-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-eng-sco.sco-eng.t3x"/>
+        <file name="sco-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="sco-eng.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="sco-eng.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="sco-eng-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="sco-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="sco-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-sco.sco-eng.t1x"/>
+        <file name="sco-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-eng-sco.sco-eng.t2x"/>
+        <file name="sco-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-eng-sco.sco-eng.t3x"/>
+        <file name="sco-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="sco-eng.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="sco-eng-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="sco-eng-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="sco-eng-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="sco-eng.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="sco-eng-pretransfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="sco-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="sco-eng-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="sco-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="sco-eng.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="sco-eng-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="sco-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="sco-eng.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="sco-eng.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="sco-eng-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="sco-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="sco-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-eng-sco.sco-eng.t1x"/>
+        <file name="sco-eng.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="sco-eng-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="sco-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="sco-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-sco.sco-eng.t1x"/>
+        <file name="sco-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-eng-sco.sco-eng.t2x"/>
+        <file name="sco-eng.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="sco-eng-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="sco-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="sco-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-sco.sco-eng.t1x"/>
+        <file name="sco-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-eng-sco.sco-eng.t2x"/>
+        <file name="sco-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-eng-sco.sco-eng.t3x"/>
+        <file name="sco-eng.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>
+

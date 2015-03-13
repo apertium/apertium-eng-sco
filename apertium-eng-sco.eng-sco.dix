@@ -96,7 +96,6 @@
     <sdef n="mon"/>
   </sdefs>
   
-  <pardefs/>
   <section id="main" type="standard">
     <e><p><l>calf<s n="n"/></l><r>cauf<s n="n"/></r></p></e>
     <e><p><l>foot<s n="n"/></l><r>fit<s n="n"/></r></p></e>

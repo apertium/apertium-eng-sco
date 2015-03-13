@@ -1,6 +1,21 @@
 * text=auto !eol
-/Makefile -text
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
 /README -text
 /apertium-eng-sco.eng-sco.dix -text
-/apertium-eng-sco.sco.dix -text
+/apertium-eng-sco.eng-sco.lrx -text
+/apertium-eng-sco.eng-sco.t1x -text svneol=unset#application/xml
+/apertium-eng-sco.eng-sco.t2x -text svneol=unset#application/xml
+/apertium-eng-sco.eng-sco.t3x -text svneol=unset#application/xml
+/apertium-eng-sco.sco-eng.lrx -text
+/apertium-eng-sco.sco-eng.t1x -text svneol=unset#application/xml
+/apertium-eng-sco.sco-eng.t2x -text svneol=unset#application/xml
+/apertium-eng-sco.sco-eng.t3x -text svneol=unset#application/xml
 /apertium-eng-sco.sco.tsx -text
+/autogen.sh -text
+/configure.ac -text
+dev/old.apertium-eng-sco.sco.dix -text svneol=unset#application/xml
+/modes.xml -text svneol=unset#application/xml
