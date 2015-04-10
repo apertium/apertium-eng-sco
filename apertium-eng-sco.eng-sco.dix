@@ -281,5 +281,12 @@
     <e><p><l>Irish<b/>Sea<s n="np"/></l><r>Erse<b/>Sea<s n="np"/></r></p></e>
     <e><p><l>Westminster<s n="np"/></l><r>Wastmeenster<s n="np"/></r></p></e>
     <e><p><l>Russia<s n="np"/></l><r>Roushie<s n="np"/></r></p></e>
+
+
+<!-- NEW WORDS! 
+-->
+    <e><p><l>dog<s n="n"/></l><r>dug<s n="n"/></r></p></e>
+
+
   </section>
 </dictionary>
