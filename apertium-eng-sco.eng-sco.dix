@@ -286,7 +286,14 @@
 <!-- NEW WORDS! 
 -->
     <e><p><l>dog<s n="n"/></l><r>dug<s n="n"/></r></p></e>
-
+    <e><p><l>child<s n="n"/></l><r>bairn<s n="n"/></r></p></e>
+    <e><p><l>barrister<s n="n"/></l><r>advocate<s n="n"/></r></p></e>
+    <e><p><l>account<s n="n"/></l><r>accoont<s n="n"/></r></p></e>
+    <e><p><l>accoontant<s n="n"/></l><r>accoontant<s n="n"/></r></p></e>
+    <e><p><l>adventure<s n="n"/></l><r>adventur<s n="n"/></r></p></e>
+    <e><p><l>result<s n="n"/></l><r>affcome<s n="n"/></r></p></e>
+    <e><p><l>apple<s n="n"/></l><r>aipple<s n="n"/></r></p></e>
+    <e><p><l>arm<s n="n"/></l><r>airm<s n="n"/></r></p></e>
 
   </section>
 </dictionary>
