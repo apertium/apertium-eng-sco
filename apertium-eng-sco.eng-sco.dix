@@ -286,10 +286,11 @@
 <!-- NEW WORDS! 
 -->
     <e><p><l>dog<s n="n"/></l><r>dug<s n="n"/></r></p></e>
-    <e><p><l>child<s n="n"/></l><r>bairn<s n="n"/></r></p></e>
     <e><p><l>barrister<s n="n"/></l><r>advocate<s n="n"/></r></p></e>
+
     <e><p><l>account<s n="n"/></l><r>accoont<s n="n"/></r></p></e>
     <e><p><l>accoontant<s n="n"/></l><r>accoontant<s n="n"/></r></p></e>
+    <e><p><l>address<s n="n"/></l><r>address<s n="n"/></r></p></e>
     <e><p><l>adventure<s n="n"/></l><r>adventur<s n="n"/></r></p></e>
     <e><p><l>result<s n="n"/></l><r>affcome<s n="n"/></r></p></e>
     <e><p><l>apple<s n="n"/></l><r>aipple<s n="n"/></r></p></e>
@@ -298,10 +299,18 @@
     <e><p><l>area<s n="n"/></l><r>airt<s n="n"/></r></p></e>
     <e><p><l>art<s n="n"/></l><r>airt<s n="n"/></r></p></e>
     <e><p><l>skill<s n="n"/></l><r>airt<s n="n"/></r></p></e>
+    <e><p><l>ash<s n="n"/></l><r>aish<s n="n"/></r></p></e>
     <e><p><l>article<s n="n"/></l><r>airticle<s n="n"/></r></p></e>
     <e><p><l>announcement<s n="n"/></l><r>annuncement<s n="n"/></r></p></e>
-
-
+    <e><p><l>opening<s n="n"/></l><r>appenin<s n="n"/></r></p></e>
+    <e><p><l>assembly<s n="n"/></l><r>assemmly<s n="n"/></r></p></e>
+    <e><p><l>area<s n="n"/></l><r>aurie<s n="n"/></r></p></e>
+    <e><p><l>award<s n="n"/></l><r>awaird<s n="n"/></r></p></e>
+    <e><p><l>owner<s n="n"/></l><r>awner<s n="n"/></r></p></e>
+    <e><p><l>backside<s n="n"/></l><r>bahookie<s n="n"/></r></p></e>
+    <e><p><l>child<s n="n"/></l><r>bairn<s n="n"/></r></p></e>
+    <e><p><l>childhood<s n="n"/></l><r>bairnheid<s n="n"/></r></p></e>
+    <e><p><l>small child<s n="n"/></l><r>bairnie<s n="n"/></r></p></e>
 
   </section>
 </dictionary>
