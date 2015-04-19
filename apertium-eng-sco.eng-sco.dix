@@ -248,8 +248,49 @@
     <e><p><l>consist<s n="vblex"/></l><r>conseest<s n="vblex"/></r></p></e>
 
         <!-- NEW VERBS -->
+    <e><p><l>act<s n="vblex"/></l><r>act<s n="vblex"/></r></p></e>
     <e><p><l>admit<s n="vblex"/></l><r>admeet<s n="vblex"/></r></p></e>
     <e><p><l>belong<s n="vblex"/></l><r>belang<s n="vblex"/></r></p></e>
+    <e><p><l>advise<s n="vblex"/></l><r>advise<s n="vblex"/></r></p></e>
+    <e><p><l>arm<s n="vblex"/></l><r>airm<s n="vblex"/></r></p></e>
+    <e><p><l>direct<s n="vblex"/></l><r>airt<s n="vblex"/></r></p></e>
+    <e><p><l>guide<s n="vblex"/></l><r>airt<s n="vblex"/></r></p></e>
+    <e><p><l>alarm<s n="vblex"/></l><r>alairm<s n="vblex"/></r></p></e>
+    <e><p><l>allow<s n="vblex"/></l><r>allou<s n="vblex"/></r></p></e>
+    <e><p><l>announce<s n="vblex"/></l><r>annoonce<s n="vblex"/></r></p></e>
+    <e><p><l>announce<s n="vblex"/></l><r>annunce<s n="vblex"/></r></p></e>
+    <e><p><l>open<s n="vblex"/></l><r>appen<s n="vblex"/></r></p></e>
+    <e><p><l>attach<s n="vblex"/></l><r>appone<s n="vblex"/></r></p></e>
+    <e><p><l>aren't<s n="vblex"/></l><r>arena<s n="vblex"/></r></p></e>
+    <e><p><l>aren't<s n="vblex"/></l><r>arenae<s n="vblex"/></r></p></e>
+    <e><p><l>attempt<s n="vblex"/></l><r>attempt<s n="vblex"/></r></p></e>
+    <e><p><l>awaird<s n="vblex"/></l><r>awaird<s n="vblex"/></r></p></e>
+    <e><p><l>owe<s n="vblex"/></l><r>awe<s n="vblex"/></r></p></e>
+    <e><p><l>own<s n="vblex"/></l><r>awn<s n="vblex"/></r></p></e>
+    <e><p><l>make pregnant<s n="vblex"/></l><r>bairn<s n="vblex"/></r></p></e>
+    <e><p><l>hit<s n="vblex"/></l><r>banjo<s n="vblex"/></r></p></e>
+    <e><p><l>baptise<s n="vblex"/></l><r>bapteese<s n="vblex"/></r></p></e>
+    <e><p><l>bother<s n="vblex"/></l><r>bather<s n="vblex"/></r></p></e>
+    <e><p><l>distort<s n="vblex"/></l><r>bauchle<s n="vblex"/></r></p></e>
+    <e><p><l>fester<s n="vblex"/></l><r>beal<s n="vblex"/></r></p></e>
+    <e><p><l>bear<s n="vblex"/></l><r>beir<s n="vblex"/></r></p></e>
+    <e><p><l>belong<s n="vblex"/></l><r>belang<s n="vblex"/></r></p></e>
+    <e><p><l>is<s n="vblex"/></l><r>bes<s n="vblex"/></r></p></e>
+    <e><p><l>are<s n="vblex"/></l><r>bes<s n="vblex"/></r></p></e>
+    <e><p><l>live<s n="vblex"/></l><r>bide<s n="vblex"/></r></p></e>
+    <e><p><l>reside<s n="vblex"/></l><r>bide<s n="vblex"/></r></p></e>
+    <e><p><l>build<s n="vblex"/></l><r>big<s n="vblex"/></r></p></e>
+    <e><p><l>boil<s n="vblex"/></l><r>bile<s n="vblex"/></r></p></e>
+    <e><p><l>bind<s n="vblex"/></l><r>bind<s n="vblex"/></r></p></e>
+    <e><p><l>bite<s n="vblex"/></l><r>bite<s n="vblex"/></r></p></e>
+    <e><p><l>blow<s n="vblex"/></l><r>blaw<s n="vblex"/></r></p></e>
+    <e><p><l>chat<s n="vblex"/></l><r>blether<s n="vblex"/></r></p></e>
+    <e><p><l>talk<s n="vblex"/></l><r>blether<s n="vblex"/></r></p></e>
+    <e><p><l>vomit<s n="vblex"/></l><r>boak<s n="vblex"/></r></p></e>
+    <e><p><l>vomit<s n="vblex"/></l><r>boke<s n="vblex"/></r></p></e>
+    <e><p><l>borrow<s n="vblex"/></l><r>borrae<s n="vblex"/></r></p></e>
+    <e><p><l>vomit<s n="vblex"/></l><r>bowk<s n="vblex"/></r></p></e>
+    <e><p><l>broadcast<s n="vblex"/></l><r>braidcast<s n="vblex"/></r></p></e>
 
 
     <e><p><l>have<s n="vbhaver"/></l><r>hae<s n="vbhaver"/></r></p></e>
