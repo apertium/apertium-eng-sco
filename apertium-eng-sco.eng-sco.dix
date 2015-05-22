@@ -229,7 +229,26 @@
     <e><p><l>bad<s n="adj"/><s n="sint"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>straight<s n="adj"/><s n="sint"/></l><r>straucht<s n="adj"/><s n="sint"/></r></p></e>
 
-    <e><p><l>bring<s n="vblex"/></l><r>bring<s n="vblex"/></r></p></e>
+
+        <!-- NEW  IRREGULAR VERBS -->
+
+    <e><p><l>come<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
+    <e><p><l>stoop<s n="vblex"/></l><r>coorie<s n="vblex"/></r></p></e>
+    <e><p><l>embrace<s n="vblex"/></l><r>coorie<s n="vblex"/></r></p></e>
+    <e><p><l>stoop<s n="vblex"/></l><r>courie<s n="vblex"/></r></p></e>
+    <e><p><l>embrace<s n="vblex"/></l><r>courie<s n="vblex"/></r></p></e>
+    <e><p><l>crow<s n="vblex"/></l><r>craw<s n="vblex"/></r></p></e>
+    <e><p><l>cry<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>
+    <e><p><l>die<s n="vblex"/></l><r>dee<s n="vblex"/></r></p></e>
+    <e><p><l>strike<s n="vblex"/></l><r>ding<s n="vblex"/></r></p></e>
+    <e><p><l>vibrate<s n="vblex"/></l><r>dinnle<s n="vblex"/></r></p></e>
+    <e><p><l>dive<s n="vblex"/></l><r>dive<s n="vblex"/></r></p></e>
+    <e><p><l>hit<s n="vblex"/></l><r>dunch<s n="vblex"/></r></p></e>
+    <e><p><l>eat<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
+    <e><p><l>fall<s n="vblex"/></l><r>faw<s n="vblex"/></r></p></e>
+
+
+        <!-- OLD REGULAR VERBS - MERGE -->  
     <e><p><l>bury<s n="vblex"/></l><r>bury<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bury<s n="vblex"/></l><r>bery<s n="vblex"/></r></p></e>
     <e><p><l>go<s n="vblex"/></l><r>gang<s n="vblex"/></r></p></e>
@@ -247,7 +266,7 @@
     <e><p><l>help<s n="vblex"/></l><r>gie<g><b/>a<b/>haun</g><s n="vblex"/><s n="sep"/></r></p></e>
     <e><p><l>consist<s n="vblex"/></l><r>conseest<s n="vblex"/></r></p></e>
 
-        <!-- NEW VERBS -->
+        <!-- NEW  REGULARVERBS -->
     <e><p><l>act<s n="vblex"/></l><r>act<s n="vblex"/></r></p></e>
     <e><p><l>address<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>
     <e><p><l>admit<s n="vblex"/></l><r>admeet<s n="vblex"/></r></p></e>
