@@ -249,8 +249,8 @@
 
         <!-- NEW VERBS -->
     <e><p><l>act<s n="vblex"/></l><r>act<s n="vblex"/></r></p></e>
+    <e><p><l>address<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>
     <e><p><l>admit<s n="vblex"/></l><r>admeet<s n="vblex"/></r></p></e>
-    <e><p><l>belong<s n="vblex"/></l><r>belang<s n="vblex"/></r></p></e>
     <e><p><l>advise<s n="vblex"/></l><r>advise<s n="vblex"/></r></p></e>
     <e><p><l>arm<s n="vblex"/></l><r>airm<s n="vblex"/></r></p></e>
     <e><p><l>direct<s n="vblex"/></l><r>airt<s n="vblex"/></r></p></e>
@@ -261,11 +261,8 @@
     <e><p><l>announce<s n="vblex"/></l><r>annunce<s n="vblex"/></r></p></e>
     <e><p><l>open<s n="vblex"/></l><r>appen<s n="vblex"/></r></p></e>
     <e><p><l>attach<s n="vblex"/></l><r>appone<s n="vblex"/></r></p></e>
-    <e><p><l>aren't<s n="vblex"/></l><r>arena<s n="vblex"/></r></p></e>
-    <e><p><l>aren't<s n="vblex"/></l><r>arenae<s n="vblex"/></r></p></e>
     <e><p><l>attempt<s n="vblex"/></l><r>attempt<s n="vblex"/></r></p></e>
     <e><p><l>awaird<s n="vblex"/></l><r>awaird<s n="vblex"/></r></p></e>
-    <e><p><l>owe<s n="vblex"/></l><r>awe<s n="vblex"/></r></p></e>
     <e><p><l>own<s n="vblex"/></l><r>awn<s n="vblex"/></r></p></e>
     <e><p><l>make pregnant<s n="vblex"/></l><r>bairn<s n="vblex"/></r></p></e>
     <e><p><l>hit<s n="vblex"/></l><r>banjo<s n="vblex"/></r></p></e>
@@ -273,17 +270,9 @@
     <e><p><l>bother<s n="vblex"/></l><r>bather<s n="vblex"/></r></p></e>
     <e><p><l>distort<s n="vblex"/></l><r>bauchle<s n="vblex"/></r></p></e>
     <e><p><l>fester<s n="vblex"/></l><r>beal<s n="vblex"/></r></p></e>
-    <e><p><l>bear<s n="vblex"/></l><r>beir<s n="vblex"/></r></p></e>
     <e><p><l>belong<s n="vblex"/></l><r>belang<s n="vblex"/></r></p></e>
-    <e><p><l>is<s n="vblex"/></l><r>bes<s n="vblex"/></r></p></e>
-    <e><p><l>are<s n="vblex"/></l><r>bes<s n="vblex"/></r></p></e>
-    <e><p><l>live<s n="vblex"/></l><r>bide<s n="vblex"/></r></p></e>
-    <e><p><l>reside<s n="vblex"/></l><r>bide<s n="vblex"/></r></p></e>
     <e><p><l>build<s n="vblex"/></l><r>big<s n="vblex"/></r></p></e>
     <e><p><l>boil<s n="vblex"/></l><r>bile<s n="vblex"/></r></p></e>
-    <e><p><l>bind<s n="vblex"/></l><r>bind<s n="vblex"/></r></p></e>
-    <e><p><l>bite<s n="vblex"/></l><r>bite<s n="vblex"/></r></p></e>
-    <e><p><l>blow<s n="vblex"/></l><r>blaw<s n="vblex"/></r></p></e>
     <e><p><l>chat<s n="vblex"/></l><r>blether<s n="vblex"/></r></p></e>
     <e><p><l>talk<s n="vblex"/></l><r>blether<s n="vblex"/></r></p></e>
     <e><p><l>vomit<s n="vblex"/></l><r>boak<s n="vblex"/></r></p></e>
@@ -291,7 +280,399 @@
     <e><p><l>borrow<s n="vblex"/></l><r>borrae<s n="vblex"/></r></p></e>
     <e><p><l>vomit<s n="vblex"/></l><r>bowk<s n="vblex"/></r></p></e>
     <e><p><l>broadcast<s n="vblex"/></l><r>braidcast<s n="vblex"/></r></p></e>
+    <e><p><l>branch<s n="vblex"/></l><r>brainch<s n="vblex"/></r></p></e>
+    <e><p><l>rush forward<s n="vblex"/></l><r>breenge<s n="vblex"/></r></p></e>
+    <e><p><l>rush forward<s n="vblex"/></l><r>breinge<s n="vblex"/></r></p></e>
+    <e><p><l>bridge<s n="vblex"/></l><r>brig<s n="vblex"/></r></p></e>
+    <e><p><l>blubber<s n="vblex"/></l><r>bubble<s n="vblex"/></r></p></e>
+    <e><p><l>board<s n="vblex"/></l><r>buird<s n="vblex"/></r></p></e>
+    <e><p><l>boot<s n="vblex"/></l><r>buit<s n="vblex"/></r></p></e>
+    <e><p><l>bewilder<s n="vblex"/></l><r>bumbaise<s n="vblex"/></r></p></e>
+    <e><p><l>bewilder<s n="vblex"/></l><r>bumbaze<s n="vblex"/></r></p></e>
+    <e><p><l>busk<s n="vblex"/></l><r>busk<s n="vblex"/></r></p></e>
+    <e><p><l>busy<s n="vblex"/></l><r>busy<s n="vblex"/></r></p></e>
+    <e><p><l>carry<s n="vblex"/></l><r>cairry<s n="vblex"/></r></p></e>
+    <e><p><l>cart<s n="vblex"/></l><r>cairt<s n="vblex"/></r></p></e>
+    <e><p><l>carve<s n="vblex"/></l><r>cairve<s n="vblex"/></r></p></e>
+    <e><p><l>carry<s n="vblex"/></l><r>cairy<s n="vblex"/></r></p></e>
+    <e><p><l>capture<s n="vblex"/></l><r>captur<s n="vblex"/></r></p></e>
+    <e><p><l>care<s n="vblex"/></l><r>care<s n="vblex"/></r></p></e>
+    <e><p><l>call<s n="vblex"/></l><r>caw<s n="vblex"/></r></p></e>
+    <e><p><l>chant<s n="vblex"/></l><r>chant<s n="vblex"/></r></p></e>
+    <e><p><l>chase<s n="vblex"/></l><r>chase<s n="vblex"/></r></p></e>
+    <e><p><l>change<s n="vblex"/></l><r>cheenge<s n="vblex"/></r></p></e>
+    <e><p><l>chirp<s n="vblex"/></l><r>cheep<s n="vblex"/></r></p></e>
+    <e><p><l>stab<s n="vblex"/></l><r>chib<s n="vblex"/></r></p></e>
+    <e><p><l>tremble<s n="vblex"/></l><r>chitter<s n="vblex"/></r></p></e>
+    <e><p><l>steal<s n="vblex"/></l><r>chore<s n="vblex"/></r></p></e>
+    <e><p><l>pinch<s n="vblex"/></l><r>chorie<s n="vblex"/></r></p></e>
+    <e><p><l>change<s n="vblex"/></l><r>chynge<s n="vblex"/></r></p></e>
+    <e><p><l>claim<s n="vblex"/></l><r>claim<s n="vblex"/></r></p></e>
+    <e><p><l>dirty<s n="vblex"/></l><r>clart<s n="vblex"/></r></p></e>
+    <e><p><l>clear<s n="vblex"/></l><r>clear<s n="vblex"/></r></p></e>
+    <e><p><l>invent<s n="vblex"/></l><r>cleck<s n="vblex"/></r></p></e>
+    <e><p><l>class<s n="vblex"/></l><r>cless<s n="vblex"/></r></p></e>
+    <e><p><l>tell<s n="vblex"/></l><r>clype<s n="vblex"/></r></p></e>
+    <e><p><l>grass<s n="vblex"/></l><r>clype<s n="vblex"/></r></p></e>
+    <e><p><l>grassing<s n="vblex"/></l><r>clypin<s n="vblex"/></r></p></e>
+    <e><p><l>converse<s n="vblex"/></l><r>collogue<s n="vblex"/></r></p></e>
+    <e><p><l>compose<s n="vblex"/></l><r>compone<s n="vblex"/></r></p></e>
+    <e><p><l>include<s n="vblex"/></l><r>comprehend<s n="vblex"/></r></p></e>
+    <e><p><l>value<s n="vblex"/></l><r>comprise<s n="vblex"/></r></p></e>
+    <e><p><l>conduct<s n="vblex"/></l><r>conduct<s n="vblex"/></r></p></e>
+    <e><p><l>confuse<s n="vblex"/></l><r>conflummix<s n="vblex"/></r></p></e>
+    <e><p><l>confront<s n="vblex"/></l><r>confront<s n="vblex"/></r></p></e>
+    <e><p><l>continue<s n="vblex"/></l><r>conteena<s n="vblex"/></r></p></e>
+    <e><p><l>count<s n="vblex"/></l><r>coont<s n="vblex"/></r></p></e>
+    <e><p><l>grease<s n="vblex"/></l><r>creash<s n="vblex"/></r></p></e>
+    <e><p><l>credit<s n="vblex"/></l><r>creedit<s n="vblex"/></r></p></e>
+    <e><p><l>criticise<s n="vblex"/></l><r>creeticeese<s n="vblex"/></r></p></e>
+    <e><p><l>crown<s n="vblex"/></l><r>croun<s n="vblex"/></r></p></e>
+    <e><p><l>do<s n="vblex"/></l><r>dae<s n="vblex"/></r></p></e>
+    <e><p><l>wander<s n="vblex"/></l><r>dander<s n="vblex"/></r></p></e>
+    <e><p><l>stroll<s n="vblex"/></l><r>dander<s n="vblex"/></r></p></e>
+    <e><p><l>wander<s n="vblex"/></l><r>daunder<s n="vblex"/></r></p></e>
+    <e><p><l>dawn<s n="vblex"/></l><r>daw<s n="vblex"/></r></p></e>
+    <e><p><l>deal<s n="vblex"/></l><r>deal<s n="vblex"/></r></p></e>
+    <e><p><l>deafen<s n="vblex"/></l><r>deave<s n="vblex"/></r></p></e>
+    <e><p><l>decide<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
+    <e><p><l>look<s n="vblex"/></l><r>deek<s n="vblex"/></r></p></e>
+    <e><p><l>deliver<s n="vblex"/></l><r>deliver<s n="vblex"/></r></p></e>
+    <e><p><l>resign<s n="vblex"/></l><r>demit<s n="vblex"/></r></p></e>
+    <e><p><l>release<s n="vblex"/></l><r>demit<s n="vblex"/></r></p></e>
+    <e><p><l>depart<s n="vblex"/></l><r>depairt<s n="vblex"/></r></p></e>
+    <e><p><l>develop<s n="vblex"/></l><r>develop<s n="vblex"/></r></p></e>
+    <e><p><l>differ<s n="vblex"/></l><r>differ<s n="vblex"/></r></p></e>
+    <e><p><l>disrespect<s n="vblex"/></l><r>disrespect<s n="vblex"/></r></p></e>
+    <e><p><l>divide<s n="vblex"/></l><r>divide<s n="vblex"/></r></p></e>
+    <e><p><l>doubt<s n="vblex"/></l><r>doot<s n="vblex"/></r></p></e>
+    <e><p><l>download<s n="vblex"/></l><r>dounlaid<s n="vblex"/></r></p></e>
+    <e><p><l>doubt<s n="vblex"/></l><r>dout<s n="vblex"/></r></p></e>
+    <e><p><l>expect<s n="vblex"/></l><r>dout<s n="vblex"/></r></p></e>
+    <e><p><l>drop<s n="vblex"/></l><r>drap<s n="vblex"/></r></p></e>
+    <e><p><l>endure<s n="vblex"/></l><r>dree<s n="vblex"/></r></p></e>
+    <e><p><l>suffer<s n="vblex"/></l><r>dree<s n="vblex"/></r></p></e>
+    <e><p><l>undergo<s n="vblex"/></l><r>dree<s n="vblex"/></r></p></e>
+    <e><p><l>drip<s n="vblex"/></l><r>dreep<s n="vblex"/></r></p></e>
+    <e><p><l>drown<s n="vblex"/></l><r>droun<s n="vblex"/></r></p></e>
+    <e><p><l>add<s n="vblex"/></l><r>eik<s n="vblex"/></r></p></e>
+    <e><p><l>added<s n="vblex"/></l><r>eikit<s n="vblex"/></r></p></e>
+    <e><p><l>elect<s n="vblex"/></l><r>elect<s n="vblex"/></r></p></e>
+    <e><p><l>end<s n="vblex"/></l><r>end<s n="vblex"/></r></p></e>
+    <e><p><l>intend<s n="vblex"/></l><r>ettle<s n="vblex"/></r></p></e>
+    <e><p><l>attempt<s n="vblex"/></l><r>ettle<s n="vblex"/></r></p></e>
+    <e><p><l>expose<s n="vblex"/></l><r>expose<s n="vblex"/></r></p></e>
+    <e><p><l>expound<s n="vblex"/></l><r>expose<s n="vblex"/></r></p></e>
+    <e><p><l>bother<s n="vblex"/></l><r>fash<s n="vblex"/></r></p></e>
+    <e><p><l>worry<s n="vblex"/></l><r>fash<s n="vblex"/></r></p></e>
+    <e><p><l>annoy<s n="vblex"/></l><r>fash<s n="vblex"/></r></p></e>
+    <e><p><l>worries<s n="vblex"/></l><r>fashes<s n="vblex"/></r></p></e>
+    <e><p><l>worrying<s n="vblex"/></l><r>fashin<s n="vblex"/></r></p></e>
+    <e><p><l>worried<s n="vblex"/></l><r>fasht<s n="vblex"/></r></p></e>
+    <e><p><l>fatten<s n="vblex"/></l><r>fatten<s n="vblex"/></r></p></e>
+    <e><p><l>fear<s n="vblex"/></l><r>fear<s n="vblex"/></r></p></e>
+    <e><p><l>feast<s n="vblex"/></l><r>feast<s n="vblex"/></r></p></e>
+    <e><p><l>fight<s n="vblex"/></l><r>fecht<s n="vblex"/></r></p></e>
+    <e><p><l>finish<s n="vblex"/></l><r>feenish<s n="vblex"/></r></p></e>
+    <e><p><l>farm<s n="vblex"/></l><r>ferm<s n="vblex"/></r></p></e>
+    <e><p><l>frighten<s n="vblex"/></l><r>fleg<s n="vblex"/></r></p></e>
+    <e><p><l>flatter<s n="vblex"/></l><r>flether<s n="vblex"/></r></p></e>
+    <e><p><l>flattering<s n="vblex"/></l><r>fletherin<s n="vblex"/></r></p></e>
+    <e><p><l>flatters<s n="vblex"/></l><r>flethers<s n="vblex"/></r></p></e>
+    <e><p><l>flattered<s n="vblex"/></l><r>flethert<s n="vblex"/></r></p></e>
+    <e><p><l>flutter<s n="vblex"/></l><r>flichter<s n="vblex"/></r></p></e>
+    <e><p><l>move<s n="vblex"/></l><r>flit<s n="vblex"/></r></p></e>
+    <e><p><l>follow<s n="vblex"/></l><r>follae<s n="vblex"/></r></p></e>
+    <e><p><l>promote<s n="vblex"/></l><r>forder<s n="vblex"/></r></p></e>
+    <e><p><l>foretell<s n="vblex"/></l><r>foretell<s n="vblex"/></r></p></e>
+    <e><p><l>forward<s n="vblex"/></l><r>forrit<s n="vblex"/></r></p></e>
+    <e><p><l>frighten<s n="vblex"/></l><r>frichten<s n="vblex"/></r></p></e>
+    <e><p><l>act the fool<s n="vblex"/></l><r>fud<s n="vblex"/></r></p></e>
+    <e><p><l>speak<s n="vblex"/></l><r>gab<s n="vblex"/></r></p></e>
+    <e><p><l>guard<s n="vblex"/></l><r>gaird<s n="vblex"/></r></p></e>
+    <e><p><l>gather<s n="vblex"/></l><r>gaither<s n="vblex"/></r></p></e>
+    <e><p><l>yawn<s n="vblex"/></l><r>gant<s n="vblex"/></r></p></e>
+    <e><p><l>gasp<s n="vblex"/></l><r>gant<s n="vblex"/></r></p></e>
+    <e><p><l>complain<s n="vblex"/></l><r>girn<s n="vblex"/></r></p></e>
+    <e><p><l>snarl<s n="vblex"/></l><r>girn<s n="vblex"/></r></p></e>
+    <e><p><l>glisten<s n="vblex"/></l><r>glister<s n="vblex"/></r></p></e>
+    <e><p><l>glower<s n="vblex"/></l><r>glower<s n="vblex"/></r></p></e>
+    <e><p><l>agree<s n="vblex"/></l><r>gree<s n="vblex"/></r></p></e>
+    <e><p><l>grow<s n="vblex"/></l><r>growe<s n="vblex"/></r></p></e>
+    <e><p><l>ground<s n="vblex"/></l><r>grund<s n="vblex"/></r></p></e>
+    <e><p><l>guard<s n="vblex"/></l><r>guaird<s n="vblex"/></r></p></e>
+    <e><p><l>beat<s n="vblex"/></l><r>gub<s n="vblex"/></r></p></e>
+    <e><p><l>trick-or-treat<s n="vblex"/></l><r>guise<s n="vblex"/></r></p></e>
+    <e><p><l>have<s n="vblex"/></l><r>hae<s n="vblex"/></r></p></e>
+    <e><p><l>hoard<s n="vblex"/></l><r>hain<s n="vblex"/></r></p></e>
+    <e><p><l>harden<s n="vblex"/></l><r>hairden<s n="vblex"/></r></p></e>
+    <e><p><l>harm<s n="vblex"/></l><r>hairm<s n="vblex"/></r></p></e>
+    <e><p><l>speak nonsense<s n="vblex"/></l><r>haiver<s n="vblex"/></r></p></e>
+    <e><p><l>happen<s n="vblex"/></l><r>hap<s n="vblex"/></r></p></e>
+    <e><p><l>happen<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
+    <e><p><l>hold<s n="vblex"/></l><r>haud<s n="vblex"/></r></p></e>
+    <e><p><l>hand<s n="vblex"/></l><r>haun<s n="vblex"/></r></p></e>
+    <e><p><l>hand<s n="vblex"/></l><r>haund<s n="vblex"/></r></p></e>
+    <e><p><l>harden<s n="vblex"/></l><r>haurden<s n="vblex"/></r></p></e>
+    <e><p><l>speak nonsense<s n="vblex"/></l><r>haver<s n="vblex"/></r></p></e>
+    <e><p><l>become accustomed<s n="vblex"/></l><r>heft<s n="vblex"/></r></p></e>
+    <e><p><l>becoming accustomed<s n="vblex"/></l><r>heftin<s n="vblex"/></r></p></e>
+    <e><p><l>became accustomed<s n="vblex"/></l><r>heftit<s n="vblex"/></r></p></e>
+    <e><p><l>becomed accustomed<s n="vblex"/></l><r>hefts<s n="vblex"/></r></p></e>
+    <e><p><l>harm<s n="vblex"/></l><r>herm<s n="vblex"/></r></p></e>
+    <e><p><l>hide<s n="vblex"/></l><r>hiddle<s n="vblex"/></r></p></e>
+    <e><p><l>hang<s n="vblex"/></l><r>hing<s n="vblex"/></r></p></e>
+    <e><p><l>cough<s n="vblex"/></l><r>hoast<s n="vblex"/></r></p></e>
+    <e><p><l>wadddle<s n="vblex"/></l><r>hoddle<s n="vblex"/></r></p></e>
+    <e><p><l>stink<s n="vblex"/></l><r>honk<s n="vblex"/></r></p></e>
+    <e><p><l>simmer<s n="vblex"/></l><r>hotter<s n="vblex"/></r></p></e>
+    <e><p><l>hope<s n="vblex"/></l><r>howp<s n="vblex"/></r></p></e>
+    <e><p><l>hunt<s n="vblex"/></l><r>hunt<s n="vblex"/></r></p></e>
+    <e><p><l>oil<s n="vblex"/></l><r>ile<s n="vblex"/></r></p></e>
+    <e><p><l>prick<s n="vblex"/></l><r>jag<s n="vblex"/></r></p></e>
+    <e><p><l>suspect<s n="vblex"/></l><r>jalouse<s n="vblex"/></r></p></e>
+    <e><p><l>guess<s n="vblex"/></l><r>jalouse<s n="vblex"/></r></p></e>
+    <e><p><l>duck<s n="vblex"/></l><r>jouk<s n="vblex"/></r></p></e>
+    <e><p><l>look<s n="vblex"/></l><r>keek<s n="vblex"/></r></p></e>
+    <e><p><l>peek<s n="vblex"/></l><r>keek<s n="vblex"/></r></p></e>
+    <e><p><l>tilt<s n="vblex"/></l><r>keek<s n="vblex"/></r></p></e>
+    <e><p><l>lean<s n="vblex"/></l><r>keek<s n="vblex"/></r></p></e>
+    <e><p><l>looked<s n="vblex"/></l><r>keeked<s n="vblex"/></r></p></e>
+    <e><p><l>looking<s n="vblex"/></l><r>keekin<s n="vblex"/></r></p></e>
+    <e><p><l>kicking<s n="vblex"/></l><r>kickin<s n="vblex"/></r></p></e>
+    <e><p><l>kidnap<s n="vblex"/></l><r>kidnap<s n="vblex"/></r></p></e>
+    <e><p><l>kill<s n="vblex"/></l><r>kill<s n="vblex"/></r></p></e>
+    <e><p><l>reveal<s n="vblex"/></l><r>kithe<s n="vblex"/></r></p></e>
+    <e><p><l>make known<s n="vblex"/></l><r>kithe<s n="vblex"/></r></p></e>
+    <e><p><l>tickle<s n="vblex"/></l><r>kittle<s n="vblex"/></r></p></e>
+    <e><p><l>annoy<s n="vblex"/></l><r>kittle<s n="vblex"/></r></p></e>
+    <e><p><l>cover<s n="vblex"/></l><r>kivver<s n="vblex"/></r></p></e>
+    <e><p><l>hurry<s n="vblex"/></l><r>knipe<s n="vblex"/></r></p></e>
+    <e><p><l>beat<s n="vblex"/></l><r>knock<s n="vblex"/></r></p></e>
+    <e><p><l>reveal<s n="vblex"/></l><r>kythe<s n="vblex"/></r></p></e>
+    <e><p><l>appear<s n="vblex"/></l><r>kythe<s n="vblex"/></r></p></e>
+    <e><p><l>land<s n="vblex"/></l><r>land<s n="vblex"/></r></p></e>
+    <e><p><l>laugh<s n="vblex"/></l><r>lauch<s n="vblex"/></r></p></e>
+    <e><p><l>land<s n="vblex"/></l><r>laund<s n="vblex"/></r></p></e>
+    <e><p><l>teach<s n="vblex"/></l><r>lear<s n="vblex"/></r></p></e>
+    <e><p><l>learn<s n="vblex"/></l><r>lear<s n="vblex"/></r></p></e>
+    <e><p><l>lend<s n="vblex"/></l><r>len<s n="vblex"/></r></p></e>
+    <e><p><l>lend<s n="vblex"/></l><r>lend<s n="vblex"/></r></p></e>
+    <e><p><l>leuk<s n="vblex"/></l><r>leuk<s n="vblex"/></r></p></e>
+    <e><p><l>light<s n="vblex"/></l><r>licht<s n="vblex"/></r></p></e>
+    <e><p><l>lighten<s n="vblex"/></l><r>lichten<s n="vblex"/></r></p></e>
+    <e><p><l>arrest<s n="vblex"/></l><r>lift<s n="vblex"/></r></p></e>
+    <e><p><l>lift<s n="vblex"/></l><r>lift<s n="vblex"/></r></p></e>
+    <e><p><l>lie<s n="vblex"/></l><r>lig<s n="vblex"/></r></p></e>
+    <e><p><l>move agiley<s n="vblex"/></l><r>link<s n="vblex"/></r></p></e>
+    <e><p><l>trust<s n="vblex"/></l><r>lippen<s n="vblex"/></r></p></e>
+    <e><p><l>listen<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
+    <e><p><l>love<s n="vblex"/></l><r>love<s n="vblex"/></r></p></e>
+    <e><p><l>loosen<s n="vblex"/></l><r>lowse<s n="vblex"/></r></p></e>
+    <e><p><l>free<s n="vblex"/></l><r>lowse<s n="vblex"/></r></p></e>
+    <e><p><l>look<s n="vblex"/></l><r>luck<s n="vblex"/></r></p></e>
+    <e><p><l>love<s n="vblex"/></l><r>luve<s n="vblex"/></r></p></e>
+    <e><p><l>march<s n="vblex"/></l><r>mairch<s n="vblex"/></r></p></e>
+    <e><p><l>married<s n="vblex"/></l><r>mairry<s n="vblex"/></r></p></e>
+    <e><p><l>master<s n="vblex"/></l><r>maister<s n="vblex"/></r></p></e>
+    <e><p><l>matter<s n="vblex"/></l><r>maiter<s n="vblex"/></r></p></e>
+    <e><p><l>cut<s n="vblex"/></l><r>malkie<s n="vblex"/></r></p></e>
+    <e><p><l>cut<s n="vblex"/></l><r>malky<s n="vblex"/></r></p></e>
+    <e><p><l>equal<s n="vblex"/></l><r>marrae<s n="vblex"/></r></p></e>
+    <e><p><l>mate<s n="vblex"/></l><r>mate<s n="vblex"/></r></p></e>
+    <e><p><l>mark<s n="vblex"/></l><r>merk<s n="vblex"/></r></p></e>
+    <e><p><l>remind<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
+    <e><p><l>mind<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
+    <e><p><l>care<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
+    <e><p><l>remember<s n="vblex"/></l><r>mindin<s n="vblex"/></r></p></e>
+    <e><p><l>remembered<s n="vblex"/></l><r>mindit<s n="vblex"/></r></p></e>
+    <e><p><l>remember<s n="vblex"/></l><r>minds<s n="vblex"/></r></p></e>
+    <e><p><l>mispronounce<s n="vblex"/></l><r>mispronoonce<s n="vblex"/></r></p></e>
+    <e><p><l>mouth<s n="vblex"/></l><r>mooth<s n="vblex"/></r></p></e>
+    <e><p><l>move<s n="vblex"/></l><r>move<s n="vblex"/></r></p></e>
+    <e><p><l>dirty<s n="vblex"/></l><r>muck<s n="vblex"/></r></p></e>
+    <e><p><l>foul<s n="vblex"/></l><r>muck<s n="vblex"/></r></p></e>
+    <e><p><l>move<s n="vblex"/></l><r>muive<s n="vblex"/></r></p></e>
+    <e><p><l>murder<s n="vblex"/></l><r>murder<s n="vblex"/></r></p></e>
+    <e><p><l>murder<s n="vblex"/></l><r>murther<s n="vblex"/></r></p></e>
+    <e><p><l>remember<s n="vblex"/></l><r>mynd<s n="vblex"/></r></p></e>
+    <e><p><l>name<s n="vblex"/></l><r>name<s n="vblex"/></r></p></e>
+    <e><p><l>nieighbour<s n="vblex"/></l><r>neebour<s n="vblex"/></r></p></e>
+    <e><p><l>need<s n="vblex"/></l><r>need<s n="vblex"/></r></p></e>
+    <e><p><l>note<s n="vblex"/></l><r>note<s n="vblex"/></r></p></e>
+    <e><p><l>carry<s n="vblex"/></l><r>oxter<s n="vblex"/></r></p></e>
+    <e><p><l>lead<s n="vblex"/></l><r>oxter<s n="vblex"/></r></p></e>
+    <e><p><l>part<s n="vblex"/></l><r>pairt<s n="vblex"/></r></p></e>
+    <e><p><l>pass<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>
+    <e><p><l>shuffle<s n="vblex"/></l><r>pauchle<s n="vblex"/></r></p></e>
+    <e><p><l>pant<s n="vblex"/></l><r>pech<s n="vblex"/></r></p></e>
+    <e><p><l>pay<s n="vblex"/></l><r>pey<s n="vblex"/></r></p></e>
+    <e><p><l>pick<s n="vblex"/></l><r>pick<s n="vblex"/></r></p></e>
+    <e><p><l>urinate<s n="vblex"/></l><r>pish<s n="vblex"/></r></p></e>
+    <e><p><l>piss<s n="vblex"/></l><r>pish<s n="vblex"/></r></p></e>
+    <e><p><l>pissed<s n="vblex"/></l><r>pished<s n="vblex"/></r></p></e>
+    <e><p><l>pisses<s n="vblex"/></l><r>pishes<s n="vblex"/></r></p></e>
+    <e><p><l>pissing<s n="vblex"/></l><r>pishin<s n="vblex"/></r></p></e>
+    <e><p><l>play<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
+    <e><p><l>complain<s n="vblex"/></l><r>pleen<s n="vblex"/></r></p></e>
+    <e><p><l>plough<s n="vblex"/></l><r>pleuch<s n="vblex"/></r></p></e>
+    <e><p><l>pocket<s n="vblex"/></l><r>pootch<s n="vblex"/></r></p></e>
+    <e><p><l>post<s n="vblex"/></l><r>post<s n="vblex"/></r></p></e>
+    <e><p><l>pull<s n="vblex"/></l><r>pou<s n="vblex"/></r></p></e>
+    <e><p><l>present<s n="vblex"/></l><r>praisent<s n="vblex"/></r></p></e>
+    <e><p><l>proceed<s n="vblex"/></l><r>process<s n="vblex"/></r></p></e>
+    <e><p><l>proclaim<s n="vblex"/></l><r>proclaim<s n="vblex"/></r></p></e>
+    <e><p><l>pronounce<s n="vblex"/></l><r>pronoonce<s n="vblex"/></r></p></e>
+    <e><p><l>raise<s n="vblex"/></l><r>raise<s n="vblex"/></r></p></e>
+    <e><p><l>search<s n="vblex"/></l><r>rake<s n="vblex"/></r></p></e>
+    <e><p><l>stretch<s n="vblex"/></l><r>rax<s n="vblex"/></r></p></e>
+    <e><p><l>smoke<s n="vblex"/></l><r>reek<s n="vblex"/></r></p></e>
+    <e><p><l>emit smoke<s n="vblex"/></l><r>reek<s n="vblex"/></r></p></e>
+    <e><p><l>smoking<s n="vblex"/></l><r>reekin<s n="vblex"/></r></p></e>
+    <e><p><l>redden<s n="vblex"/></l><r>reid<s n="vblex"/></r></p></e>
+    <e><p><l>relate<s n="vblex"/></l><r>relate<s n="vblex"/></r></p></e>
+    <e><p><l>resign<s n="vblex"/></l><r>resign<s n="vblex"/></r></p></e>
+    <e><p><l>respect<s n="vblex"/></l><r>respeck<s n="vblex"/></r></p></e>
+    <e><p><l>respect<s n="vblex"/></l><r>respect<s n="vblex"/></r></p></e>
+    <e><p><l>retreat<s n="vblex"/></l><r>retreat<s n="vblex"/></r></p></e>
+    <e><p><l>right<s n="vblex"/></l><r>richt<s n="vblex"/></r></p></e>
+    <e><p><l>ring<s n="vblex"/></l><r>ring<s n="vblex"/></r></p></e>
+    <e><p><l>tear<s n="vblex"/></l><r>rive<s n="vblex"/></r></p></e>
+    <e><p><l>rule<s n="vblex"/></l><r>rule<s n="vblex"/></r></p></e>
+    <e><p><l>sail<s n="vblex"/></l><r>sail<s n="vblex"/></r></p></e>
+    <e><p><l>bless<s n="vblex"/></l><r>sain<s n="vblex"/></r></p></e>
+    <e><p><l>consecrate<s n="vblex"/></l><r>sain<s n="vblex"/></r></p></e>
+    <e><p><l>genuflect<s n="vblex"/></l><r>sain<s n="vblex"/></r></p></e>
+    <e><p><l>clothe<s n="vblex"/></l><r>sark<s n="vblex"/></r></p></e>
+    <e><p><l>cover<s n="vblex"/></l><r>sark<s n="vblex"/></r></p></e>
+    <e><p><l>scoff<s n="vblex"/></l><r>scoff<s n="vblex"/></r></p></e>
+    <e><p><l>scoff<s n="vblex"/></l><r>scowf<s n="vblex"/></r></p></e>
+    <e><p><l>slide<s n="vblex"/></l><r>scud<s n="vblex"/></r></p></e>
+    <e><p><l>select<s n="vblex"/></l><r>select<s n="vblex"/></r></p></e>
+    <e><p><l>sharpen<s n="vblex"/></l><r>shairp<s n="vblex"/></r></p></e>
+    <e><p><l>shake<s n="vblex"/></l><r>shak<s n="vblex"/></r></p></e>
+    <e><p><l>shine<s n="vblex"/></l><r>sheen<s n="vblex"/></r></p></e>
+    <e><p><l>shoot<s n="vblex"/></l><r>shuit<s n="vblex"/></r></p></e>
+    <e><p><l>arrange<s n="vblex"/></l><r>side<s n="vblex"/></r></p></e>
+    <e><p><l>summer<s n="vblex"/></l><r>simmer<s n="vblex"/></r></p></e>
+    <e><p><l>separate<s n="vblex"/></l><r>sinder<s n="vblex"/></r></p></e>
+    <e><p><l>sing<s n="vblex"/></l><r>sing<s n="vblex"/></r></p></e>
+    <e><p><l>harm<s n="vblex"/></l><r>skaithe<s n="vblex"/></r></p></e>
+    <e><p><l>smack<s n="vblex"/></l><r>skelp<s n="vblex"/></r></p></e>
+    <e><p><l>sparkle<s n="vblex"/></l><r>skinkle<s n="vblex"/></r></p></e>
+    <e><p><l>make a shrill sound<s n="vblex"/></l><r>skirl<s n="vblex"/></r></p></e>
+    <e><p><l>scream<s n="vblex"/></l><r>skirl<s n="vblex"/></r></p></e>
+    <e><p><l>shriek<s n="vblex"/></l><r>skirl<s n="vblex"/></r></p></e>
+    <e><p><l>laugh<s n="vblex"/></l><r>skirl<s n="vblex"/></r></p></e>
+    <e><p><l>slip<s n="vblex"/></l><r>skite<s n="vblex"/></r></p></e>
+    <e><p><l>salivate<s n="vblex"/></l><r>slabber<s n="vblex"/></r></p></e>
+    <e><p><l>talk nonsense<s n="vblex"/></l><r>slaver<s n="vblex"/></r></p></e>
+    <e><p><l>sleek<s n="vblex"/></l><r>sleek<s n="vblex"/></r></p></e>
+    <e><p><l>sleeking<s n="vblex"/></l><r>sleekin<s n="vblex"/></r></p></e>
+    <e><p><l>sleeked<s n="vblex"/></l><r>sleekit<s n="vblex"/></r></p></e>
+    <e><p><l>sleeks<s n="vblex"/></l><r>sleeks<s n="vblex"/></r></p></e>
+    <e><p><l>slight<s n="vblex"/></l><r>slicht<s n="vblex"/></r></p></e>
+    <e><p><l>smash<s n="vblex"/></l><r>smash<s n="vblex"/></r></p></e>
+    <e><p><l>snap<s n="vblex"/></l><r>snash<s n="vblex"/></r></p></e>
+    <e><p><l>snow<s n="vblex"/></l><r>snaw<s n="vblex"/></r></p></e>
+    <e><p><l>latch<s n="vblex"/></l><r>sneck<s n="vblex"/></r></p></e>
+    <e><p><l>fasten<s n="vblex"/></l><r>sneck<s n="vblex"/></r></p></e>
+    <e><p><l>shut<s n="vblex"/></l><r>sneck<s n="vblex"/></r></p></e>
+    <e><p><l>latch<s n="vblex"/></l><r>snek<s n="vblex"/></r></p></e>
+    <e><p><l>fasten<s n="vblex"/></l><r>snek<s n="vblex"/></r></p></e>
+    <e><p><l>shut<s n="vblex"/></l><r>snek<s n="vblex"/></r></p></e>
+    <e><p><l>twist<s n="vblex"/></l><r>snoove<s n="vblex"/></r></p></e>
+    <e><p><l>twist<s n="vblex"/></l><r>snuve<s n="vblex"/></r></p></e>
+    <e><p><l>suck<s n="vblex"/></l><r>sook<s n="vblex"/></r></p></e>
+    <e><p><l>sound<s n="vblex"/></l><r>soond<s n="vblex"/></r></p></e>
+    <e><p><l>sort<s n="vblex"/></l><r>sort<s n="vblex"/></r></p></e>
+    <e><p><l>suck<s n="vblex"/></l><r>souk<s n="vblex"/></r></p></e>
+    <e><p><l>ask<s n="vblex"/></l><r>speir<s n="vblex"/></r></p></e>
+    <e><p><l>start<s n="vblex"/></l><r>stairt<s n="vblex"/></r></p></e>
+    <e><p><l>stone<s n="vblex"/></l><r>stane<s n="vblex"/></r></p></e>
+    <e><p><l>step<s n="vblex"/></l><r>stap<s n="vblex"/></r></p></e>
+    <e><p><l>stop<s n="vblex"/></l><r>stap<s n="vblex"/></r></p></e>
+    <e><p><l>stall<s n="vblex"/></l><r>staw<s n="vblex"/></r></p></e>
+    <e><p><l>place<s n="vblex"/></l><r>steid<s n="vblex"/></r></p></e>
+    <e><p><l>start<s n="vblex"/></l><r>stert<s n="vblex"/></r></p></e>
+    <e><p><l>stay<s n="vblex"/></l><r>stey<s n="vblex"/></r></p></e>
+    <e><p><l>stun<s n="vblex"/></l><r>stoond<s n="vblex"/></r></p></e>
+    <e><p><l>throb<s n="vblex"/></l><r>stoond<s n="vblex"/></r></p></e>
+    <e><p><l>bounce<s n="vblex"/></l><r>stot<s n="vblex"/></r></p></e>
+    <e><p><l>rebound<s n="vblex"/></l><r>stot<s n="vblex"/></r></p></e>
+    <e><p><l>ricochet<s n="vblex"/></l><r>stot<s n="vblex"/></r></p></e>
+    <e><p><l>straighten<s n="vblex"/></l><r>straucht<s n="vblex"/></r></p></e>
+    <e><p><l>wander<s n="vblex"/></l><r>stravaig<s n="vblex"/></r></p></e>
+    <e><p><l>marvel<s n="vblex"/></l><r>streenge<s n="vblex"/></r></p></e>
+    <e><p><l>structure<s n="vblex"/></l><r>structur<s n="vblex"/></r></p></e>
+    <e><p><l>swallow<s n="vblex"/></l><r>swallae<s n="vblex"/></r></p></e>
+    <e><p><l>cheat<s n="vblex"/></l><r>swick<s n="vblex"/></r></p></e>
+    <e><p><l>annoy<s n="vblex"/></l><r>taiver<s n="vblex"/></r></p></e>
+    <e><p><l>talk<s n="vblex"/></l><r>talk<s n="vblex"/></r></p></e>
+    <e><p><l>borrow<s n="vblex"/></l><r>tap<s n="vblex"/></r></p></e>
+    <e><p><l>pay attention<s n="vblex"/></l><r>tent<s n="vblex"/></r></p></e>
+    <e><p><l>thank<s n="vblex"/></l><r>thank<s n="vblex"/></r></p></e>
+    <e><p><l>suffer<s n="vblex"/></l><r>thole<s n="vblex"/></r></p></e>
+    <e><p><l>tolerate<s n="vblex"/></l><r>thole<s n="vblex"/></r></p></e>
+    <e><p><l>stand<s n="vblex"/></l><r>thole<s n="vblex"/></r></p></e>
+    <e><p><l>argue<s n="vblex"/></l><r>threap<s n="vblex"/></r></p></e>
+    <e><p><l>thread<s n="vblex"/></l><r>threid<s n="vblex"/></r></p></e>
+    <e><p><l>argue<s n="vblex"/></l><r>threip<s n="vblex"/></r></p></e>
+    <e><p><l>threaten<s n="vblex"/></l><r>threiten<s n="vblex"/></r></p></e>
+    <e><p><l>tighten<s n="vblex"/></l><r>tichten<s n="vblex"/></r></p></e>
+    <e><p><l>tire<s n="vblex"/></l><r>tire<s n="vblex"/></r></p></e>
+    <e><p><l>touch<s n="vblex"/></l><r>titch<s n="vblex"/></r></p></e>
+    <e><p><l>travel<s n="vblex"/></l><r>traivel<s n="vblex"/></r></p></e>
+    <e><p><l>treat<s n="vblex"/></l><r>treat<s n="vblex"/></r></p></e>
+    <e><p><l>tremble<s n="vblex"/></l><r>tremmle<s n="vblex"/></r></p></e>
+    <e><p><l>trick<s n="vblex"/></l><r>trick<s n="vblex"/></r></p></e>
+    <e><p><l>try<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
+    <e><p><l>turn<s n="vblex"/></l><r>turn<s n="vblex"/></r></p></e>
+    <e><p><l>use<s n="vblex"/></l><r>uise<s n="vblex"/></r></p></e>
+    <e><p><l>visit<s n="vblex"/></l><r>veesit<s n="vblex"/></r></p></e>
+    <e><p><l>vote<s n="vblex"/></l><r>vote<s n="vblex"/></r></p></e>
+    <e><p><l>wash<s n="vblex"/></l><r>waash<s n="vblex"/></r></p></e>
+    <e><p><l>weaken<s n="vblex"/></l><r>waiken<s n="vblex"/></r></p></e>
+    <e><p><l>warn<s n="vblex"/></l><r>wairn<s n="vblex"/></r></p></e>
+    <e><p><l>wait<s n="vblex"/></l><r>wait<s n="vblex"/></r></p></e>
+    <e><p><l>choose<s n="vblex"/></l><r>wale<s n="vblex"/></r></p></e>
+    <e><p><l>chose<s n="vblex"/></l><r>waled<s n="vblex"/></r></p></e>
+    <e><p><l>chosen<s n="vblex"/></l><r>waled<s n="vblex"/></r></p></e>
+    <e><p><l>chooses<s n="vblex"/></l><r>wales<s n="vblex"/></r></p></e>
+    <e><p><l>walk<s n="vblex"/></l><r>walk<s n="vblex"/></r></p></e>
+    <e><p><l>want<s n="vblex"/></l><r>want<s n="vblex"/></r></p></e>
+    <e><p><l>wake<s n="vblex"/></l><r>wauk<s n="vblex"/></r></p></e>
+    <e><p><l>wake up<s n="vblex"/></l><r>wauken<s n="vblex"/></r></p></e>
+    <e><p><l>wet<s n="vblex"/></l><r>weet<s n="vblex"/></r></p></e>
+    <e><p><l>ordain<s n="vblex"/></l><r>weird<s n="vblex"/></r></p></e>
+    <e><p><l>destine<s n="vblex"/></l><r>weird<s n="vblex"/></r></p></e>
+    <e><p><l>allot<s n="vblex"/></l><r>weird<s n="vblex"/></r></p></e>
+    <e><p><l>imprecate<s n="vblex"/></l><r>weird<s n="vblex"/></r></p></e>
+    <e><p><l>invoke<s n="vblex"/></l><r>weird<s n="vblex"/></r></p></e>
+    <e><p><l>prophecy<s n="vblex"/></l><r>weird<s n="vblex"/></r></p></e>
+    <e><p><l>prognosticate<s n="vblex"/></l><r>weird<s n="vblex"/></r></p></e>
+    <e><p><l>warn<s n="vblex"/></l><r>weird<s n="vblex"/></r></p></e>
+    <e><p><l>whisk<s n="vblex"/></l><r>wheech<s n="vblex"/></r></p></e>
+    <e><p><l>silence<s n="vblex"/></l><r>wheesht<s n="vblex"/></r></p></e>
+    <e><p><l>quieten<s n="vblex"/></l><r>wheesht<s n="vblex"/></r></p></e>
+    <e><p><l>whistle<s n="vblex"/></l><r>whistle<s n="vblex"/></r></p></e>
+    <e><p><l>whiten<s n="vblex"/></l><r>white<s n="vblex"/></r></p></e>
+    <e><p><l>whistle<s n="vblex"/></l><r>whustle<s n="vblex"/></r></p></e>
+    <e><p><l>control<s n="vblex"/></l><r>wield<s n="vblex"/></r></p></e>
+    <e><p><l>guide<s n="vblex"/></l><r>wield<s n="vblex"/></r></p></e>
+    <e><p><l>manage<s n="vblex"/></l><r>wield<s n="vblex"/></r></p></e>
+    <e><p><l>want<s n="vblex"/></l><r>wint<s n="vblex"/></r></p></e>
+    <e><p><l>blame<s n="vblex"/></l><r>wite<s n="vblex"/></r></p></e>
+    <e><p><l>wrong<s n="vblex"/></l><r>wrang<s n="vblex"/></r></p></e>
+    <e><p><l>wonder<s n="vblex"/></l><r>wunner<s n="vblex"/></r></p></e>
+    <e><p><l>blame<s n="vblex"/></l><r>wyte<s n="vblex"/></r></p></e>
+    <e><p><l>use<s n="vblex"/></l><r>yaise<s n="vblex"/></r></p></e>
+    <e><p><l>lament<s n="vblex"/></l><r>yammer<s n="vblex"/></r></p></e>
+    <e><p><l>yearn<s n="vblex"/></l><r>yammer<s n="vblex"/></r></p></e>
+    <e><p><l>yellow<s n="vblex"/></l><r>yella<s n="vblex"/></r></p></e>
+    <e><p><l>yellow<s n="vblex"/></l><r>yellae<s n="vblex"/></r></p></e>
 
+        <!-- MODAL/AUX VERBS -->
 
     <e><p><l>have<s n="vbhaver"/></l><r>hae<s n="vbhaver"/></r></p></e>
     <e><p><l>be<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
