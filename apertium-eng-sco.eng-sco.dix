@@ -246,12 +246,32 @@
     <e><p><l>hit<s n="vblex"/></l><r>dunch<s n="vblex"/></r></p></e>
     <e><p><l>eat<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>fall<s n="vblex"/></l><r>faw<s n="vblex"/></r></p></e>
+    <e><p><l>feel<s n="vblex"/></l><r>feel<s n="vblex"/></r></p></e>
+    <e><p><l>find<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
+    <e><p><l>fling<s n="vblex"/></l><r>fling<s n="vblex"/></r></p></e>
+    <e><p><l>go<s n="vblex"/></l><r>gae<s n="vblex"/></r></p></e>
+    <e><p><l>go<s n="vblex"/></l><r>gan<s n="vblex"/></r></p></e>
+    <e><p><l>go<s n="vblex"/></l><r>gang<s n="vblex"/></r></p></e>
+    <e><p><l>compel<s n="vblex"/></l><r>gar<s n="vblex"/></r></p></e>
+    <e><p><l>get<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
+    <e><p><l>get<s n="vblex"/></l><r>git<s n="vblex"/></r></p></e>
+    <e><p><l>cry<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
+    <e><p><l>lament<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
+    <e><p><l>weep<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
+    <e><p><l>go<s n="vblex"/></l><r>gyang<s n="vblex"/></r></p></e>
+    <e><p><l>cover<s n="vblex"/></l><r>hap<s n="vblex"/></r></p></e>
+    <e><p><l>hear<s n="vblex"/></l><r>hear<s n="vblex"/></r></p></e>
+    <e><p><l>let<s n="vblex"/></l><r>lat<s n="vblex"/></r></p></e>
+    <e><p><l>leave<s n="vblex"/></l><r>lea<s n="vblex"/></r></p></e>
+    <e><p><l>let<s n="vblex"/></l><r>let<s n="vblex"/></r></p></e>
+    <e><p><l>lie<s n="vblex"/></l><r>lie<s n="vblex"/></r></p></e>
+    <e><p><l>lose<s n="vblex"/></l><r>loss<s n="vblex"/></r></p></e>
+    <e><p><l>make<s n="vblex"/></l><r>mak<s n="vblex"/></r></p></e>
 
 
-        <!-- OLD REGULAR VERBS - MERGE -->  
+        <!-- OLD VERBS - MERGE -->  
     <e><p><l>bury<s n="vblex"/></l><r>bury<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>bury<s n="vblex"/></l><r>bery<s n="vblex"/></r></p></e>
-    <e><p><l>go<s n="vblex"/></l><r>gang<s n="vblex"/></r></p></e>
     <e><p><l>bow<s n="vblex"/></l><r>boo<s n="vblex"/></r></p></e>
     <e><p><l>blather<s n="vblex"/></l><r>blether<s n="vblex"/></r></p></e>
     <e><p><l>know<s n="vblex"/></l><r>ken<s n="vblex"/></r></p></e>
@@ -421,6 +441,10 @@
     <e><p><l>ground<s n="vblex"/></l><r>grund<s n="vblex"/></r></p></e>
     <e><p><l>guard<s n="vblex"/></l><r>guaird<s n="vblex"/></r></p></e>
     <e><p><l>beat<s n="vblex"/></l><r>gub<s n="vblex"/></r></p></e>
+    <e><p><l>fish<s n="vblex"/></l><r>guddle<s n="vblex"/></r></p></e>
+    <e><p><l>dabble<s n="vblex"/></l><r>guddle<s n="vblex"/></r></p></e>
+    <e><p><l>play<s n="vblex"/></l><r>guddle<s n="vblex"/></r></p></e>
+    <e><p><l>work<s n="vblex"/></l><r>guddle<s n="vblex"/></r></p></e>
     <e><p><l>trick-or-treat<s n="vblex"/></l><r>guise<s n="vblex"/></r></p></e>
     <e><p><l>have<s n="vblex"/></l><r>hae<s n="vblex"/></r></p></e>
     <e><p><l>hoard<s n="vblex"/></l><r>hain<s n="vblex"/></r></p></e>
