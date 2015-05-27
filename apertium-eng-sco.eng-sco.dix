@@ -243,7 +243,6 @@
     <e><p><l>strike<s n="vblex"/></l><r>ding<s n="vblex"/></r></p></e>
     <e><p><l>vibrate<s n="vblex"/></l><r>dinnle<s n="vblex"/></r></p></e>
     <e><p><l>dive<s n="vblex"/></l><r>dive<s n="vblex"/></r></p></e>
-    <e><p><l>hit<s n="vblex"/></l><r>dunch<s n="vblex"/></r></p></e>
     <e><p><l>eat<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>fall<s n="vblex"/></l><r>faw<s n="vblex"/></r></p></e>
     <e><p><l>feel<s n="vblex"/></l><r>feel<s n="vblex"/></r></p></e>
@@ -267,6 +266,14 @@
     <e><p><l>lie<s n="vblex"/></l><r>lie<s n="vblex"/></r></p></e>
     <e><p><l>lose<s n="vblex"/></l><r>loss<s n="vblex"/></r></p></e>
     <e><p><l>make<s n="vblex"/></l><r>mak<s n="vblex"/></r></p></e>
+    <e><p><l>meet<s n="vblex"/></l><r>meet<s n="vblex"/></r></p></e>
+    <e><p><l>translate<s n="vblex"/></l><r>owerset<s n="vblex"/></r></p></e>
+    <e><p><l>party<s n="vblex"/></l><r>pairty<s n="vblex"/></r></p></e>
+    <e><p><l>take sides<s n="vblex"/></l><r>pairty<s n="vblex"/></r></p></e>
+    <e><p><l>put<s n="vblex"/></l><r>pit<s n="vblex"/></r></p></e>
+    <e><p><l>read<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
+    <e><p><l>tidy<s n="vblex"/></l><r>redd<s n="vblex"/></r></p></e>
+    <e><p><l>prepare<s n="vblex"/></l><r>redd<s n="vblex"/></r></p></e>
 
 
         <!-- OLD VERBS - MERGE -->  
@@ -394,6 +401,7 @@
     <e><p><l>undergo<s n="vblex"/></l><r>dree<s n="vblex"/></r></p></e>
     <e><p><l>drip<s n="vblex"/></l><r>dreep<s n="vblex"/></r></p></e>
     <e><p><l>drown<s n="vblex"/></l><r>droun<s n="vblex"/></r></p></e>
+    <e><p><l>hit<s n="vblex"/></l><r>dunch<s n="vblex"/></r></p></e>
     <e><p><l>add<s n="vblex"/></l><r>eik<s n="vblex"/></r></p></e>
     <e><p><l>added<s n="vblex"/></l><r>eikit<s n="vblex"/></r></p></e>
     <e><p><l>elect<s n="vblex"/></l><r>elect<s n="vblex"/></r></p></e>
@@ -559,6 +567,7 @@
     <e><p><l>play<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
     <e><p><l>complain<s n="vblex"/></l><r>pleen<s n="vblex"/></r></p></e>
     <e><p><l>plough<s n="vblex"/></l><r>pleuch<s n="vblex"/></r></p></e>
+    <e><p><l>polish<s n="vblex"/></l><r>polis<s n="vblex"/></r></p></e>
     <e><p><l>pocket<s n="vblex"/></l><r>pootch<s n="vblex"/></r></p></e>
     <e><p><l>post<s n="vblex"/></l><r>post<s n="vblex"/></r></p></e>
     <e><p><l>pull<s n="vblex"/></l><r>pou<s n="vblex"/></r></p></e>
@@ -566,6 +575,7 @@
     <e><p><l>proceed<s n="vblex"/></l><r>process<s n="vblex"/></r></p></e>
     <e><p><l>proclaim<s n="vblex"/></l><r>proclaim<s n="vblex"/></r></p></e>
     <e><p><l>pronounce<s n="vblex"/></l><r>pronoonce<s n="vblex"/></r></p></e>
+    <e><p><l>pain<s n="vblex"/></l><r>pyne<s n="vblex"/></r></p></e>
     <e><p><l>raise<s n="vblex"/></l><r>raise<s n="vblex"/></r></p></e>
     <e><p><l>search<s n="vblex"/></l><r>rake<s n="vblex"/></r></p></e>
     <e><p><l>stretch<s n="vblex"/></l><r>rax<s n="vblex"/></r></p></e>
@@ -753,8 +763,7 @@
     <e><p><l>Russia<s n="np"/></l><r>Roushie<s n="np"/></r></p></e>
 
 
-    <!-- NEW WORDS! 
-    -->
+    <!-- NEW NOUNS! -->
     <e><p><l>account<s n="n"/></l><r>accoont<s n="n"/></r></p></e>
     <e><p><l>accountant<s n="n"/></l><r>accoontant<s n="n"/></r></p></e>
     <e><p><l>address<s n="n"/></l><r>address<s n="n"/></r></p></e>
