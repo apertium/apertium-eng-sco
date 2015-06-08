@@ -232,6 +232,22 @@
 
         <!-- NEW  IRREGULAR VERBS -->
 
+    <e><p><l>owe<s n="vblex"/></l><r>awe<s n="vblex"/></r></p></e>
+    <e><p><l>bear<s n="vblex"/></l><r>beir<s n="vblex"/></r></p></e>
+    <e><p><l>live<s n="vblex"/></l><r>bide<s n="vblex"/></r></p></e>
+    <e><p><l>reside<s n="vblex"/></l><r>bide<s n="vblex"/></r></p></e>
+    <e><p><l>bind<s n="vblex"/></l><r>bind<s n="vblex"/></r></p></e>
+    <e><p><l>bite<s n="vblex"/></l><r>bite<s n="vblex"/></r></p></e>
+    <e><p><l>blow<s n="vblex"/></l><r>blaw<s n="vblex"/></r></p></e>
+    <e><p><l>break<s n="vblex"/></l><r>brak<s n="vblex"/></r></p></e>
+    <e><p><l>break<s n="vblex"/></l><r>brek<s n="vblex"/></r></p></e>
+    <e><p><l>bring<s n="vblex"/></l><r>bring<s n="vblex"/></r></p></e>
+    <e><p><l>burst<s n="vblex"/></l><r>burst<s n="vblex"/></r></p></e>
+    <e><p><l>bury<s n="vblex"/></l><r>bury<s n="vblex"/></r></p></e>
+    <e><p><l>buy<s n="vblex"/></l><r>buy<s n="vblex"/></r></p></e>
+    <e><p><l>boil<s n="vblex"/></l><r>byle<s n="vblex"/></r></p></e>
+    <e><p><l>chew<s n="vblex"/></l><r>chaw<s n="vblex"/></r></p></e>
+    <e><p><l>choose<s n="vblex"/></l><r>chuise<s n="vblex"/></r></p></e>
     <e><p><l>come<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>stoop<s n="vblex"/></l><r>coorie<s n="vblex"/></r></p></e>
     <e><p><l>embrace<s n="vblex"/></l><r>coorie<s n="vblex"/></r></p></e>
@@ -259,6 +275,7 @@
     <e><p><l>weep<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
     <e><p><l>go<s n="vblex"/></l><r>gyang<s n="vblex"/></r></p></e>
     <e><p><l>cover<s n="vblex"/></l><r>hap<s n="vblex"/></r></p></e>
+    <e><p><l>hold<s n="vblex"/></l><r>haud<s n="vblex"/></r></p></e>
     <e><p><l>hear<s n="vblex"/></l><r>hear<s n="vblex"/></r></p></e>
     <e><p><l>let<s n="vblex"/></l><r>lat<s n="vblex"/></r></p></e>
     <e><p><l>leave<s n="vblex"/></l><r>lea<s n="vblex"/></r></p></e>
@@ -274,10 +291,38 @@
     <e><p><l>read<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
     <e><p><l>tidy<s n="vblex"/></l><r>redd<s n="vblex"/></r></p></e>
     <e><p><l>prepare<s n="vblex"/></l><r>redd<s n="vblex"/></r></p></e>
+    <e><p><l>run<s n="vblex"/></l><r>rin<s n="vblex"/></r></p></e>
+    <e><p><l>rise<s n="vblex"/></l><r>rise<s n="vblex"/></r></p></e>
+    <e><p><l>run<s n="vblex"/></l><r>run<s n="vblex"/></r></p></e>
+    <e><p><l>send<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
+    <e><p><l>speak<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
+    <e><p><l>speak<s n="vblex"/></l><r>speik<s n="vblex"/></r></p></e>
+    <e><p><l>spit<s n="vblex"/></l><r>spit<s n="vblex"/></r></p></e>
+    <e><p><l>stand<s n="vblex"/></l><r>staun<s n="vblex"/></r></p></e>
+    <e><p><l>stand<s n="vblex"/></l><r>staund<s n="vblex"/></r></p></e>
+    <e><p><l>take<s n="vblex"/></l><r>tak<s n="vblex"/></r></p></e>
+    <e><p><l>tell<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e>
+    <e><p><l>think<s n="vblex"/></l><r>think<s n="vblex"/></r></p></e>
+    <e><p><l>throw<s n="vblex"/></l><r>thraw<s n="vblex"/></r></p></e>
+    <e><p><l>defy<s n="vblex"/></l><r>thraw<s n="vblex"/></r></p></e>
+    <e><p><l>lose<s n="vblex"/></l><r>tyne<s n="vblex"/></r></p></e>
+    <e><p><l>undo<s n="vblex"/></l><r>undae<s n="vblex"/></r></p></e>
+    <e><p><l>understand<s n="vblex"/></l><r>unnerstaun<s n="vblex"/></r></p></e>
+    <e><p><l>understand<s n="vblex"/></l><r>unnerstaund<s n="vblex"/></r></p></e>
+    <e><p><l>uphold<s n="vblex"/></l><r>uphaud<s n="vblex"/></r></p></e>
+    <e><p><l>work<s n="vblex"/></l><r>wark<s n="vblex"/></r></p></e>
+    <e><p><l>win<s n="vblex"/></l><r>win<s n="vblex"/></r></p></e>
+    <e><p><l>beat<s n="vblex"/></l><r>win<s n="vblex"/></r></p></e>
+    <e><p><l>earn<s n="vblex"/></l><r>win<s n="vblex"/></r></p></e>
+    <e><p><l>arrive<s n="vblex"/></l><r>win<s n="vblex"/></r></p></e>
+    <e><p><l>win<s n="vblex"/></l><r>win<s n="vblex"/></r></p></e>
+    <e><p><l>write<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
+
+
 
 
         <!-- OLD VERBS - MERGE -->  
-    <e><p><l>bury<s n="vblex"/></l><r>bury<s n="vblex"/></r></p></e>
+
     <e r="RL"><p><l>bury<s n="vblex"/></l><r>bery<s n="vblex"/></r></p></e>
     <e><p><l>bow<s n="vblex"/></l><r>boo<s n="vblex"/></r></p></e>
     <e><p><l>blather<s n="vblex"/></l><r>blether<s n="vblex"/></r></p></e>
@@ -604,6 +649,7 @@
     <e><p><l>select<s n="vblex"/></l><r>select<s n="vblex"/></r></p></e>
     <e><p><l>sharpen<s n="vblex"/></l><r>shairp<s n="vblex"/></r></p></e>
     <e><p><l>shake<s n="vblex"/></l><r>shak<s n="vblex"/></r></p></e>
+    <e><p><l>show<s n="vblex"/></l><r>shaw<s n="vblex"/></r></p></e>
     <e><p><l>shine<s n="vblex"/></l><r>sheen<s n="vblex"/></r></p></e>
     <e><p><l>shoot<s n="vblex"/></l><r>shuit<s n="vblex"/></r></p></e>
     <e><p><l>arrange<s n="vblex"/></l><r>side<s n="vblex"/></r></p></e>
@@ -646,6 +692,7 @@
     <e><p><l>step<s n="vblex"/></l><r>stap<s n="vblex"/></r></p></e>
     <e><p><l>stop<s n="vblex"/></l><r>stap<s n="vblex"/></r></p></e>
     <e><p><l>stall<s n="vblex"/></l><r>staw<s n="vblex"/></r></p></e>
+    <e><p><l>steer<s n="vblex"/></l><r>steer<s n="vblex"/></r></p></e>
     <e><p><l>place<s n="vblex"/></l><r>steid<s n="vblex"/></r></p></e>
     <e><p><l>start<s n="vblex"/></l><r>stert<s n="vblex"/></r></p></e>
     <e><p><l>stay<s n="vblex"/></l><r>stey<s n="vblex"/></r></p></e>
@@ -660,9 +707,12 @@
     <e><p><l>structure<s n="vblex"/></l><r>structur<s n="vblex"/></r></p></e>
     <e><p><l>swallow<s n="vblex"/></l><r>swallae<s n="vblex"/></r></p></e>
     <e><p><l>cheat<s n="vblex"/></l><r>swick<s n="vblex"/></r></p></e>
+    <e><p><l>swither<s n="vblex"/></l><r>swither<s n="vblex"/></r></p></e>
+    <e><p><l>dither<s n="vblex"/></l><r>swither<s n="vblex"/></r></p></e>
     <e><p><l>annoy<s n="vblex"/></l><r>taiver<s n="vblex"/></r></p></e>
     <e><p><l>talk<s n="vblex"/></l><r>talk<s n="vblex"/></r></p></e>
     <e><p><l>borrow<s n="vblex"/></l><r>tap<s n="vblex"/></r></p></e>
+    <e><p><l>teach<s n="vblex"/></l><r>teach<s n="vblex"/></r></p></e>
     <e><p><l>pay attention<s n="vblex"/></l><r>tent<s n="vblex"/></r></p></e>
     <e><p><l>thank<s n="vblex"/></l><r>thank<s n="vblex"/></r></p></e>
     <e><p><l>suffer<s n="vblex"/></l><r>thole<s n="vblex"/></r></p></e>
@@ -761,6 +811,8 @@
     <e><p><l>Irish<b/>Sea<s n="np"/></l><r>Erse<b/>Sea<s n="np"/></r></p></e>
     <e><p><l>Westminster<s n="np"/></l><r>Wastmeenster<s n="np"/></r></p></e>
     <e><p><l>Russia<s n="np"/></l><r>Roushie<s n="np"/></r></p></e>
+
+
 
 
     <!-- NEW NOUNS! -->
