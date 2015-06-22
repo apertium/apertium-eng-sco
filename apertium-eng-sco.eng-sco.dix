@@ -209,9 +209,15 @@
     <e><p><l>for<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>since<s n="pr"/></l><r>syne<s n="pr"/></r></p></e>
 
+    <!-- Adjectives -->
+
+
     <e><p><l>bright<s n="adj"/><s n="sint"/></l><r>bricht<s n="adj"/></r></p></e>
     <e><p><l>poor<s n="adj"/><s n="sint"/></l><r>puir<s n="adj"/></r></p></e>
     <e><p><l>great<s n="adj"/><s n="sint"/></l><r>greet<s n="adj"/></r></p></e>
+
+    <e><p><l>all<s n="adj"/></l><r>aa<s n="adj"/></r></p></e>
+    <e><p><l>old<s n="adj"/></l><r>aald<s n="adj"/></r></p></e>
 
     <e><p><l>scientific<s n="adj"/></l><r>scienteefic<s n="adj"/></r></p></e>
     <e><p><l>natural<s n="adj"/></l><r>naitural<s n="adj"/></r></p></e>
