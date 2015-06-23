@@ -209,15 +209,32 @@
     <e><p><l>for<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>since<s n="pr"/></l><r>syne<s n="pr"/></r></p></e>
 
-    <!-- Adjectives -->
 
+    <!-- Adjectives -->
 
     <e><p><l>bright<s n="adj"/><s n="sint"/></l><r>bricht<s n="adj"/></r></p></e>
     <e><p><l>poor<s n="adj"/><s n="sint"/></l><r>puir<s n="adj"/></r></p></e>
     <e><p><l>great<s n="adj"/><s n="sint"/></l><r>greet<s n="adj"/></r></p></e>
 
     <e><p><l>all<s n="adj"/></l><r>aa<s n="adj"/></r></p></e>
-    <e><p><l>old<s n="adj"/></l><r>aald<s n="adj"/></r></p></e>
+    <e><p><l>old<s n="adj"/><s n="sint"/></l><r>aald<s n="adj"/></r></p></e>
+    <e><p><l>alright<s n="adj"/></l><r>aaricht<s n="adj"/></r></p></e>
+    <e><p><l>accredited<s n="adj"/></l><r>accredited<s n="adj"/></r></p></e>
+    <e><p><l>adopted<s n="adj"/></l><r>adoptit<s n="adj"/></r></p></e>
+    <e><p><l>one<s n="adj"/></l><r>ae<s n="adj"/></r></p></e>
+    <e><p><l>only<s n="adj"/></l><r>ae<s n="adj"/></r></p></e>
+    <e><p><l>off<s n="adj"/></l><r>aff<s n="adj"/></r></p></e>
+    <e><p><l>own<s n="adj"/></l><r>ain<s n="adj"/></r></p></e>
+    <e><p><l>armed<s n="adj"/></l><r>airmed<s n="adj"/></r></p></e>
+    <e><p><l>alone<s n="adj"/></l><r>alane<s n="adj"/></r></p></e>
+    <e><p><l>although<s n="adj"/></l><r>altho<s n="adj"/></r></p></e>
+    <e><p><l>one<s n="adj"/></l><r>ane<s n="adj"/></r></p></e>
+    <e><p><l>another<s n="adj"/></l><r>anither<s n="adj"/></r></p></e>
+    <e><p><l>articicial<s n="adj"/></l><r>artifeecial<s n="adj"/></r></p></e>
+    <e><p><l>artificial<s n="adj"/></l><r>artifeecal<s n="adj"/></r></p></e>
+    <e><p><l>atween<s n="adj"/></l><r>atween<s n="adj"/></r></p></e>
+    <e><p><l>auld<s n="adj"/><s n="sint"/></l><r>auld<s n="adj"/></r></p></e>
+
 
     <e><p><l>scientific<s n="adj"/></l><r>scienteefic<s n="adj"/></r></p></e>
     <e><p><l>natural<s n="adj"/></l><r>naitural<s n="adj"/></r></p></e>
@@ -235,6 +252,7 @@
     <e><p><l>bad<s n="adj"/><s n="sint"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>straight<s n="adj"/><s n="sint"/></l><r>straucht<s n="adj"/><s n="sint"/></r></p></e>
 
+    <e><p><l>African<s n="adj"/></l><r>Africaen<s n="adj"/></r></p></e>    
 
         <!-- NEW  IRREGULAR VERBS -->
 
