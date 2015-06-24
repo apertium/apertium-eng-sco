@@ -232,9 +232,59 @@
     <e><p><l>another<s n="adj"/></l><r>anither<s n="adj"/></r></p></e>
     <e><p><l>articicial<s n="adj"/></l><r>artifeecial<s n="adj"/></r></p></e>
     <e><p><l>artificial<s n="adj"/></l><r>artifeecal<s n="adj"/></r></p></e>
-    <e><p><l>atween<s n="adj"/></l><r>atween<s n="adj"/></r></p></e>
-    <e><p><l>auld<s n="adj"/><s n="sint"/></l><r>auld<s n="adj"/></r></p></e>
-
+    <e><p><l>between<s n="adj"/></l><r>atween<s n="adj"/></r></p></e>
+    <e><p><l>old<s n="adj"/><s n="sint"/></l><r>auld<s n="adj"/></r></p></e>
+    <e><p><l>old-fashioned<s n="adj"/></l><r>auld-fashioned<s n="adj"/></r></p></e>
+    <e><p><l>ancient<s n="adj"/></l><r>auncient<s n="adj"/></r></p></e>
+    <e><p><l>all<s n="adj"/></l><r>aw<s n="adj"/></r></p></e>
+    <e><p><l>absent<s n="adj"/></l><r>awa<s n="adj"/></r></p></e>
+    <e><p><l>gone<s n="adj"/></l><r>awa<s n="adj"/></r></p></e>
+    <e><p><l>distant<s n="adj"/></l><r>awa<s n="adj"/></r></p></e>
+    <e><p><l>awful<s n="adj"/></l><r>awfie<s n="adj"/></r></p></e>
+    <e><p><l>awful<s n="adj"/></l><r>awfu<s n="adj"/></r></p></e>
+    <e><p><l>own<s n="adj"/></l><r>awn<s n="adj"/></r></p></e>
+    <e><p><l>altogether<s n="adj"/></l><r>awthegither<s n="adj"/></r></p></e>
+    <e><p><l>own<s n="adj"/></l><r>ayn<s n="adj"/></r></p></e>
+    <e><p><l>bad<s n="adj"/><s n="sint"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>childish<s n="adj"/><s n="sint"/></l><r>bairnie<s n="adj"/></r></p></e>
+    <e><p><l>both<s n="adj"/></l><r>baith<s n="adj"/></r></p></e>
+    <e><p><l>fine<s n="adj"/><s n="sint"/></l><r>barrie<s n="adj"/></r></p></e>
+    <e><p><l>excellent<s n="adj"/><s n="sint"/></l><r>barrie<s n="adj"/></r></p></e>
+    <e><p><l>fine<s n="adj"/><s n="sint"/></l><r>barry<s n="adj"/></r></p></e>
+    <e><p><l>excellent<s n="adj"/><s n="sint"/></l><r>barry<s n="adj"/></r></p></e>
+    <e><p><l>bad<s n="adj"/><s n="sint"/></l><r>baud<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>festering<s n="adj"/></l><r>bealin<s n="adj"/></r></p></e>
+    <e><p><l>tear-stained<s n="adj"/></l><r>begrutten<s n="adj"/></r></p></e>
+    <e><p><l>inner<s n="adj"/></l><r>ben<s n="adj"/></r></p></e>
+    <e><p><l>big<s n="adj"/><s n="sint"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>spirited<s n="adj"/><s n="sint"/></l><r>birkie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>energetic<s n="adj"/><s n="sint"/></l><r>birkie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>blank<s n="adj"/><s n="sint"/></l><r>blank<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>modest<s n="adj"/></l><r>blate<s n="adj"/></r></p></e>
+    <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>blythe<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>handsome<s n="adj"/><s n="sint"/></l><r>bonnie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>beautiful<s n="adj"/><s n="sint"/></l><r>bonnie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>pretty<s n="adj"/><s n="sint"/></l><r>bonnie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>graceful<s n="adj"/><s n="sint"/></l><r>bonnie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>handsome<s n="adj"/><s n="sint"/></l><r>bonny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>beautiful<s n="adj"/><s n="sint"/></l><r>bonny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>pretty<s n="adj"/><s n="sint"/></l><r>bonny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>gracefu<s n="adj"/><s n="sint"/></l><r>bonny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>elder<s n="adj"/></l><r>bour<s n="adj"/></r></p></e>
+    <e><p><l>fine<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fine<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>handsome<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>good<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>bright<s n="adj"/><s n="sint"/></l><r>bricht<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>brown<s n="adj"/><s n="sint"/></l><r>broon<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>built<s n="adj"/></l><r>built<s n="adj"/></r></p></e>    
+    <e><p><l>dressed<s n="adj"/></l><r>buskit<s n="adj"/></r></p></e>
+    <e><p><l>busy<s n="adj"/><s n="sint"/></l><r>busy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>outer<s n="adj"/></l><r>but<s n="adj"/></r></p></e>
+    <e><p><l>ordinary<s n="adj"/></l><r>byordinar<s n="adj"/></r></p></e>
+    <e><p><l>cold<s n="adj"/><s n="sint"/></l><r>caald<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fresh<s n="adj"/></l><r>caller<s n="adj"/></r></p></e>
+    <e><p><l>careful<s n="adj"/></l><r>cannei<s n="adj"/></r></p></e>
 
     <e><p><l>scientific<s n="adj"/></l><r>scienteefic<s n="adj"/></r></p></e>
     <e><p><l>natural<s n="adj"/></l><r>naitural<s n="adj"/></r></p></e>
@@ -249,7 +299,7 @@
     
     <e><p><l>nice<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>good<s n="adj"/><s n="sint"/></l><r>guid<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>bad<s n="adj"/><s n="sint"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
+
     <e><p><l>straight<s n="adj"/><s n="sint"/></l><r>straucht<s n="adj"/><s n="sint"/></r></p></e>
 
     <e><p><l>African<s n="adj"/></l><r>Africaen<s n="adj"/></r></p></e>    
