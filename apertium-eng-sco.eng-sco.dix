@@ -285,17 +285,74 @@
     <e><p><l>cold<s n="adj"/><s n="sint"/></l><r>caald<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>fresh<s n="adj"/></l><r>caller<s n="adj"/></r></p></e>
     <e><p><l>careful<s n="adj"/></l><r>cannei<s n="adj"/></r></p></e>
+    <e><p><l>cautious<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>prudent<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>steady<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>comfortable<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>gentle<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>cozy<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>attractive<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>pleasing<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>skilful<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fortunate<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>lucky<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>frugal<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sparing<s n="adj"/><s n="sint"/></l><r>cannie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>cautious<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>prudent<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>steady<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>comfortable<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>gentle<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>cozy<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>attractive<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>pleasing<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>skilful<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>fortunate<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>lucky<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>frugal<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sparing<s n="adj"/><s n="sint"/></l><r>canny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>pleasant<s n="adj"/><s n="sint"/></l><r>cantie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>capital<s n="adj"/></l><r>caipital<s n="adj"/></r></p></e>
+    <e><p><l>irritable<s n="adj"/></l><r>carnaptious<s n="adj"/></r></p></e>
+    <e><p><l>cold<s n="adj"/><s n="sint"/></l><r>cauld<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>left<s n="adj"/></l><r>caur<s n="adj"/></r></p></e>   
+    <e><p><l>left-handed<s n="adj"/></l><r>caur<s n="adj"/></r></p></e> 
+    <e><p><l>civil<s n="adj"/></l><r>ceevil<s n="adj"/></r></p></e> 
+    <e><p><l>mashed<s n="adj"/></l><r>chappit<s n="adj"/></r></p></e>
+    <e><p><l>intimate<s n="adj"/></l><r>cheif<s n="adj"/></r></p></e>  
+    <e><p><l>dirty<s n="adj"/><s n="sint"/></l><r>clattie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>clear<s n="adj"/><s n="sint"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>classical<s n="adj"/></l><r>clessical<s n="adj"/></r></p></e>
+    <e><p><l>clever<s n="adj"/><s n="sint"/></l><r>cliver<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>clever<s n="adj"/><s n="sint"/></l><r>clivver<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>confused<s n="adj"/></l><r>conflummixt<s n="adj"/></r></p></e>  
+    <e><p><l>coarse<s n="adj"/><s n="sint"/></l><r>coorse<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>bad tempered<s n="adj"/></l><r>crabbit<s n="adj"/></r></p></e> 
+    <e><p><l>critical<s n="adj"/></l><r>creetical<s n="adj"/></r></p></e> 
+    <e><p><l>exhausted<s n="adj"/></l><r>cuntit<s n="adj"/></r></p></e> 
+    <e><p><l>fucked<s n="adj"/></l><r>cuntit<s n="adj"/></r></p></e> 
+    <e><p><l>knackered<s n="adj"/></l><r>cuntit<s n="adj"/></r></p></e>
+    <e><p><l>drunk<s n="adj"/></l><r>cuntit<s n="adj"/></r></p></e> 
+    <e><p><l>paralytic<s n="adj"/></l><r>cuntit<s n="adj"/></r></p></e> 
+    <e><p><l>custom<s n="adj"/></l><r>custom<s n="adj"/></r></p></e> 
+    <e><p><l>customisable<s n="adj"/></l><r>customisable<s n="adj"/></r></p></e> 
+    <e><p><l>dead<s n="adj"/><s n="sint"/></l><r>deid<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>deadly<s n="adj"/><s n="sint"/></l><r>deidly<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>departmental<s n="adj"/></l><r>departmental<s n="adj"/></r></p></e>
+    <e><p><l>dark<s n="adj"/><s n="sint"/></l><r>derk<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>different<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
+    <e><p><l>neat<s n="adj"/></l><r>dink<s n="adj"/></r></p></e>
+    <e><p><l>neat<s n="adj"/></l><r>dink<s n="adj"/></r></p></e>
+    <e><p><l>tidy<s n="adj"/></l><r>dink<s n="adj"/></r></p></e>
+    <e><p><l>dotit<s n="adj"/></l><r>dotit<s n="adj"/></r></p></e>
 
     <e><p><l>scientific<s n="adj"/></l><r>scienteefic<s n="adj"/></r></p></e>
     <e><p><l>natural<s n="adj"/></l><r>naitural<s n="adj"/></r></p></e>
     <e><p><l>official<s n="adj"/></l><r>offeecial<s n="adj"/></r></p></e>
     <e><p><l>physical<s n="adj"/></l><r>pheesical<s n="adj"/></r></p></e>
     <e><p><l>important<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
-    <e><p><l>classical<s n="adj"/></l><r>clessical<s n="adj"/></r></p></e>
-    <e><p><l>capital<s n="adj"/></l><r>caipital<s n="adj"/></r></p></e>
+
     <e><p><l>national<s n="adj"/></l><r>naitional<s n="adj"/></r></p></e>
-    <e><p><l>scottish<s n="adj"/></l><r>scots<s n="adj"/></r></p></e>
-    <e><p><l>irish<s n="adj"/></l><r>erse<s n="adj"/></r></p></e>
     
     <e><p><l>nice<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>good<s n="adj"/><s n="sint"/></l><r>guid<s n="adj"/><s n="sint"/></r></p></e>
@@ -303,6 +360,10 @@
     <e><p><l>straight<s n="adj"/><s n="sint"/></l><r>straucht<s n="adj"/><s n="sint"/></r></p></e>
 
     <e><p><l>African<s n="adj"/></l><r>Africaen<s n="adj"/></r></p></e>    
+    <e><p><l>Danish<s n="adj"/></l><r>Dens<s n="adj"/></r></p></e> 
+    <e><p><l>irish<s n="adj"/></l><r>erse<s n="adj"/></r></p></e>
+    <e><p><l>scottish<s n="adj"/></l><r>scots<s n="adj"/></r></p></e>
+
 
         <!-- NEW  IRREGULAR VERBS -->
 
@@ -412,7 +473,7 @@
     <e><p><l>help<s n="vblex"/></l><r>gie<g><b/>a<b/>haun</g><s n="vblex"/><s n="sep"/></r></p></e>
     <e><p><l>consist<s n="vblex"/></l><r>conseest<s n="vblex"/></r></p></e>
 
-        <!-- NEW  REGULARVERBS -->
+        <!-- NEW  REGULAR VERBS -->
     <e><p><l>act<s n="vblex"/></l><r>act<s n="vblex"/></r></p></e>
     <e><p><l>address<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>
     <e><p><l>admit<s n="vblex"/></l><r>admeet<s n="vblex"/></r></p></e>
@@ -508,6 +569,8 @@
     <e><p><l>depart<s n="vblex"/></l><r>depairt<s n="vblex"/></r></p></e>
     <e><p><l>develop<s n="vblex"/></l><r>develop<s n="vblex"/></r></p></e>
     <e><p><l>differ<s n="vblex"/></l><r>differ<s n="vblex"/></r></p></e>
+    <e><p><l>deck<s n="vblex"/></l><r>dink<s n="vblex"/></r></p></e>
+    <e><p><l>dirk<s n="vblex"/></l><r>dirk<s n="vblex"/></r></p></e>
     <e><p><l>disrespect<s n="vblex"/></l><r>disrespect<s n="vblex"/></r></p></e>
     <e><p><l>divide<s n="vblex"/></l><r>divide<s n="vblex"/></r></p></e>
     <e><p><l>doubt<s n="vblex"/></l><r>doot<s n="vblex"/></r></p></e>
@@ -1147,6 +1210,7 @@
     <e><p><l>seabird<s n="n"/></l><r>dooker<s n="n"/></r></p></e>
     <e><p><l>cormorant<s n="n"/></l><r>dooker<s n="n"/></r></p></e>
     <e><p><l>tufted duck<s n="n"/></l><r>dooker<s n="n"/></r></p></e>
+    <e><p><l>swimming trunks<s n="n"/></l><r>dookers<s n="n"/></r></p></e>
     <e><p><l>door<s n="n"/></l><r>door<s n="n"/></r></p></e>
     <e><p><l>doubt<s n="n"/></l><r>doot<s n="n"/></r></p></e>
     <e><p><l>dove<s n="n"/></l><r>dou<s n="n"/></r></p></e>
