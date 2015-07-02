@@ -478,10 +478,70 @@
     <e><p><l>international<s n="adj"/></l><r>internaitional<s n="adj"/></r></p></e>
     <e><p><l>other<s n="adj"/></l><r>ither<s n="adj"/></r></p></e>
     <e><p><l>jovial<s n="adj"/></l><r>joco<s n="adj"/></r></p></e>
+    <e><p><l>shitty<s n="adj"/><s n="sint"/></l><r>keechie<s n="adj"/></r></p></e>
+    <e><p><l>filthy<s n="adj"/><s n="sint"/></l><r>keechie<s n="adj"/></r></p></e>
+    <e><p><l>keen<s n="adj"/><s n="sint"/></l><r>keen<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>recognisable<s n="adj"/></l><r>kenspeckle<s n="adj"/></r></p></e>
+    <e><p><l>conspicuous<s n="adj"/></l><r>kenspeckle<s n="adj"/></r></p></e>
+    <e><p><l>known<s n="adj"/></l><r>kent<s n="adj"/></r></p></e>
+    <e><p><l>rubbish<s n="adj"/></l><r>kich<s n="adj"/></r></p></e>
+    <e><p><l>crap<s n="adj"/><s n="sint"/></l><r>kich<s n="adj"/></r></p></e>
+    <e><p><l>shitty<s n="adj"/><s n="sint"/></l><r>kichie<s n="adj"/></r></p></e>
+    <e><p><l>filthy<s n="adj"/><s n="sint"/></l><r>kichie<s n="adj"/></r></p></e>
+    <e><p><l>low<s n="adj"/><s n="sint"/></l><r>laich<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>large<s n="adj"/><s n="sint"/></l><r>lairge<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>muddy<s n="adj"/><s n="sint"/></l><r>lairie<s n="adj"/></r></p></e>
+    <e><p><l>long<s n="adj"/><s n="sint"/></l><r>lang<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>low<s n="adj"/><s n="sint"/></l><r>law<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>lawful<s n="adj"/><s n="sint"/></l><r>lawfu<s n="adj"/></r></p></e>
+    <e><p><l>lowland<s n="adj"/><s n="sint"/></l><r>lawland<s n="adj"/></r></p></e>
+    <e><p><l>leal<s n="adj"/><s n="sint"/></l><r>leal<s n="adj"/></r></p></e>
+    <e><p><l>light<s n="adj"/><s n="sint"/></l><r>licht<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>lightsome<s n="adj"/></l><r>lichtsome<s n="adj"/></r></p></e>
+    <e><p><l>local<s n="adj"/></l><r>local<s n="adj"/></r></p></e>
+    <e><p><l>loose<s n="adj"/><s n="sint"/></l><r>lowse<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>luesome<s n="adj"/></l><r>luesome<s n="adj"/></r></p></e>
+    <e><p><l>maggoty<s n="adj"/></l><r>maukit<s n="adj"/></r></p></e>
+    <e><p><l>filthy<s n="adj"/></l><r>maukit<s n="adj"/></r></p></e>
+    <e><p><l>marked<s n="adj"/></l><r>merked<s n="adj"/></r></p></e>
+    <e><p><l>marked<s n="adj"/></l><r>merkit<s n="adj"/></r></p></e>
+    <e><p><l>much<s n="adj"/></l><r>mickle<s n="adj"/></r></p></e>
+    <e><p><l>middle<s n="adj"/></l><r>middle<s n="adj"/></r></p></e>
+    <e><p><l>rubbish<s n="adj"/></l><r>mince<s n="adj"/></r></p></e>
+    <e><p><l>stinking<s n="adj"/></l><r>mingin<s n="adj"/></r></p></e>
+    <e><p><l>plastered<s n="adj"/></l><r>mingin<s n="adj"/></r></p></e>
+    <e><p><l>tiny<s n="adj"/><s n="sint"/></l><r>mintie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>many<s n="adj"/></l><r>mony<s n="adj"/></r></p></e>
+    <e><p><l>large<s n="adj"/><s n="sint"/></l><r>muckle<s n="adj"/></r></p></e>
+    <e><p><l>massive<s n="adj"/></l><r>muckle<s n="adj"/></r></p></e>
+    <e><p><l>much<s n="adj"/></l><r>muckle<s n="adj"/></r></p></e>
+    <e><p><l>no<s n="adj"/></l><r>nae<s n="adj"/></r></p></e>
+    <e><p><l>natural<s n="adj"/></l><r>naitural<s n="adj"/></r></p></e>
+    <e><p><l>nosed<s n="adj"/></l><r>nebbit<s n="adj"/></r></p></e>
+    <e><p><l>neighbourly<s n="adj"/></l><r>neebour-like<s n="adj"/></r></p></e>
+    <e><p><l>next<s n="adj"/></l><r>neist<s n="adj"/></r></p></e>
+    <e><p><l>next<s n="adj"/></l><r>niest<s n="adj"/></r></p></e>
+    <e><p><l>north<s n="adj"/></l><r>nor<s n="adj"/></r></p></e>
+    <e><p><l>northerly<s n="adj"/></l><r>nor'lin<s n="adj"/></r></p></e>
+    <e><p><l>northwards<s n="adj"/></l><r>nor'lin<s n="adj"/></r></p></e>
+    <e><p><l>northern<s n="adj"/></l><r>norlin<s n="adj"/></r></p></e>
+    <e><p><l>farthest north<s n="adj"/></l><r>northmaist<s n="adj"/></r></p></e>
+    <e><p><l>northern<s n="adj"/></l><r>northren<s n="adj"/></r></p></e>
+    <e><p><l>official<s n="adj"/></l><r>offeecial<s n="adj"/></r></p></e>
+    <e><p><l>great<s n="adj"/><s n="sint"/></l><r>ojis<s n="adj"/></r></p></e>
+    <e><p><l>any<s n="adj"/></l><r>ony<s n="adj"/></r></p></e>
+    <e><p><l>ordinary<s n="adj"/></l><r>ordinar<s n="adj"/></r></p></e>
+    <e><p><l>original<s n="adj"/></l><r>oreeginal<s n="adj"/></r></p></e>
+    <e><p><l>ornate<s n="adj"/></l><r>ornate<s n="adj"/></r></p></e>    
+    <e><p><l>spare<s n="adj"/></l><r>orra<s n="adj"/></r></p></e>
+    <e><p><l>upper<s n="adj"/></l><r>ower<s n="adj"/></r></p></e>
+    <e><p><l>pally<s n="adj"/><s n="sint"/></l><r>pally<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>short winded<s n="adj"/></l><r>pechie<s n="adj"/></r></p></e>
+    <e><p><l>out of breath<s n="adj"/></l><r>pecht<s n="adj"/></r></p></e>
 
     <e><p><l>scientific<s n="adj"/></l><r>scienteefic<s n="adj"/></r></p></e>
     <e><p><l>natural<s n="adj"/></l><r>naitural<s n="adj"/></r></p></e>
-    <e><p><l>official<s n="adj"/></l><r>offeecial<s n="adj"/></r></p></e>
+
     <e><p><l>physical<s n="adj"/></l><r>pheesical<s n="adj"/></r></p></e>
 
 
