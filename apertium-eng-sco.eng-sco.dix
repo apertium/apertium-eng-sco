@@ -519,6 +519,7 @@
     <e><p><l>natural<s n="adj"/></l><r>naitural<s n="adj"/></r></p></e>
     <e><p><l>nosed<s n="adj"/></l><r>nebbit<s n="adj"/></r></p></e>
     <e><p><l>neighbourly<s n="adj"/></l><r>neebour-like<s n="adj"/></r></p></e>
+    <e><p><l>new<s n="adj"/><s n="sint"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>next<s n="adj"/></l><r>neist<s n="adj"/></r></p></e>
     <e><p><l>next<s n="adj"/></l><r>niest<s n="adj"/></r></p></e>
     <e><p><l>north<s n="adj"/></l><r>nor<s n="adj"/></r></p></e>
@@ -538,11 +539,119 @@
     <e><p><l>pally<s n="adj"/><s n="sint"/></l><r>pally<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>short winded<s n="adj"/></l><r>pechie<s n="adj"/></r></p></e>
     <e><p><l>out of breath<s n="adj"/></l><r>pecht<s n="adj"/></r></p></e>
-
+    <e><p><l>thin<s n="adj"/></l><r>peelie<s n="adj"/></r></p></e>
+    <e><p><l>emaciated<s n="adj"/></l><r>peelie<s n="adj"/></r></p></e>
+    <e><p><l>emaciated<s n="adj"/></l><r>peelie<s n="adj"/></r></p></e>
+    <e><p><l>sickly<s n="adj"/></l><r>peelie<s n="adj"/></r></p></e>
+    <e><p><l>sick<s n="adj"/></l><r>peelie-wally<s n="adj"/></r></p></e>
+    <e><p><l>pallid<s n="adj"/></l><r>peelie-wally<s n="adj"/></r></p></e>
+    <e><p><l>feeble<s n="adj"/></l><r>peelie-wally<s n="adj"/></r></p></e>
+    <e><p><l>feeble<s n="adj"/></l><r>peeliewally<s n="adj"/></r></p></e>
+    <e><p><l>tiny<s n="adj"/><s n="sint"/></l><r>peerie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>physical<s n="adj"/></l><r>pheesical<s n="adj"/></r></p></e>    
+    <e><p><l>bad<s n="adj"/></l><r>pish<s n="adj"/></r></p></e>
+    <e><p><l>drunk<s n="adj"/></l><r>pished<s n="adj"/></r></p></e>
+    <e><p><l>placid<s n="adj"/></l><r>placit<s n="adj"/></r></p></e>
+    <e><p><l>spotty<s n="adj"/><s n="sint"/></l><r>plouk<s n="adj"/></r></p></e>
+    <e><p><l>pointy<s n="adj"/><s n="sint"/></l><r>pokey<s n="adj"/></r></p></e>
+    <e><p><l>political<s n="adj"/></l><r>poleetical<s n="adj"/></r></p></e>
+    <e><p><l>present<s n="adj"/></l><r>praisent<s n="adj"/></r></p></e>
+    <e><p><l>poor<s n="adj"/><s n="sint"/></l><r>puir<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>pure<s n="adj"/><s n="sint"/></l><r>pure<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>quiet<s n="adj"/><s n="sint"/></l><r>quaet<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>snug<s n="adj"/><s n="sint"/></l><r>queem<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>snug<s n="adj"/><s n="sint"/></l><r>queem<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>living<s n="adj"/></l><r>quick<s n="adj"/></r></p></e>
+    <e><p><l>bubbling<s n="adj"/></l><r>quick<s n="adj"/></r></p></e>
+    <e><p><l>quick<s n="adj"/><s n="sint"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>mental<s n="adj"/></l><r>radge<s n="adj"/></r></p></e>
+    <e><p><l>mad<s n="adj"/><s n="sint"/></l><r>radge<s n="adj"/></r></p></e>
+    <e><p><l>violently arroused<s n="adj"/></l><r>radge<s n="adj"/></r></p></e>
+    <e><p><l>furious<s n="adj"/></l><r>radge<s n="adj"/></r></p></e>
+    <e><p><l>wild<s n="adj"/><s n="sint"/></l><r>radge<s n="adj"/></r></p></e>
+    <e><p><l>obstreperous<s n="adj"/></l><r>radge<s n="adj"/></r></p></e>
+    <e><p><l>mad<s n="adj"/><s n="sint"/></l><r>radgie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>violent<s n="adj"/></l><r>radgie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>excited<s n="adj"/></l><r>radgie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sexually aroused<s n="adj"/></l><r>radgie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>great<s n="adj"/></l><r>rare<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>rare<s n="adj"/></l><r>rare<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>stinking<s n="adj"/></l><r>reekin<s n="adj"/></r></p></e>
+    <e><p><l>drunk<s n="adj"/></l><r>reekin<s n="adj"/></r></p></e>
+    <e><p><l>sooty<s n="adj"/></l><r>reekit<s n="adj"/></r></p></e>
+    <e><p><l>red<s n="adj"/><s n="sint"/></l><r>reid<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>religious<s n="adj"/></l><r>releegious<s n="adj"/></r></p></e>
+    <e><p><l>richt<s n="adj"/></l><r>richt<s n="adj"/></r></p></e>
+    <e><p><l>ringed<s n="adj"/></l><r>ringit<s n="adj"/></r></p></e>
+    <e><p><l>runny<s n="adj"/><s n="sint"/></l><r>rinnie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>rising<s n="adj"/></l><r>risin<s n="adj"/></r></p></e>
+    <e><p><l>roch<s n="adj"/><s n="sint"/></l><r>roch<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>round<s n="adj"/><s n="sint"/></l><r>roon<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>royal<s n="adj"/></l><r>ryal<s n="adj"/></r></p></e>
+    <e><p><l>soft<s n="adj"/><s n="sint"/></l><r>saft<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sore<s n="adj"/></l><r>sair<s n="adj"/></r></p></e>
+    <e><p><l>severe<s n="adj"/></l><r>sair<s n="adj"/></r></p></e>
+    <e><p><l>sorry<s n="adj"/></l><r>sairy<s n="adj"/></r></p></e>
+    <e><p><l>willow<s n="adj"/></l><r>sauchie<s n="adj"/></r></p></e>
+    <e><p><l>sainted<s n="adj"/></l><r>sauntit<s n="adj"/></r></p></e>
     <e><p><l>scientific<s n="adj"/></l><r>scienteefic<s n="adj"/></r></p></e>
-    <e><p><l>natural<s n="adj"/></l><r>naitural<s n="adj"/></r></p></e>
-
-    <e><p><l>physical<s n="adj"/></l><r>pheesical<s n="adj"/></r></p></e>
+    <e><p><l>naked<s n="adj"/></l><r>scuddie<s n="adj"/></r></p></e>
+    <e><p><l>disgusted<s n="adj"/></l><r>scunnert<s n="adj"/></r></p></e>
+    <e><p><l>sick<s n="adj"/><s n="sint"/></l><r>seek<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>systematic<s n="adj"/></l><r>seestematic<s n="adj"/></r></p></e>
+    <e><p><l>second<s n="adj"/></l><r>seicont<s n="adj"/></r></p></e>
+    <e><p><l>sick<s n="adj"/><s n="sint"/></l><r>seik<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sure<s n="adj"/><s n="sint"/></l><r>shair<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sharp<s n="adj"/><s n="sint"/></l><r>shairp<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sharp-witted<s n="adj"/></l><r>shairp-witted<s n="adj"/></r></p></e>
+    <e><p><l>sure<s n="adj"/><s n="sint"/></l><r>shuir<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>such<s n="adj"/></l><r>sic<s n="adj"/></r></p></e>
+    <e><p><l>safe<s n="adj"/><s n="sint"/></l><r>siccar<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sure<s n="adj"/><s n="sint"/></l><r>siccar<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>silver<s n="adj"/></l><r>siller<s n="adj"/></r></p></e>
+    <e><p><l>separate<s n="adj"/></l><r>sindrie<s n="adj"/></r></p></e>
+    <e><p><l>separate<s n="adj"/></l><r>sindry<s n="adj"/></r></p></e>
+    <e><p><l>hurt<s n="adj"/></l><r>skaithed<s n="adj"/></r></p></e>
+    <e><p><l>shining<s n="adj"/></l><r>skinklin<s n="adj"/></r></p></e>
+    <e><p><l>slippery<s n="adj"/></l><r>skitey<s n="adj"/></r></p></e>
+    <e><p><l>slippery<s n="adj"/></l><r>skitie<s n="adj"/></r></p></e>
+    <e><p><l>sleek<s n="adj"/><s n="sint"/></l><r>sleek<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>glossy<s n="adj"/></l><r>sleekit<s n="adj"/></r></p></e>
+    <e><p><l>cunning<s n="adj"/></l><r>sleekit<s n="adj"/></r></p></e>
+    <e><p><l>sly<s n="adj"/></l><r>sleekit<s n="adj"/></r></p></e>
+    <e><p><l>crafty<s n="adj"/></l><r>sleekit<s n="adj"/></r></p></e>
+    <e><p><l>slight<s n="adj"/><s n="sint"/></l><r>slicht<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>small<s n="adj"/><s n="sint"/></l><r>sma<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>snowy<s n="adj"/><s n="sint"/></l><r>snawy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>some<s n="adj"/></l><r>some<s n="adj"/></r></p></e>
+    <e><p><l>southern<s n="adj"/></l><r>soothern<s n="adj"/></r></p></e>
+    <e><p><l>southren<s n="adj"/></l><r>soothren<s n="adj"/></r></p></e>
+    <e><p><l>dark<s n="adj"/><s n="sint"/></l><r>sootie<s n="adj"/></r></p></e>
+    <e><p><l>soot-coloured<s n="adj"/></l><r>sootie<s n="adj"/></r></p></e>
+    <e><p><l>sooty<s n="adj"/><s n="sint"/></l><r>sootie<s n="adj"/></r></p></e>
+    <e><p><l>sorted<s n="adj"/></l><r>sortit<s n="adj"/></r></p></e>
+    <e><p><l>supple<s n="adj"/><s n="sint"/></l><r>souple<s n="adj"/></r></p></e>
+    <e><p><l>special<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
+    <e><p><l>spirited<s n="adj"/></l><r>speeritit<s n="adj"/></r></p></e>
+    <e><p><l>spiritual<s n="adj"/></l><r>speeritual<s n="adj"/></r></p></e>
+    <e><p><l>special<s n="adj"/></l><r>speicial<s n="adj"/></r></p></e>
+    <e><p><l>steady<s n="adj"/><s n="sint"/></l><r>steidy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>strong<s n="adj"/><s n="sint"/></l><r>strang<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>straight<s n="adj"/><s n="sint"/></l><r>straucht<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>strict<s n="adj"/><s n="sint"/></l><r>strict<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>rapid<s n="adj"/><s n="sint"/></l><r>strict<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>striped<s n="adj"/></l><r>strippit<s n="adj"/></r></p></e>
+    <e><p><l>stupid<s n="adj"/><s n="sint"/></l><r>stupit<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sufficient<s n="adj"/></l><r>suffeecient<s n="adj"/></r></p></e>
+    <e><p><l>soon<s n="adj"/></l><r>suin<s n="adj"/></r></p></e>
+    <e><p><l>early for<s n="adj"/></l><r>suin<s n="adj"/></r></p></e>
+    <e><p><l>supernatural<s n="adj"/></l><r>supernaitural<s n="adj"/></r></p></e>
+    <e><p><l>sweet<s n="adj"/><s n="sint"/></l><r>sweet<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>loathe<s n="adj"/></l><r>sweirt<s n="adj"/></r></p></e>
+    <e><p><l>reluctant<s n="adj"/></l><r>sweirt<s n="adj"/></r></p></e>
+    <e><p><l>curly<s n="adj"/><s n="sint"/></l><r>swirly<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>loathe<s n="adj"/></l><r>sweirt<s n="adj"/></r></p></e>
+    <e><p><l>tartan<s n="adj"/></l><r>tairtan<s n="adj"/></r></p></e>
 
 
     <e><p><l>national<s n="adj"/></l><r>naitional<s n="adj"/></r></p></e>
@@ -557,8 +666,11 @@
     <e><p><l>Frainch<s n="adj"/></l><r>Frainch<s n="adj"/></r></p></e>
     <e><p><l>French<s n="adj"/></l><r>French<s n="adj"/></r></p></e>
     <e><p><l>irish<s n="adj"/></l><r>erse<s n="adj"/></r></p></e>
+    <e><p><l>Polish<s n="adj"/></l><r>Polis<s n="adj"/></r></p></e>
+    <e><p><l>Scots<s n="adj"/></l><r>Scots<s n="adj"/></r></p></e>
     <e><p><l>scottish<s n="adj"/></l><r>scots<s n="adj"/></r></p></e>
-
+    <e><p><l>Scottish<s n="adj"/></l><r>Scottish<s n="adj"/></r></p></e>
+    <e><p><l>Swadish<s n="adj"/></l><r>Swadish<s n="adj"/></r></p></e>
 
         <!-- NEW  IRREGULAR VERBS -->
 
