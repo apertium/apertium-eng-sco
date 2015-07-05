@@ -158,20 +158,30 @@
     <e><p><l>ticket<s n="n"/></l><r>ticket<s n="n"/></r></p></e>
     <e r="RL"><p><l>child<s n="n"/></l><r>wean<s n="n"/></r></p></e>
     
-    <e><p><l>where<s n="adv"/><s n="itg"/></l><r>whaur<s n="adv"/><s n="itg"/></r></p></e>
-    <e><p><l>never<s n="adv"/></l><r>niver<s n="adv"/></r></p></e>
+
+        <!-- ADVERBS -->
+
+    <e><p><l>again<s n="adv"/></l><r>agin<s n="adv"/></r></p></e>
+    <e><p><l>also<s n="adv"/></l><r>an<b/>aw<s n="adv"/></r></p></e>
+    <e><p><l>as<s n="adv"/></l><r>as<s n="adv"/></r></p></e>
     <e><p><l>maybe<s n="adv"/></l><r>mebbe<s n="adv"/></r></p></e>
-    <e><p><l>tonight<s n="adv"/></l><r>the<b/>nicht<s n="adv"/></r></p></e>
-    <e><p><l>today<s n="adv"/></l><r>the<b/>day<s n="adv"/></r></p></e>
-    <e><p><l>not<s n="adv"/></l><r>na<s n="adv"/></r></p></e>
-    <e><p><l>at<b/>the<b/>moment<s n="adv"/></l><r>the<b/>nou<s n="adv"/></r></p></e>
-    <e><p><l>tomorrow<s n="adv"/></l><r>the<b/>morn<s n="adv"/></r></p></e>
+
     <e><p><l>more<s n="adv"/></l><r>mair<s n="adv"/></r></p></e>
     <e><p><l>most<s n="adv"/></l><r>maist<s n="adv"/></r></p></e>
-    <e><p><l>throughout<s n="adv"/></l><r>ootthrou<s n="adv"/></r></p></e>
+    <e><p><l>never<s n="adv"/></l><r>niver<s n="adv"/></r></p></e>
+    <e><p><l>not<s n="adv"/></l><r>na<s n="adv"/></r></p></e>
     <e><p><l>onwards<s n="adv"/></l><r>onwarts<s n="adv"/></r></p></e>
-    <e><p><l>also<s n="adv"/></l><r>an<b/>aw<s n="adv"/></r></p></e>
+
+    <e><p><l>throughout<s n="adv"/></l><r>ootthrou<s n="adv"/></r></p></e>
     <e><p><l>since<s n="adv"/></l><r>syne<s n="adv"/></r></p></e>
+    <e><p><l>today<s n="adv"/></l><r>the<b/>day<s n="adv"/></r></p></e>
+    <e><p><l>tomorrow<s n="adv"/></l><r>the<b/>morn<s n="adv"/></r></p></e>
+    <e><p><l>tonight<s n="adv"/></l><r>the<b/>nicht<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>the<b/>moment<s n="adv"/></l><r>the<b/>nou<s n="adv"/></r></p></e>
+    <e><p><l>where<s n="adv"/><s n="itg"/></l><r>whaur<s n="adv"/><s n="itg"/></r></p></e>
+
+
+
     
     <e><p><l>enough<s n="det"/><s n="qnt"/></l><r>eneuch<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>more<s n="det"/><s n="qnt"/></l><r>mair<s n="det"/><s n="qnt"/></r></p></e>
@@ -543,9 +553,9 @@
     <e><p><l>emaciated<s n="adj"/></l><r>peelie<s n="adj"/></r></p></e>
     <e><p><l>emaciated<s n="adj"/></l><r>peelie<s n="adj"/></r></p></e>
     <e><p><l>sickly<s n="adj"/></l><r>peelie<s n="adj"/></r></p></e>
-    <e><p><l>sick<s n="adj"/></l><r>peelie-wally<s n="adj"/></r></p></e>
-    <e><p><l>pallid<s n="adj"/></l><r>peelie-wally<s n="adj"/></r></p></e>
-    <e><p><l>feeble<s n="adj"/></l><r>peelie-wally<s n="adj"/></r></p></e>
+    <e><p><l>sick<s n="adj"/></l><r>peelie-wally<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>pallid<s n="adj"/></l><r>peelie-wally<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>feeble<s n="adj"/></l><r>peelie-wally<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>feeble<s n="adj"/></l><r>peeliewally<s n="adj"/></r></p></e>
     <e><p><l>tiny<s n="adj"/><s n="sint"/></l><r>peerie<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>physical<s n="adj"/></l><r>pheesical<s n="adj"/></r></p></e>    
@@ -652,6 +662,70 @@
     <e><p><l>curly<s n="adj"/><s n="sint"/></l><r>swirly<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>loathe<s n="adj"/></l><r>sweirt<s n="adj"/></r></p></e>
     <e><p><l>tartan<s n="adj"/></l><r>tairtan<s n="adj"/></r></p></e>
+    <e><p><l>top<s n="adj"/></l><r>tap<s n="adj"/></r></p></e>
+    <e><p><l>topmost<s n="adj"/></l><r>tapmaist<s n="adj"/></r></p></e>
+    <e><p><l>topped<s n="adj"/></l><r>tappit<s n="adj"/></r></p></e>
+    <e><p><l>topped<s n="adj"/></l><r>tappit<s n="adj"/></r></p></e>
+    <e><p><l>tufted<s n="adj"/></l><r>tappit<s n="adj"/></r></p></e>
+    <e><p><l>typical<s n="adj"/></l><r>teepical<s n="adj"/></r></p></e>
+    <e><p><l>those<s n="adj"/></l><r>thae<s n="adj"/></r></p></e>
+    <e><p><l>that<s n="adj"/></l><r>that<s n="adj"/></r></p></e>
+    <e><p><l>their<s n="adj"/></l><r>their<s n="adj"/></r></p></e>
+    <e><p><l>this<s n="adj"/></l><r>this<s n="adj"/></r></p></e>
+    <e><p><l>that<s n="adj"/></l><r>that<s n="adj"/></r></p></e>
+    <e><p><l>those<s n="adj"/></l><r>thon<s n="adj"/></r></p></e>
+    <e><p><l>contrary<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
+    <e><p><l>perverse<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
+    <e><p><l>twisted<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
+    <e><p><l>misshapen<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
+    <e><p><l>awkward<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
+    <e><p><l>contrary<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
+    <e><p><l>contrary<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
+    <e><p><l>three<s n="adj"/></l><r>three<s n="adj"/></r></p></e>
+    <e><p><l>tied<s n="adj"/></l><r>tied<s n="adj"/></r></p></e>
+    <e><p><l>tiny<s n="adj"/></l><r>tottie<s n="adj"/></r></p></e>
+    <e><p><l>traditional<s n="adj"/></l><r>tradeetional<s n="adj"/></r></p></e>
+    <e><p><l>unlucky<s n="adj"/><s n="sint"/></l><r>unchancy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dangerous<s n="adj"/></l><r>unchancy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>strange<s n="adj"/><s n="sint"/></l><r>unco<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ungrateful<s n="adj"/></l><r>ungrate<s n="adj"/></r></p></e>
+    <e><p><l>ungrateful<s n="adj"/></l><r>ungratefu<s n="adj"/></r></p></e>
+    <e><p><l>united<s n="adj"/></l><r>unitit<s n="adj"/></r></p></e>
+    <e><p><l>unlawful<s n="adj"/></l><r>unlawfu<s n="adj"/></r></p></e>
+    <e><p><l>under<s n="adj"/></l><r>unner<s n="adj"/></r></p></e>
+    <e><p><l>unhurt<s n="adj"/></l><r>unskaithed<s n="adj"/></r></p></e>
+    <e><p><l>exhausted<s n="adj"/></l><r>wabbit<s n="adj"/></r></p></e>
+    <e><p><l>tired<s n="adj"/></l><r>wabbit<s n="adj"/></r></p></e>
+    <e><p><l>worn-out<s n="adj"/></l><r>wabbit<s n="adj"/></r></p></e>
+    <e><p><l>weak<s n="adj"/><s n="sint"/></l><r>waik<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sturdy<s n="adj"/></l><r>wallie<s n="adj"/></r></p></e>
+    <e><p><l>wealthy<s n="adj"/><s n="sint"/></l><r>walthy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>unlucky<s n="adj"/><s n="sint"/></l><r>wanchancy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>wantit<s n="adj"/></l><r>wantit<s n="adj"/></r></p></e>
+    <e><p><l>enormous<s n="adj"/></l><r>wappin<s n="adj"/></r></p></e>
+    <e><p><l>west<s n="adj"/></l><r>wast<s n="adj"/></r></p></e>
+    <e><p><l>farther west<s n="adj"/></l><r>waster<s n="adj"/></r></p></e>
+    <e><p><l>farthest west<s n="adj"/></l><r>wastmaist<s n="adj"/></r></p></e>
+    <e><p><l>childish<s n="adj"/></l><r>weanish<s n="adj"/></r></p></e>
+    <e><p><l>small<s n="adj"/><s n="sint"/></l><r>wee<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>little<s n="adj"/><s n="sint"/></l><r>wee<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>tiny<s n="adj"/><s n="sint"/></l><r>wee<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>well<s n="adj"/></l><r>weel<s n="adj"/></r></p></e>
+    <e><p><l>well-known<s n="adj"/></l><r>weel-kent<s n="adj"/></r></p></e>
+    <e><p><l>wet<s n="adj"/></l><r>weet<s n="adj"/></r></p></e>
+    <e><p><l>troublesome<s n="adj"/></l><r>weird<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>mischievous<s n="adj"/></l><r>weird<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>harmful<s n="adj"/></l><r>weird<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>which<s n="adj"/></l><r>whilk<s n="adj"/></r></p></e>
+    <e><p><l>white<s n="adj"/><s n="sint"/></l><r>white<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>wooden<s n="adj"/></l><r>widden<s n="adj"/></r></p></e>
+    <e><p><l>our<s n="adj"/></l><r>wir<s n="adj"/></r></p></e>
+    <e><p><l>valuable<s n="adj"/></l><r>worth<s n="adj"/></r></p></e>
+    <e><p><l>worthwhile<s n="adj"/></l><r>worth<s n="adj"/></r></p></e>
+    <e><p><l>wrong<s n="adj"/></l><r>wrang<s n="adj"/></r></p></e>
+    <e><p><l>yellow<s n="adj"/></l><r>yella<s n="adj"/></r></p></e>
+    <e><p><l>yellow<s n="adj"/></l><r>yellae<s n="adj"/></r></p></e>
+
 
 
     <e><p><l>national<s n="adj"/></l><r>naitional<s n="adj"/></r></p></e>
@@ -671,6 +745,9 @@
     <e><p><l>scottish<s n="adj"/></l><r>scots<s n="adj"/></r></p></e>
     <e><p><l>Scottish<s n="adj"/></l><r>Scottish<s n="adj"/></r></p></e>
     <e><p><l>Swadish<s n="adj"/></l><r>Swadish<s n="adj"/></r></p></e>
+    <e><p><l>Glaswegian<s n="adj"/></l><r>Weegie<s n="adj"/></r></p></e>
+
+
 
         <!-- NEW  IRREGULAR VERBS -->
 
