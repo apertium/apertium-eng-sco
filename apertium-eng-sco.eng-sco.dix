@@ -171,7 +171,7 @@
     <e><p><l>never<s n="adv"/></l><r>niver<s n="adv"/></r></p></e>
     <e><p><l>not<s n="adv"/></l><r>na<s n="adv"/></r></p></e>
     <e><p><l>onwards<s n="adv"/></l><r>onwarts<s n="adv"/></r></p></e>
-
+    <e><p><l>excessively<s n="adv"/></l><r>owerly<s n="adv"/></r></p></e>
     <e><p><l>throughout<s n="adv"/></l><r>ootthrou<s n="adv"/></r></p></e>
     <e><p><l>since<s n="adv"/></l><r>syne<s n="adv"/></r></p></e>
     <e><p><l>today<s n="adv"/></l><r>the<b/>day<s n="adv"/></r></p></e>
@@ -719,12 +719,12 @@
     <e><p><l>which<s n="adj"/></l><r>whilk<s n="adj"/></r></p></e>
     <e><p><l>white<s n="adj"/><s n="sint"/></l><r>white<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>wooden<s n="adj"/></l><r>widden<s n="adj"/></r></p></e>
-    <e><p><l>our<s n="adj"/></l><r>wir<s n="adj"/></r></p></e>
+    <e><p><l>our<s n="adj"/><s n="sint"/></l><r>wir<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>valuable<s n="adj"/></l><r>worth<s n="adj"/></r></p></e>
     <e><p><l>worthwhile<s n="adj"/></l><r>worth<s n="adj"/></r></p></e>
     <e><p><l>wrong<s n="adj"/></l><r>wrang<s n="adj"/></r></p></e>
-    <e><p><l>yellow<s n="adj"/></l><r>yella<s n="adj"/></r></p></e>
-    <e><p><l>yellow<s n="adj"/></l><r>yellae<s n="adj"/></r></p></e>
+    <e><p><l>yellow<s n="adj"/><s n="sint"/></l><r>yella<s n="adj"/></r></p></e>
+    <e><p><l>yellow<s n="adj"/><s n="sint"/></l><r>yellae<s n="adj"/></r></p></e>
 
 
 
