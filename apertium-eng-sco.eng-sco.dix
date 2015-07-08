@@ -161,10 +161,46 @@
 
         <!-- ADVERBS -->
 
+    <e><p><l>below<s n="adv"/></l><r>ablo<s n="adv"/></r></p></e>
+    <e><p><l>beneath<s n="adv"/></l><r>ablo<s n="adv"/></r></p></e>
+    <e><p><l>across<s n="adv"/></l><r>across<s n="adv"/></r></p></e>
+    <e><p><l>off<s n="adv"/></l><r>aff<s n="adv"/></r></p></e>
+    <e><p><l>often<s n="adv"/></l><r>affen<s n="adv"/></r></p></e>
+    <e><p><l>again<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
     <e><p><l>again<s n="adv"/></l><r>agin<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>home<s n="adv"/></l><r>ahame<s n="adv"/></r></p></e>
+    <e><p><l>ahead<s n="adv"/></l><r>aheid<s n="adv"/></r></p></e>
+    <e><p><l>behind<s n="adv"/></l><r>ahint<s n="adv"/></r></p></e>
+    <e><p><l>perhaps<s n="adv"/></l><r>aiblins<s n="adv"/></r></p></e>
+    <e><p><l>only<s n="adv"/></l><r>ainly<s n="adv"/></r></p></e>
+    <e><p><l>ajar<s n="adv"/></l><r>ajee<s n="adv"/></r></p></e>
+    <e><p><l>alone<s n="adv"/></l><r>alane<s n="adv"/></r></p></e>
+    <e><p><l>along<s n="adv"/></l><r>alang<s n="adv"/></r></p></e>
+    <e><p><l>almost<s n="adv"/></l><r>almaist<s n="adv"/></r></p></e>
     <e><p><l>also<s n="adv"/></l><r>an<b/>aw<s n="adv"/></r></p></e>
+    <e><p><l>once<s n="adv"/></l><r>ance<s n="adv"/></r></p></e>
+    <e><p><l>beneath<s n="adv"/></l><r>aneath<s n="adv"/></r></p></e>
+    <e><p><l>only<s n="adv"/></l><r>anely<s n="adv"/></r></p></e>
+    <e><p><l>apart<s n="adv"/></l><r>apairt<s n="adv"/></r></p></e>
+    <e><p><l>around<s n="adv"/></l><r>aroon<s n="adv"/></r></p></e>
+    <e><p><l>around<s n="adv"/></l><r>aroond<s n="adv"/></r></p></e>
     <e><p><l>as<s n="adv"/></l><r>as<s n="adv"/></r></p></e>
+    <e><p><l>across<s n="adv"/></l><r>athwart<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>all<s n="adv"/></l><r>ava<s n="adv"/></r></p></e>
+    <e><p><l>all<s n="adv"/></l><r>aw<s n="adv"/></r></p></e>
+    <e><p><l>away<s n="adv"/></l><r>awa<s n="adv"/></r></p></e>
+    <e><p><l>ago<s n="adv"/></l><r>awa<s n="adv"/></r></p></e>
+    <e><p><l>absent<s n="adv"/></l><r>awa<s n="adv"/></r></p></e>
+
+
+
+
+
     <e><p><l>maybe<s n="adv"/></l><r>mebbe<s n="adv"/></r></p></e>
+
+
+
+
 
     <e><p><l>more<s n="adv"/></l><r>mair<s n="adv"/></r></p></e>
     <e><p><l>most<s n="adv"/></l><r>maist<s n="adv"/></r></p></e>
@@ -172,12 +208,14 @@
     <e><p><l>not<s n="adv"/></l><r>na<s n="adv"/></r></p></e>
     <e><p><l>onwards<s n="adv"/></l><r>onwarts<s n="adv"/></r></p></e>
     <e><p><l>excessively<s n="adv"/></l><r>owerly<s n="adv"/></r></p></e>
+    <e><p><l>snugly<s n="adv"/></l><r>queem<s n="adv"/></r></p></e>
     <e><p><l>throughout<s n="adv"/></l><r>ootthrou<s n="adv"/></r></p></e>
     <e><p><l>since<s n="adv"/></l><r>syne<s n="adv"/></r></p></e>
     <e><p><l>today<s n="adv"/></l><r>the<b/>day<s n="adv"/></r></p></e>
     <e><p><l>tomorrow<s n="adv"/></l><r>the<b/>morn<s n="adv"/></r></p></e>
     <e><p><l>tonight<s n="adv"/></l><r>the<b/>nicht<s n="adv"/></r></p></e>
     <e><p><l>at<b/>the<b/>moment<s n="adv"/></l><r>the<b/>nou<s n="adv"/></r></p></e>
+    <e><p><l>formerly<s n="adv"/></l><r>umwhile<s n="adv"/></r></p></e>
     <e><p><l>where<s n="adv"/><s n="itg"/></l><r>whaur<s n="adv"/><s n="itg"/></r></p></e>
 
 
@@ -474,7 +512,7 @@
     <e><p><l>hollow<s n="adj"/><s n="sint"/></l><r>howe<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>humped<s n="adj"/></l><r>humphie<s n="adj"/></r></p></e>
     <e><p><l>hunchbacked<s n="adj"/></l><r>humphie-backit<s n="adj"/></r></p></e>
-    <e><p><l>a lot<s n="adj"/></l><r>hunners<s n="adj"/></r></p></e>
+    <e><p><l>a<b/>lot<s n="adj"/></l><r>hunners<s n="adj"/></r></p></e>
     <e><p><l>same<s n="adj"/></l><r>ilk<s n="adj"/></r></p></e>
     <e><p><l>each<s n="adj"/></l><r>ilka<s n="adj"/></r></p></e>
     <e><p><l>every<s n="adj"/></l><r>ilka<s n="adj"/></r></p></e>
