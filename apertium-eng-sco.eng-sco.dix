@@ -191,21 +191,88 @@
     <e><p><l>away<s n="adv"/></l><r>awa<s n="adv"/></r></p></e>
     <e><p><l>ago<s n="adv"/></l><r>awa<s n="adv"/></r></p></e>
     <e><p><l>absent<s n="adv"/></l><r>awa<s n="adv"/></r></p></e>
-
-
-
-
-
-    <e><p><l>maybe<s n="adv"/></l><r>mebbe<s n="adv"/></r></p></e>
-
-
-
-
-
+    <e><p><l>really<s n="adv"/></l><r>awfi<s n="adv"/></r></p></e>
+    <e><p><l>very<s n="adv"/></l><r>awfi<s n="adv"/></r></p></e>
+    <e><p><l>awfully<s n="adv"/></l><r>awfi<s n="adv"/></r></p></e>
+    <e><p><l>really<s n="adv"/></l><r>awfu<s n="adv"/></r></p></e>
+    <e><p><l>very<s n="adv"/></l><r>awfu<s n="adv"/></r></p></e>
+    <e><p><l>awfully<s n="adv"/></l><r>awfu<s n="adv"/></r></p></e>
+    <e><p><l>almost<s n="adv"/></l><r>awmaist<s n="adv"/></r></p></e>
+    <e><p><l>already<s n="adv"/></l><r>awready<s n="adv"/></r></p></e>
+    <e><p><l>alright<s n="adv"/></l><r>awricht<s n="adv"/></r></p></e>
+    <e><p><l>altogether<s n="adv"/></l><r>awthegither<s n="adv"/></r></p></e>
+    <e><p><l>although<s n="adv"/></l><r>awtho<s n="adv"/></r></p></e>
+    <e><p><l>yes<s n="adv"/></l><r>ay<s n="adv"/></r></p></e>
+    <e><p><l>still<s n="adv"/></l><r>aye<s n="adv"/></r></p></e>
+    <e><p><l>always<s n="adv"/></l><r>aye<s n="adv"/></r></p></e>
+    <e><p><l>childishly<s n="adv"/></l><r>bairnishly<s n="adv"/></r></p></e>
+    <e><p><l>inside<s n="adv"/></l><r>ben<s n="adv"/></r></p></e>
+    <e><p><l>by<s n="adv"/></l><r>bi<s n="adv"/></r></p></e>
+    <e><p><l>well<s n="adv"/></l><r>braw<s n="adv"/></r></p></e>
+    <e><p><l>though<s n="adv"/></l><r>but<s n="adv"/></r></p></e>
+    <e><p><l>out<s n="adv"/></l><r>but<s n="adv"/></r></p></e>
+    <e><p><l>carefully<s n="adv"/></l><r>cannie<s n="adv"/></r></p></e>
+    <e><p><l>cautiously<s n="adv"/></l><r>cannie<s n="adv"/></r></p></e>
+    <e><p><l>carefully<s n="adv"/></l><r>canny<s n="adv"/></r></p></e>
+    <e><p><l>cautiously<s n="adv"/></l><r>canny<s n="adv"/></r></p></e>
+    <e><p><l>clearly<s n="adv"/></l><r>clear<s n="adv"/></r></p></e>
+    <e><p><l>confidently<s n="adv"/></l><r>clear<s n="adv"/></r></p></e>
+    <e><p><l>down<s n="adv"/></l><r>doon<s n="adv"/></r></p></e>
+    <e><p><l>down<s n="adv"/></l><r>doun<s n="adv"/></r></p></e>
+    <e><p><l>slowly<s n="adv"/></l><r>dreichly<s n="adv"/></r></p></e>
+    <e><p><l>tediously<s n="adv"/></l><r>dreichly<s n="adv"/></r></p></e>
+    <e><p><l>easily<s n="adv"/></l><r>easy<s n="adv"/></r></p></e>
+    <e><p><l>once<s n="adv"/></l><r>eence<s n="adv"/></r></p></e>
+    <e><p><l>after<s n="adv"/></l><r>efter<s n="adv"/></r></p></e>
+    <e><p><l>later<s n="adv"/></l><r>efter<s n="adv"/></r></p></e>
+    <e><p><l>completely<s n="adv"/></l><r>fair<s n="adv"/></r></p></e>
+    <e><p><l>when<s n="adv"/><s n="itg"/></l><r>fan<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>far<s n="adv"/></l><r>faur<s n="adv"/></r></p></e>
+    <e><p><l>last<b/>year<s n="adv"/></l><r>fernyear<s n="adv"/></r></p></e>
+    <e><p><l>how<s n="adv"/><s n="itg"/></l><r>foo<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>ordinarily<s n="adv"/></l><r>for<b/>ordinar<s n="adv"/></r></p></e>
+    <e><p><l>forward<s n="adv"/></l><r>for<b/>forrit<s n="adv"/></r></p></e>
+    <e><p><l>very<s n="adv"/></l><r>for<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>quite<s n="adv"/></l><r>for<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>gladly<s n="adv"/></l><r>for<b/>gledly<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>home<s n="adv"/></l><r>hame<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>homewards<s n="adv"/></l><r>hame-throu<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>tightly<s n="adv"/></l><r>haurd<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>hardly<s n="adv"/></l><r>haurdly<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>high<s n="adv"/></l><r>heich<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>loudly<s n="adv"/></l><r>heich<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>here<s n="adv"/></l><r>here<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>eventually<s n="adv"/></l><r>hinderly<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>honestly<s n="adv"/></l><r>honestly<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>how<s n="adv"/><s n="itg"/></l><r>who<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>why<s n="adv"/><s n="itg"/></l><r>who<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>however<s n="adv"/><s n="itg"/></l><r>hooanever<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>however<s n="adv"/><s n="itg"/></l><r>hooaniver<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>in<s n="adv"/></l><r>in<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>inside<s n="adv"/></l><r>inside<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>instead<s n="adv"/></l><r>insteid<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>other<s n="adv"/></l><r>ither<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>just<s n="adv"/></l><r>jist<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>just<s n="adv"/></l><r>juist<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>keenly<s n="adv"/></l><r>keenly<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>enthusiastically<s n="adv"/></l><r>laldie<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>loudly<s n="adv"/></l><r>lood<b/>gey<s n="adv"/></r></p></e>
     <e><p><l>more<s n="adv"/></l><r>mair<s n="adv"/></r></p></e>
     <e><p><l>most<s n="adv"/></l><r>maist<s n="adv"/></r></p></e>
-    <e><p><l>never<s n="adv"/></l><r>niver<s n="adv"/></r></p></e>
+    <e><p><l>meanwhile<s n="adv"/></l><r>meantime<s n="adv"/></r></p></e>    
+    <e><p><l>maybe<s n="adv"/></l><r>mebbe<s n="adv"/></r></p></e>
+    <e><p><l>maybe<s n="adv"/></l><r>mebbes<s n="adv"/></r></p></e>
+    <e><p><l>maybe<s n="adv"/></l><r>mibbe<s n="adv"/></r></p></e>
     <e><p><l>not<s n="adv"/></l><r>na<s n="adv"/></r></p></e>
+    <e><p><l>not<s n="adv"/></l><r>nae<s n="adv"/></r></p></e>
+    <e><p><l>naturally<s n="adv"/></l><r>naitural<s n="adv"/></r></p></e>
+    <e><p><l>no<s n="adv"/></l><r>naw<s n="adv"/></r></p></e>
+    <e><p><l>next<s n="adv"/></l><r>neist<s n="adv"/></r></p></e>
+    <e><p><l>next<s n="adv"/></l><r>niest<s n="adv"/></r></p></e>
+    <e><p><l>never<s n="adv"/></l><r>niver<s n="adv"/></r></p></e>
+    <e><p><l>never<s n="adv"/></l><r>nivver<s n="adv"/></r></p></e>
+    <e><p><l>no<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
+
     <e><p><l>onwards<s n="adv"/></l><r>onwarts<s n="adv"/></r></p></e>
     <e><p><l>excessively<s n="adv"/></l><r>owerly<s n="adv"/></r></p></e>
     <e><p><l>snugly<s n="adv"/></l><r>queem<s n="adv"/></r></p></e>
