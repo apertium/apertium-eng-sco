@@ -185,6 +185,7 @@
     <e><p><l>around<s n="adv"/></l><r>aroon<s n="adv"/></r></p></e>
     <e><p><l>around<s n="adv"/></l><r>aroond<s n="adv"/></r></p></e>
     <e><p><l>as<s n="adv"/></l><r>as<s n="adv"/></r></p></e>
+    <e><p><l>at<b/>Easter<s n="n"/></l><r>at<b/>Pasche<s n="adv"/></r></p></e>
     <e><p><l>across<s n="adv"/></l><r>athwart<s n="adv"/></r></p></e>
     <e><p><l>at<b/>all<s n="adv"/></l><r>ava<s n="adv"/></r></p></e>
     <e><p><l>all<s n="adv"/></l><r>aw<s n="adv"/></r></p></e>
@@ -370,6 +371,10 @@
     <e><p><l>your<s n="det"/><s n="pos"/></l><r>yer<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>your<s n="det"/><s n="pos"/></l><r>your<s n="det"/><s n="pos"/></r></p></e>
 
+    <!-- NUMBERS -->
+
+    <e><p><l>three<s n="num"/></l><r>three<s n="num"/></r></p></e>
+
 
     
     <e><p><l>very<s n="preadv"/></l><r>verra<s n="preadv"/></r></p></e>
@@ -382,18 +387,82 @@
     <e><p><l>after<s n="cnjadv"/></l><r>efter<s n="cnjadv"/></r></p></e>
     <e><p><l>as<b/>well<b/>as<s n="cnjadv"/></l><r>as<b/>weel<b/>as<s n="cnjadv"/></r></p></e>
 
-    <e><p><l>to<s n="pr"/></l><r>tae<s n="pr"/></r></p></e>
-    <e><p><l>of<s n="pr"/></l><r>o<s n="pr"/></r></p></e>
-    <e><p><l>from<s n="pr"/></l><r>frae<s n="pr"/></r></p></e>
-    <e><p><l>out<s n="pr"/></l><r>oot<s n="pr"/></r></p></e>
+
+    <!-- PREPOSITIONS -->
+
+    <e><p><l>below<s n="pr"/></l><r>ablo<s n="pr"/></r></p></e>
+    <e><p><l>under<s n="pr"/></l><r>ablo<s n="pr"/></r></p></e>
+    <e><p><l>above<s n="pr"/></l><r>aboon<s n="pr"/></r></p></e>
+    <e><p><l>about<s n="pr"/></l><r>aboot<s n="pr"/></r></p></e>
+    <e><p><l>above<s n="pr"/></l><r>abuin<s n="pr"/></r></p></e>
+    <e><p><l>above<s n="pr"/></l><r>abune<s n="pr"/></r></p></e>
+    <e><p><l>across<s n="pr"/></l><r>across<s n="pr"/></r></p></e>
+    <e><p><l>off<s n="pr"/></l><r>aff<s n="pr"/></r></p></e>
+    <e><p><l>before<s n="pr"/></l><r>afore<s n="pr"/></r></p></e>
+    <e><p><l>behind<s n="pr"/></l><r>ahint<s n="pr"/></r></p></e>
+    <e><p><l>among<s n="pr"/></l><r>amang<s n="pr"/></r></p></e>
+    <e><p><l>beneath<s n="pr"/></l><r>aneath<s n="pr"/></r></p></e>
+    <e><p><l>concerning<s n="pr"/></l><r>anent<s n="pr"/></r></p></e>
+    <e><p><l>around<s n="pr"/></l><r>aroon<s n="pr"/></r></p></e>
+    <e><p><l>around<s n="pr"/></l><r>aroond<s n="pr"/></r></p></e>
     <e><p><l>at<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
-    <e><p><l>in<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
-    <e><p><l>with<s n="pr"/></l><r>wi<s n="pr"/></r></p></e>
-    <e><p><l>in<b/>order<b/>to<s n="pr"/></l><r>for<b/>tae<s n="pr"/></r></p></e>
-    <e><p><l>more<b/>than<s n="pr"/></l><r>mair<b/>nor<s n="pr"/></r></p></e>
-    <e><p><l>throughout<s n="pr"/></l><r>ootthrou<s n="pr"/></r></p></e>
+    <e><p><l>within<s n="pr"/></l><r>athin<s n="pr"/></r></p></e>
+    <e><p><l>across<s n="pr"/></l><r>athort<s n="pr"/></r></p></e>
+    <e><p><l>across<s n="pr"/></l><r>athwart<s n="pr"/></r></p></e>
+    <e><p><l>between<s n="pr"/></l><r>athween<s n="pr"/></r></p></e>
+    <e><p><l>beyond<s n="pr"/></l><r>ayont<s n="pr"/></r></p></e>
+    <e><p><l>through<s n="pr"/></l><r>ben<s n="pr"/></r></p></e>
+    <e><p><l>by<s n="pr"/></l><r>bi<s n="pr"/></r></p></e>
+    <e><p><l>out<s n="pr"/></l><r>but<s n="pr"/></r></p></e>
+    <e><p><l>after<s n="pr"/></l><r>efter<s n="pr"/></r></p></e>
+    <e><p><l>from<s n="pr"/></l><r>fae<s n="pr"/></r></p></e>
     <e><p><l>for<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+    <e><p><l>in<b/>order<b/>to<s n="pr"/></l><r>for<b/>tae<s n="pr"/></r></p></e>
+    <e><p><l>against<s n="pr"/></l><r>forenent<s n="pr"/></r></p></e>
+    <e><p><l>from<s n="pr"/></l><r>frae<s n="pr"/></r></p></e>
+    <e><p><l>against<s n="pr"/></l><r>gin<s n="pr"/></r></p></e>
+    <e><p><l>nearby<s n="pr"/></l><r>gin<s n="pr"/></r></p></e>
+    <e><p><l>towards<s n="pr"/></l><r>gin<s n="pr"/></r></p></e>
+    <e><p><l>into<s n="pr"/></l><r>intae<s n="pr"/></r></p></e>
+    <e><p><l>into<s n="pr"/></l><r>inti<s n="pr"/></r></p></e>
+    <e><p><l>into<s n="pr"/></l><r>intil<s n="pr"/></r></p></e>
+    <e><p><l>notwithstanding<s n="pr"/></l><r>maugre<s n="pr"/></r></p></e>
+    <e><p><l>more<b/>than<s n="pr"/></l><r>mair<b/>nor<s n="pr"/></r></p></e>
+    <e><p><l>in<b/>spite<b/>of<s n="pr"/></l><r>maugre<s n="pr"/></r></p></e>
+    <e><p><l>next<b/>to<s n="pr"/></l><r>neist<s n="pr"/></r></p></e>
+    <e><p><l>next<b/>to<s n="pr"/></l><r>niest<s n="pr"/></r></p></e>
+    <e><p><l>next<s n="pr"/></l><r>nixt<s n="pr"/></r></p></e>
+    <e><p><l>of<s n="pr"/></l><r>o<s n="pr"/></r></p></e>
+    <e><p><l>on<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
+    <e><p><l>onto<s n="pr"/></l><r>ontae<s n="pr"/></r></p></e>
+    <e><p><l>onto<s n="pr"/></l><r>ontil<s n="pr"/></r></p></e>
+    <e><p><l>out<s n="pr"/></l><r>oot<s n="pr"/></r></p></e>
+    <e><p><l>outside<s n="pr"/></l><r>ootside<s n="pr"/></r></p></e>
+    <e><p><l>beyond<s n="pr"/></l><r>ootwi<s n="pr"/></r></p></e>
+    <e><p><l>beyond<s n="pr"/></l><r>ootwith<s n="pr"/></r></p></e>
+    <e><p><l>throughout<s n="pr"/></l><r>ootthrou<s n="pr"/></r></p></e>
+    <e><p><l>out<s n="pr"/></l><r>out<s n="pr"/></r></p></e>
+    <e><p><l>throughout<s n="pr"/></l><r>out-throu<s n="pr"/></r></p></e>
+    <e><p><l>over<s n="pr"/></l><r>ower<s n="pr"/></r></p></e>
     <e><p><l>since<s n="pr"/></l><r>syne<s n="pr"/></r></p></e>
+    <e><p><l>to<s n="pr"/></l><r>tae<s n="pr"/></r></p></e>
+    <e><p><l>toward<s n="pr"/></l><r>taeward<s n="pr"/></r></p></e>
+    <e><p><l>toward<s n="pr"/></l><r>taewart<s n="pr"/></r></p></e>
+    <e><p><l>through<s n="pr"/></l><r>throu<s n="pr"/></r></p></e>
+    <e><p><l>to<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
+    <e><p><l>under<s n="pr"/></l><r>unner<s n="pr"/></r></p></e>
+    <e><p><l>west<s n="pr"/></l><r>wast<s n="pr"/></r></p></e>
+    <e><p><l>with<s n="pr"/></l><r>wi<s n="pr"/></r></p></e>
+    <e><p><l>without<s n="pr"/></l><r>wioot<s n="pr"/></r></p></e>
+    <e><p><l>without<s n="pr"/></l><r>withoot<s n="pr"/></r></p></e>
+    <e><p><l>outside<s n="pr"/></l><r>withoot<s n="pr"/></r></p></e>
+    <e><p><l>unless<s n="pr"/></l><r>withoot<s n="pr"/></r></p></e>
+
+
+
+
+
+
 
 
     <!-- Adjectives -->
@@ -937,6 +1006,7 @@
     <e><p><l>and<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e slr="como"><p><l>as<s n="cnjadv"/></l><r>as<s n="cnjadv"/></r></p></e>
     <e><p><l>although<s n="cnjadv"/></l><r>awtho<s n="cnjadv"/></r></p></e>
+    <e><p><l>because<s n="cnjadv"/></l><r>because<s n="cnjadv"/></r></p></e>
     <e><p><l>if<s n="cnjadv"/></l><r>gin<s n="cnjadv"/></r></p></e>
     <e c="comparatives"><p><l>than<s n="cnjcoo"/></l><r>nor<s n="cnjcoo"/></r></p></e>
     <e><p><l>nor<s n="cnjcoo"/></l><r>nor<s n="cnjcoo"/></r></p></e>
@@ -1150,6 +1220,7 @@
     <e><p><l>release<s n="vblex"/></l><r>demit<s n="vblex"/></r></p></e>
     <e><p><l>depart<s n="vblex"/></l><r>depairt<s n="vblex"/></r></p></e>
     <e><p><l>develop<s n="vblex"/></l><r>develop<s n="vblex"/></r></p></e>
+    <e><p><l>wipe<s n="vblex"/></l><r>dicht<s n="vblex"/></r></p></e>
     <e><p><l>differ<s n="vblex"/></l><r>differ<s n="vblex"/></r></p></e>
     <e><p><l>deck<s n="vblex"/></l><r>dink<s n="vblex"/></r></p></e>
     <e><p><l>dirk<s n="vblex"/></l><r>dirk<s n="vblex"/></r></p></e>
@@ -1318,6 +1389,7 @@
     <e><p><l>carry<s n="vblex"/></l><r>oxter<s n="vblex"/></r></p></e>
     <e><p><l>lead<s n="vblex"/></l><r>oxter<s n="vblex"/></r></p></e>
     <e><p><l>part<s n="vblex"/></l><r>pairt<s n="vblex"/></r></p></e>
+    <e><p><l>pop<s n="vblex"/></l><r>pap<s n="vblex"/></r></p></e>
     <e><p><l>pass<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>
     <e><p><l>shuffle<s n="vblex"/></l><r>pauchle<s n="vblex"/></r></p></e>
     <e><p><l>pant<s n="vblex"/></l><r>pech<s n="vblex"/></r></p></e>
@@ -1519,12 +1591,22 @@
     <e><p><l>Aberdeen<s n="np"/></l><r>Aiberdeen<s n="np"/></r></p></e>
     <e><p><l>Ireland<s n="np"/></l><r>Airlan<s n="np"/></r></p></e>
     <e><p><l>America<s n="np"/></l><r>Americae<s n="np"/></r></p></e>
+    <e><p><l>Australia<s n="np"/></l><r>Australie<s n="np"/></r></p></e>
     <e><p><l>Barcelona<s n="np"/></l><r>Barcelona<s n="np"/></r></p></e>
+    <e><p><l>Capitol<s n="np"/></l><r>Capitol<s n="np"/></r></p></e>
+    <e><p><l>Canada<s n="np"/></l><r>Canadae<s n="np"/></r></p></e>
     <e><p><l>Catalonia<s n="np"/></l><r>Catalonie<s n="np"/></r></p></e>
+    <e><p><l>Denmark<s n="np"/></l><r>Denmark<s n="np"/></r></p></e>
+    <e><p><l>Ireland<s n="np"/></l><r>Erlan<s n="np"/></r></p></e>
     <e><p><l>Irish<b/>Sea<s n="np"/></l><r>Erse<b/>Sea<s n="np"/></r></p></e>
+    <e><p><l>Falkirk<s n="np"/></l><r>Fawkirk<s n="np"/></r></p></e>
+    <e><p><l>France<s n="np"/></l><r>Franse<s n="np"/></r></p></e>
     <e><p><l>France<s n="np"/></l><r>Fraunce<s n="np"/></r></p></e>
     <e><p><l>North<b/>Sea<s n="np"/></l><r>German<b/>Ocean<s n="np"/></r></p></e>
+    <e><p><l>Glasgow<s n="np"/></l><r>Glesca<s n="np"/></r></p></e>
+    <e><p><l>Glasgow<s n="np"/></l><r>Glesga<s n="np"/></r></p></e>
     <e><p><l>Greece<s n="np"/></l><r>Greece<s n="np"/></r></p></e>
+    <e><p><l>Holyrood<s n="np"/></l><r>Halyruid<s n="np"/></r></p></e>
     <e><p><l>England<s n="np"/></l><r>Ingland<s n="np"/></r></p></e>
     <e><p><l>English<b/>Channel<s n="np"/></l><r>Inglis<b/>Chainnel<s n="np"/></r></p></e>
     <e><p><l>Ireland<s n="np"/></l><r>Ireland<s n="np"/></r></p></e>
@@ -1537,10 +1619,38 @@
     <e><p><l>Spain<s n="np"/></l><r>Spain<s n="np"/></r></p></e>
     <e><p><l>Sparta<s n="np"/></l><r>Sparta<s n="np"/></r></p></e>
     <e><p><l>United<b/>Kingdom<s n="np"/></l><r>Unitit<b/>Kinrick<s n="np"/></r></p></e>
+    <e><p><l>United<b/>States<s n="np"/></l><r>Unitit<b/>States<s n="np"/></r></p></e>
+    <e><p><l>U.K.<s n="np"/></l><r>U.K.<s n="np"/></r></p></e>
+    <e><p><l>U.S.<s n="np"/></l><r>U.S.<s n="np"/></r></p></e>
     <e><p><l>Westminster<s n="np"/></l><r>Wastmeenster<s n="np"/></r></p></e>
 
         <!-- Days & Months -->
-    <e><p><l>April<s n="n"/></l><r>Aprile<s n="n"/></r></p></e>
+    <e><p><l>January<s n="np"/></l><r>Januar<s n="np"/></r></p></e>
+    <e><p><l>February<s n="np"/></l><r>Februar<s n="np"/></r></p></e>
+    <e><p><l>March<s n="np"/></l><r>Mairch<s n="np"/></r></p></e>
+    <e><p><l>April<s n="np"/></l><r>Aprile<s n="np"/></r></p></e>
+    <e><p><l>April<s n="np"/></l><r>Apryle<s n="np"/></r></p></e>
+    <e><p><l>May<s n="np"/></l><r>Mey<s n="np"/></r></p></e>
+    <e><p><l>June<s n="np"/></l><r>Juin<s n="np"/></r></p></e>
+    <e><p><l>July<s n="np"/></l><r>Julie<s n="np"/></r></p></e>
+    <e><p><l>July<s n="np"/></l><r>July<s n="np"/></r></p></e>
+    <e><p><l>August<s n="np"/></l><r>August<s n="np"/></r></p></e>
+    <e><p><l>September<s n="np"/></l><r>September<s n="np"/></r></p></e>
+    <e><p><l>October<s n="np"/></l><r>October<s n="np"/></r></p></e>
+    <e><p><l>November<s n="np"/></l><r>November<s n="np"/></r></p></e>
+    <e><p><l>December<s n="np"/></l><r>Dezember<s n="np"/></r></p></e>
+    <e><p><l>December<s n="np"/></l><r>December<s n="np"/></r></p></e>
+
+    <e><p><l>Monday<s n="np"/></l><r>Monanday<s n="np"/></r></p></e>    
+    <e><p><l>Tuesday<s n="np"/></l><r>Tysday<s n="np"/></r></p></e>  
+    <e><p><l>Wednesday<s n="np"/></l><r>Wadensday<s n="np"/></r></p></e>  
+    <e><p><l>Thursday<s n="np"/></l><r>Fuirsday<s n="np"/></r></p></e>  
+    <e><p><l>Friday<s n="np"/></l><r>Monanday<s n="np"/></r></p></e>  
+    <e><p><l>Saturday<s n="np"/></l><r>Seturday<s n="np"/></r></p></e>  
+    <e><p><l>Sunday<s n="np"/></l><r>Saubath<s n="np"/></r></p></e>  
+
+        <!-- Other NNPs -->
+
 
 
     <!-- NEW NOUNS! -->
@@ -1845,6 +1955,7 @@
     <e><p><l>agent<s n="n"/></l><r>factor<s n="n"/></r></p></e>
     <e><p><l>father<s n="n"/></l><r>fader<s n="n"/></r></p></e>
     <e><p><l>fathers<s n="n"/></l><r>faders<s n="n"/></r></p></e>
+    <e><p><l>foam<s n="n"/></l><r>faem<s n="n"/></r></p></e>
     <e><p><l>family<s n="n"/></l><r>faimilie<s n="n"/></r></p></e>
     <e><p><l>family<s n="n"/></l><r>faimily<s n="n"/></r></p></e>
     <e><p><l>family<s n="n"/></l><r>faimlie<s n="n"/></r></p></e>
@@ -2106,6 +2217,7 @@
     <e><p><l>lark<s n="n"/></l><r>laverock<s n="n"/></r></p></e>
     <e><p><l>lawyer<s n="n"/></l><r>lawer<s n="n"/></r></p></e>
     <e><p><l>lowlands<s n="n"/></l><r>lawlands<s n="n"/></r></p></e>
+    <e><p><l>lawn<s n="n"/></l><r>lawn<s n="n"/></r></p></e>
     <e><p><l>leaf<s n="n"/></l><r>leaf<s n="n"/></r></p></e>
     <e><p><l>leaves<s n="n"/></l><r>leafs<s n="n"/></r></p></e>
     <e><p><l>loyalty<s n="n"/></l><r>lealty<s n="n"/></r></p></e>
@@ -2272,7 +2384,6 @@
     <e><p><l>crab<s n="n"/></l><r>partan<s n="n"/></r></p></e>
     <e><p><l>particulars<s n="n"/></l><r>parteeclars<s n="n"/></r></p></e>
     <e><p><l>particulars<s n="n"/></l><r>parteeculars<s n="n"/></r></p></e>
-    <e><p><l>Easter<s n="n"/></l><r>Pasche<s n="n"/></r></p></e>
     <e><p><l>chatter<s n="n"/></l><r>patter<s n="n"/></r></p></e>
     <e><p><l>pattern<s n="n"/></l><r>pattren<s n="n"/></r></p></e>
     <e><p><l>dad<s n="n"/></l><r>paw<s n="n"/></r></p></e>
@@ -2403,6 +2514,7 @@
     <e><p><l>shot<s n="n"/></l><r>shote<s n="n"/></r></p></e>
     <e><p><l>shot<s n="n"/></l><r>shote<s n="n"/></r></p></e>
     <e><p><l>shoes<s n="n"/></l><r>shuin<s n="n"/></r></p></e>
+    <e><p><l>sleeve<s n="n"/></l><r>sleeve<s n="n"/></r></p></e>
     <e><p><l>sight<s n="n"/></l><r>sicht<s n="n"/></r></p></e>
     <e><p><l>side<s n="n"/></l><r>side<s n="n"/></r></p></e>
     <e><p><l>silver<s n="n"/></l><r>siller<s n="n"/></r></p></e>
@@ -2446,6 +2558,7 @@
     <e><p><l>step-child<s n="n"/></l><r>stap-bairn<s n="n"/></r></p></e>
     <e><p><l>star<s n="n"/></l><r>starn<s n="n"/></r></p></e>
     <e><p><l>stars<s n="n"/></l><r>starns<s n="n"/></r></p></e>
+    <e><p><l>state<s n="n"/></l><r>state<s n="n"/></r></p></e>
     <e><p><l>standard<s n="n"/></l><r>staundart<s n="n"/></r></p></e>
     <e><p><l>standards<s n="n"/></l><r>staundarts<s n="n"/></r></p></e>
     <e><p><l>stand<s n="n"/></l><r>staundin<s n="n"/></r></p></e>
