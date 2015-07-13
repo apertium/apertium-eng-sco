@@ -471,9 +471,11 @@
 
     <!-- PRONOUNS -->
 
-    <e><p><l>I<s n="prn"/></l><r>A<s n="prn"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e><p><l>you<s n="prn"/></l><r>ye<s n="prn"/><s n="p2"/><s n="sg"/></r></p></e>
-    <e><p><l>he<s n="prn"/></l><r>ye<s n="prn"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e><p><l>I<s n="prn"/></l><r>A<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>you<s n="prn"/></l><r>ye<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+  
+    <e><p><l>me<s n="prn"/></l><r>me<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>you<s n="prn"/></l><r>ye<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
     <!-- Adjectives -->
@@ -1465,7 +1467,7 @@
     <e><p><l>search<s n="vblex"/></l><r>rake<s n="vblex"/></r></p></e>
     <e><p><l>stretch<s n="vblex"/></l><r>rax<s n="vblex"/></r></p></e>
     <e><p><l>smoke<s n="vblex"/></l><r>reek<s n="vblex"/></r></p></e>
-    <e><p><l>emit smoke<s n="vblex"/></l><r>reek<s n="vblex"/></r></p></e>
+    <e><p><l>emit<b/>smoke<s n="vblex"/></l><r>reek<s n="vblex"/></r></p></e>
     <e><p><l>smoking<s n="vblex"/></l><r>reekin<s n="vblex"/></r></p></e>
     <e><p><l>redden<s n="vblex"/></l><r>reid<s n="vblex"/></r></p></e>
     <e><p><l>relate<s n="vblex"/></l><r>relate<s n="vblex"/></r></p></e>
