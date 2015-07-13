@@ -8,8 +8,6 @@
       <program name="lt-proc -w">
         <file name="eng-sco.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="eng-sco.rlx.bin"/>
       </program>
@@ -45,13 +43,44 @@
     </pipeline>
   </mode>
 
-  <mode name="eng-sco-dgen" install="no">
+  <mode name="eng-sco-untrimmed" install="no">
     <pipeline>
       <program name="lt-proc -w">
         <file name=".deps/eng.automorf.bin"/>
       </program>
+      <program name="cg-proc -w">
+        <file name="eng-sco.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-sco.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-sco.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-sco.eng-sco.t1x"/>
+        <file name="eng-sco.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-eng-sco.eng-sco.t2x"/>
+        <file name="eng-sco.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-eng-sco.eng-sco.t3x"/>
+        <file name="eng-sco.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="eng-sco.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
 
-
+  <mode name="eng-sco-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-sco.automorf.bin"/>
+      </program>
       <program name="cg-proc -w">
         <file name="eng-sco.rlx.bin"/>
       </program>
@@ -83,7 +112,7 @@
   <mode name="eng-sco-morph" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/eng.automorf.bin"/>
+        <file name="eng-sco.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -91,7 +120,7 @@
   <mode name="eng-sco-disam" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/eng.automorf.bin"/>
+        <file name="eng-sco.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace --grammar">
@@ -103,10 +132,8 @@
   <mode name="eng-sco-tagger" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/eng.automorf.bin"/>
+        <file name="eng-sco.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="eng-sco.rlx.bin"/>
       </program>
@@ -119,10 +146,8 @@
   <mode name="eng-sco-pretransfer" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/eng.automorf.bin"/>
+        <file name="eng-sco.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="eng-sco.rlx.bin"/>
       </program>
@@ -136,10 +161,8 @@
   <mode name="eng-sco-biltrans" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/eng.automorf.bin"/>
+        <file name="eng-sco.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="eng-sco.rlx.bin"/>
       </program>
@@ -156,10 +179,8 @@
   <mode name="eng-sco-lex" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/eng.automorf.bin"/>
+        <file name="eng-sco.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="eng-sco.rlx.bin"/>
       </program>
@@ -179,10 +200,8 @@
   <mode name="eng-sco-transfer" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/eng.automorf.bin"/>
+        <file name="eng-sco.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="eng-sco.rlx.bin"/>
       </program>
@@ -206,10 +225,8 @@
   <mode name="eng-sco-interchunk" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/eng.automorf.bin"/>
+        <file name="eng-sco.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="eng-sco.rlx.bin"/>
       </program>
@@ -237,10 +254,8 @@
   <mode name="eng-sco-postchunk" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/eng.automorf.bin"/>
+        <file name="eng-sco.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="eng-sco.rlx.bin"/>
       </program>
@@ -276,8 +291,6 @@
       <program name="lt-proc -w">
         <file name="sco-eng.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="sco-eng.rlx.bin"/>
       </program>
@@ -313,13 +326,44 @@
     </pipeline>
   </mode>
 
-  <mode name="sco-eng-dgen" install="no">
+  <mode name="sco-eng-untrimmed" install="no">
     <pipeline>
       <program name="lt-proc -w">
         <file name=".deps/sco.automorf.bin"/>
       </program>
+      <program name="cg-proc -w">
+        <file name="sco-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="sco-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="sco-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-eng-sco.sco-eng.t1x"/>
+        <file name="sco-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-eng-sco.sco-eng.t2x"/>
+        <file name="sco-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-eng-sco.sco-eng.t3x"/>
+        <file name="sco-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="sco-eng.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
 
-
+  <mode name="sco-eng-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="sco-eng.automorf.bin"/>
+      </program>
       <program name="cg-proc -w">
         <file name="sco-eng.rlx.bin"/>
       </program>
@@ -351,7 +395,7 @@
   <mode name="sco-eng-morph" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/sco.automorf.bin"/>
+        <file name="sco-eng.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -359,7 +403,7 @@
   <mode name="sco-eng-disam" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/sco.automorf.bin"/>
+        <file name="sco-eng.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace --grammar">
@@ -371,10 +415,8 @@
   <mode name="sco-eng-tagger" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/sco.automorf.bin"/>
+        <file name="sco-eng.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="sco-eng.rlx.bin"/>
       </program>
@@ -387,10 +429,8 @@
   <mode name="sco-eng-pretransfer" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/sco.automorf.bin"/>
+        <file name="sco-eng.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="sco-eng.rlx.bin"/>
       </program>
@@ -404,10 +444,8 @@
   <mode name="sco-eng-biltrans" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/sco.automorf.bin"/>
+        <file name="sco-eng.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="sco-eng.rlx.bin"/>
       </program>
@@ -424,10 +462,8 @@
   <mode name="sco-eng-lex" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/sco.automorf.bin"/>
+        <file name="sco-eng.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="sco-eng.rlx.bin"/>
       </program>
@@ -447,10 +483,8 @@
   <mode name="sco-eng-transfer" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/sco.automorf.bin"/>
+        <file name="sco-eng.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="sco-eng.rlx.bin"/>
       </program>
@@ -471,10 +505,8 @@
   <mode name="sco-eng-interchunk" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/sco.automorf.bin"/>
+        <file name="sco-eng.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="sco-eng.rlx.bin"/>
       </program>
@@ -499,10 +531,8 @@
   <mode name="sco-eng-postchunk" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name=".deps/sco.automorf.bin"/>
+        <file name="sco-eng.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="sco-eng.rlx.bin"/>
       </program>
