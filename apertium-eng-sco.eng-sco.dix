@@ -206,6 +206,7 @@
     <e><p><l>yes<s n="adv"/></l><r>ay<s n="adv"/></r></p></e>
     <e><p><l>still<s n="adv"/></l><r>aye<s n="adv"/></r></p></e>
     <e><p><l>always<s n="adv"/></l><r>aye<s n="adv"/></r></p></e>
+    <e><p><l>back<s n="adv"/></l><r>back<s n="adv"/></r></p></e>    
     <e><p><l>childishly<s n="adv"/></l><r>bairnishly<s n="adv"/></r></p></e>
     <e><p><l>inside<s n="adv"/></l><r>ben<s n="adv"/></r></p></e>
     <e><p><l>by<s n="adv"/></l><r>bi<s n="adv"/></r></p></e>
@@ -349,13 +350,15 @@
     <e><p><l>yesterday<s n="adv"/></l><r>yestreen<s n="adv"/></r></p></e>
     <e><p><l>once<s n="adv"/></l><r>yince<s n="adv"/></r></p></e>
 
-    
+    <!-- PREDETERMINERS -->
+
+    <e><p><l>all<s n="predet"/><s n="sp"/></l><r>aw<s n="predet"/><s n="sp"/></r></p></e> 
 
     <!-- DETERMINERS -->
 
     <e><p><l>a<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>an<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
-    <e><p><l>another<s n="det"/><s n="ind"/></l><r>anither<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>another<s n="det"/><s n="ind"/></l><r>anither<s n="det"/><s n="ind"/></r></p></e>   
     <e><p><l>enough<s n="det"/><s n="qnt"/></l><r>eneuch<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>her<s n="det"/><s n="pos"/></l><r>her<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>his<s n="det"/><s n="pos"/></l><r>his<s n="det"/><s n="pos"/></r></p></e>
@@ -370,6 +373,7 @@
     <e><p><l>my<s n="det"/><s n="pos"/></l><r>ma<s n="det"/><s n="pos"/></r></p></e>
     <e r="RL"><p><l>my<s n="det"/><s n="pos"/></l><r>my<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>no<s n="det"/><s n="qnt"/></l><r>no<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>any<s n="det"/><s n="ind"/></l><r>ony<s n="det"/><s n="ind"/></r></p></e>    
     <e><p><l>some<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>the<s n="det"/><s n="def"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
     <e><p><l>what<s n="det"/><s n="itg"/></l><r>whit<s n="det"/><s n="itg"/></r></p></e>
@@ -472,7 +476,6 @@
     <!-- PRONOUNS -->
 
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
-
 
     <!-- Adjectives -->
 
@@ -1191,6 +1194,7 @@
     <e><p><l>distort<s n="vblex"/></l><r>bauchle<s n="vblex"/></r></p></e>
     <e><p><l>fester<s n="vblex"/></l><r>beal<s n="vblex"/></r></p></e>
     <e><p><l>belong<s n="vblex"/></l><r>belang<s n="vblex"/></r></p></e>
+    <e><p><l>bet<s n="vblex"/></l><r>bet<s n="vblex"/></r></p></e>    
     <e><p><l>build<s n="vblex"/></l><r>big<s n="vblex"/></r></p></e>
     <e><p><l>boil<s n="vblex"/></l><r>bile<s n="vblex"/></r></p></e>
     <e><p><l>chat<s n="vblex"/></l><r>blether<s n="vblex"/></r></p></e>
@@ -1394,6 +1398,7 @@
     <e><p><l>arrest<s n="vblex"/></l><r>lift<s n="vblex"/></r></p></e>
     <e><p><l>lift<s n="vblex"/></l><r>lift<s n="vblex"/></r></p></e>
     <e><p><l>lie<s n="vblex"/></l><r>lig<s n="vblex"/></r></p></e>
+    <e><p><l>like<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>    
     <e><p><l>move agiley<s n="vblex"/></l><r>link<s n="vblex"/></r></p></e>
     <e><p><l>trust<s n="vblex"/></l><r>lippen<s n="vblex"/></r></p></e>
     <e><p><l>listen<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
@@ -1712,8 +1717,8 @@
 
         <!-- Other NNPs -->
 
-    <e><p><l>Mr<s n="np"/></l><r>Mr<s n="np"/></r></p></e> 
-    <e><p><l>Mrs<s n="np"/></l><r>Mrs<s n="np"/></r></p></e> 
+    <e><p><l>Mr<s n="n"/></l><r>Mr<s n="n"/></r></p></e> 
+    <e><p><l>Mrs<s n="n"/></l><r>Mrs<s n="n"/></r></p></e> 
 
 
         <!-- NNPs - Personal names -->
@@ -1824,7 +1829,7 @@
     <e><p><l>liquor<s n="n"/></l><r>bree<s n="n"/></r></p></e>
     <e><p><l>juice<s n="n"/></l><r>bree<s n="n"/></r></p></e>
     <e><p><l>essence<s n="n"/></l><r>bree<s n="n"/></r></p></e>
-    <e><p><l>breeches<s n="n"/></l><r>breeks<s n="n"/></r></p></e>
+    <e r="LR"><p><l>breeches<s n="n"/></l><r>breeks<s n="n"/></r></p></e>
     <e><p><l>trousers<s n="n"/></l><r>breeks<s n="n"/></r></p></e>
     <e><p><l>breast<s n="n"/></l><r>breest<s n="n"/></r></p></e>
     <e><p><l>bread<s n="n"/></l><r>breid<s n="n"/></r></p></e>
@@ -2213,6 +2218,7 @@
     <e><p><l>meeting place<s n="n"/></l><r>howff<s n="n"/></r></p></e>
     <e><p><l>hope<s n="n"/></l><r>howp<s n="n"/></r></p></e>
     <e><p><l>hoof<s n="n"/></l><r>huif<s n="n"/></r></p></e>
+    <e><p><l>hundred<s n="n"/></l><r>hunner<s n="n"/></r></p></e>    
     <e><p><l>whore<s n="n"/></l><r>hure<s n="n"/></r></p></e>
     <e><p><l>oil<s n="n"/></l><r>ile<s n="n"/></r></p></e>
     <e><p><l>entrance<s n="n"/></l><r>in<s n="n"/></r></p></e>
