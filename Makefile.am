@@ -11,26 +11,26 @@ PREFIX2=$(LANG2)-$(LANG1)
 BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON = \
-	$(PREFIX1).automorf.bin \ 
-	$(PREFIX1).prob \
-	$(PREFIX1).rlx.bin \
-	$(PREFIX1).autobil.bin \
-		$(PREFIX1).autolex.bin \
-	$(PREFIX1).autogen.bin \ 
-	$(PREFIX1).autopgen.bin \
-	$(PREFIX1).t1x.bin \
-	$(PREFIX1).t2x.bin \
-	$(PREFIX1).t3x.bin \
-	$(PREFIX2).automorf.bin \ 
-	$(PREFIX2).prob \
-	$(PREFIX2).rlx.bin \
-	$(PREFIX2).autobil.bin \
-		$(PREFIX2).autolex.bin \
-	$(PREFIX2).autogen.bin \ 
-	$(PREFIX2).autopgen.bin \
+        $(PREFIX1).automorf.bin \
+        $(PREFIX1).prob \
+        $(PREFIX1).rlx.bin \
+        $(PREFIX1).autobil.bin \
+                $(PREFIX1).autolex.bin \
+        $(PREFIX1).autogen.bin \
+        $(PREFIX1).autopgen.bin \
+        $(PREFIX1).t1x.bin \
+        $(PREFIX1).t2x.bin \
+        $(PREFIX1).t3x.bin \
+        $(PREFIX2).automorf.bin \
+        $(PREFIX2).prob \
+        $(PREFIX2).rlx.bin \
+        $(PREFIX2).autobil.bin \
+                $(PREFIX2).autolex.bin \
+        $(PREFIX2).autogen.bin \
+        $(PREFIX2).autopgen.bin \
     $(PREFIX2).t1x.bin \
-	$(PREFIX2).t2x.bin \
-	$(PREFIX2).t3x.bin
+        $(PREFIX2).t2x.bin \
+        $(PREFIX2).t3x.bin
 
 
 # This include defines goals for install-modes, .deps/.d and .mode files:
@@ -44,7 +44,10 @@ TARGETS_COMMON = \
 # English analysis:
 # -------------------
 
-$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
+.deps/$(LANG1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin .deps/.d
+	cp $< $@
+
+$(PREFIX1).automorf.bin: .deps/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
 	lt-trim $^ $@
 
 # -------------------
@@ -59,7 +62,10 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 # Scots analysis:
 # -------------------
 
-$(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
+.deps/$(LANG2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin .deps/.d
+	cp $< $@
+
+$(PREFIX2).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
 	lt-trim $^ $@
 
 # -------------------
