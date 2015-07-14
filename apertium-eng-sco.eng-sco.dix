@@ -97,6 +97,11 @@
   </sdefs>
   
   <section id="main" type="standard">
+
+
+        <!-- GENATIVE - temp as noun ??? -->
+    <e><p><l>s<s n="n"/></l><r>s<s n="n"/></r></p></e>    
+
     <e><p><l>calf<s n="n"/></l><r>cauf<s n="n"/></r></p></e>
     <e><p><l>foot<s n="n"/></l><r>fit<s n="n"/></r></p></e>
     <e><p><l>eye<s n="n"/></l><r>ee<s n="n"/></r></p></e>
@@ -298,13 +303,14 @@
     <e><p><l>snugly<s n="adv"/></l><r>queem<s n="adv"/></r></p></e>
     <e><p><l>quickly<s n="adv"/></l><r>quick<s n="adv"/></r></p></e>
     <e><p><l>very<s n="adv"/></l><r>richt<s n="adv"/></r></p></e>
-    <e><p><l>rightly<s n="adv"/></l><r>richtly<s n="adv"/></r></p></e>
-    <e><p><l>sae<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
+    <e><p><l>rightly<s n="cnjadv"/></l><r>richtly<s n="adv"/></r></p></e>
+    <e><p><l>so<s n="adv"/></l><r>sae<s n="cnjadv"/></r></p></e>
     <e><p><l>softly<s n="adv"/></l><r>saft<s n="adv"/></r></p></e>
     <e><p><l>sharply<s n="adv"/></l><r>shairply<s n="adv"/></r></p></e>
     <e><p><l>so<s n="adv"/></l><r>sic<s n="adv"/></r></p></e>
     <e><p><l>separately<s n="adv"/></l><r>sindrie<s n="adv"/></r></p></e>
     <e><p><l>separately<s n="adv"/></l><r>sindry<s n="adv"/></r></p></e>
+    <e><p><l>slowly<s n="adv"/></l><r>slowly<s n="adv"/></r></p></e>
     <e><p><l>so<s n="adv"/></l><r>so<s n="adv"/></r></p></e>
     <e><p><l>some<s n="adv"/></l><r>some<s n="adv"/></r></p></e>
     <e><p><l>south<s n="adv"/></l><r>sooth<s n="adv"/></r></p></e>
@@ -332,6 +338,7 @@
     <e><p><l>at<b/>the<b/>moment<s n="adv"/></l><r>the<b/>noo<s n="adv"/></r></p></e>
     <e><p><l>at<b/>the<b/>moment<s n="adv"/></l><r>the<b/>nou<s n="adv"/></r></p></e>
     <e><p><l>together<s n="adv"/></l><r>thegither<s n="adv"/></r></p></e>
+    <e><p><l>there<s n="adv"/></l><r>there<s n="adv"/></r></p></e>    
     <e><p><l>through<s n="adv"/></l><r>throu<s n="adv"/></r></p></e>
     <e><p><l>formerly<s n="adv"/></l><r>umwhile<s n="adv"/></r></p></e>
     <e><p><l>under<s n="adv"/></l><r>unner<s n="adv"/></r></p></e>
@@ -341,6 +348,8 @@
     <e><p><l>when<s n="adv"/><s n="itg"/></l><r>whan<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>where<s n="adv"/><s n="itg"/></l><r>whaur<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>when<s n="adv"/><s n="itg"/></l><r>when<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>whenever<s n="adv"/></l><r>whanever<s n="adv"/></r></p></e>
+    <e><p><l>whenever<s n="adv"/></l><r>whenever<s n="adv"/></r></p></e>
     <e><p><l>where<s n="adv"/><s n="itg"/></l><r>wherr<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>while<s n="adv"/></l><r>while<s n="adv"/></r></p></e>
     <e><p><l>sometimes<s n="adv"/></l><r>whiles<s n="adv"/></r></p></e>
@@ -372,6 +381,8 @@
     <e><p><l>most<s n="det"/><s n="qnt"/></l><r>maist<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>my<s n="det"/><s n="pos"/></l><r>ma<s n="det"/><s n="pos"/></r></p></e>
     <e r="RL"><p><l>my<s n="det"/><s n="pos"/></l><r>my<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>no<s n="det"/><s n="ind"/></l><r>nae<s n="det"/><s n="ind"/></r></p></e> 
+    <e><p><l>no<s n="det"/><s n="ind"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>    
     <e><p><l>no<s n="det"/><s n="qnt"/></l><r>no<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>any<s n="det"/><s n="ind"/></l><r>ony<s n="det"/><s n="ind"/></r></p></e>    
     <e><p><l>some<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
@@ -382,6 +393,7 @@
 
     <!-- NUMBERS -->
 
+    <e><p><l>one<s n="num"/></l><r>wan<s n="num"/></r></p></e>
     <e><p><l>three<s n="num"/></l><r>three<s n="num"/></r></p></e>
 
 
@@ -395,6 +407,7 @@
     
     <e><p><l>after<s n="cnjadv"/></l><r>efter<s n="cnjadv"/></r></p></e>
     <e><p><l>as<b/>well<b/>as<s n="cnjadv"/></l><r>as<b/>weel<b/>as<s n="cnjadv"/></r></p></e>
+    <e><p><l>whenever<s n="cnjadv"/></l><r>whenever<s n="cnjadv"/></r></p></e>
 
 
     <!-- PREPOSITIONS -->
@@ -475,7 +488,19 @@
 
     <!-- PRONOUNS -->
 
+    <e><p><l>this<s n="prn"/></l><r>this<s n="prn"/></r></p></e>    
+    <e><p><l>that<s n="prn"/></l><r>that<s n="prn"/></r></p></e> 
+
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+
+
+
+    <!-- RELATIVE PRONOUNS -->
+
+    <e><p><l>that<s n="rel"/></l><r>that<s n="rel"/></r></p></e>    
+
+
+
 
     <!-- Adjectives -->
 
@@ -868,7 +893,7 @@
     <e><p><l>sooty<s n="adj"/></l><r>reekit<s n="adj"/></r></p></e>
     <e><p><l>red<s n="adj"/><s n="sint"/></l><r>reid<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>religious<s n="adj"/></l><r>releegious<s n="adj"/></r></p></e>
-    <e><p><l>richt<s n="adj"/></l><r>richt<s n="adj"/></r></p></e>
+    <e><p><l>right<s n="adj"/></l><r>richt<s n="adj"/></r></p></e>
     <e><p><l>ringed<s n="adj"/></l><r>ringit<s n="adj"/></r></p></e>
     <e><p><l>runny<s n="adj"/><s n="sint"/></l><r>rinnie<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>rising<s n="adj"/></l><r>risin<s n="adj"/></r></p></e>
@@ -1051,6 +1076,7 @@
     <e c="comparatives"><p><l>than<s n="cnjcoo"/></l><r>nor<s n="cnjcoo"/></r></p></e>
     <e><p><l>nor<s n="cnjcoo"/></l><r>nor<s n="cnjcoo"/></r></p></e>
     <e><p><l>or<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e><p><l>so<s n="cnjadv"/></l><r>sae<s n="cnjadv"/></r></p></e>
     <e><p><l>when<s n="cnjadv"/></l><r>whan<s n="cnjadv"/></r></p></e>
     <e><p><l>whenever<s n="cnjsub"/></l><r>whaniver<s n="cnjsub"/></r></p></e>
     <e><p><l>while<s n="cnjadv"/></l><r>whiles<s n="cnjadv"/></r></p></e>
@@ -1114,7 +1140,7 @@
     <e><p><l>meet<s n="vblex"/></l><r>meet<s n="vblex"/></r></p></e>
     <e><p><l>translate<s n="vblex"/></l><r>owerset<s n="vblex"/></r></p></e>
     <e><p><l>party<s n="vblex"/></l><r>pairty<s n="vblex"/></r></p></e>
-    <e><p><l>take sides<s n="vblex"/></l><r>pairty<s n="vblex"/></r></p></e>
+    <e><p><l>take<b/>sides<s n="vblex"/></l><r>pairty<s n="vblex"/></r></p></e>
     <e><p><l>put<s n="vblex"/></l><r>pit<s n="vblex"/></r></p></e>
     <e><p><l>read<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
     <e><p><l>tidy<s n="vblex"/></l><r>redd<s n="vblex"/></r></p></e>
@@ -1126,6 +1152,7 @@
     <e><p><l>see<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>send<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
     <e><p><l>set<s n="vblex"/></l><r>set<s n="vblex"/></r></p></e>
+    <e><p><l>sit<s n="vblex"/></l><r>sit<s n="vblex"/></r></p></e>
     <e><p><l>spaek<s n="vblex"/></l><r>spaek<s n="vblex"/></r></p></e>    
     <e><p><l>speak<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e><p><l>speak<s n="vblex"/></l><r>speik<s n="vblex"/></r></p></e>
@@ -1133,6 +1160,7 @@
     <e><p><l>stand<s n="vblex"/></l><r>staun<s n="vblex"/></r></p></e>
     <e><p><l>stand<s n="vblex"/></l><r>staund<s n="vblex"/></r></p></e>
     <e><p><l>take<s n="vblex"/></l><r>tak<s n="vblex"/></r></p></e>
+    <e><p><l>take<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
     <e><p><l>tell<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e>
     <e><p><l>think<s n="vblex"/></l><r>think<s n="vblex"/></r></p></e>
     <e><p><l>throw<s n="vblex"/></l><r>thraw<s n="vblex"/></r></p></e>
@@ -1336,7 +1364,6 @@
     <e><p><l>play<s n="vblex"/></l><r>guddle<s n="vblex"/></r></p></e>
     <e><p><l>work<s n="vblex"/></l><r>guddle<s n="vblex"/></r></p></e>
     <e><p><l>trick-or-treat<s n="vblex"/></l><r>guise<s n="vblex"/></r></p></e>
-    <e><p><l>have<s n="vblex"/></l><r>hae<s n="vblex"/></r></p></e>
     <e><p><l>hoard<s n="vblex"/></l><r>hain<s n="vblex"/></r></p></e>
     <e><p><l>harden<s n="vblex"/></l><r>hairden<s n="vblex"/></r></p></e>
     <e><p><l>harm<s n="vblex"/></l><r>hairm<s n="vblex"/></r></p></e>
@@ -1371,8 +1398,7 @@
     <e><p><l>peek<s n="vblex"/></l><r>keek<s n="vblex"/></r></p></e>
     <e><p><l>tilt<s n="vblex"/></l><r>keek<s n="vblex"/></r></p></e>
     <e><p><l>lean<s n="vblex"/></l><r>keek<s n="vblex"/></r></p></e>
-    <e><p><l>looked<s n="vblex"/></l><r>keeked<s n="vblex"/></r></p></e>
-    <e><p><l>looking<s n="vblex"/></l><r>keekin<s n="vblex"/></r></p></e>
+    <e><p><l>keep<s n="vblex"/></l><r>keep<s n="vblex"/></r></p></e>
     <e><p><l>kicking<s n="vblex"/></l><r>kickin<s n="vblex"/></r></p></e>
     <e><p><l>kidnap<s n="vblex"/></l><r>kidnap<s n="vblex"/></r></p></e>
     <e><p><l>kill<s n="vblex"/></l><r>kill<s n="vblex"/></r></p></e>
@@ -1487,6 +1513,7 @@
     <e><p><l>genuflect<s n="vblex"/></l><r>sain<s n="vblex"/></r></p></e>
     <e><p><l>clothe<s n="vblex"/></l><r>sark<s n="vblex"/></r></p></e>
     <e><p><l>cover<s n="vblex"/></l><r>sark<s n="vblex"/></r></p></e>
+    <e><p><l>scheme<s n="vblex"/></l><r>scheme<s n="vblex"/></r></p></e>
     <e><p><l>scoff<s n="vblex"/></l><r>scoff<s n="vblex"/></r></p></e>
     <e><p><l>scoff<s n="vblex"/></l><r>scowf<s n="vblex"/></r></p></e>
     <e><p><l>write<s n="vblex"/></l><r>screive<s n="vblex"/></r></p></e>    
@@ -1622,7 +1649,7 @@
 
         <!-- MODAL/AUX VERBS -->
 
-    <e><p><l>have<s n="vbhaver"/></l><r>hae<s n="vbhaver"/></r></p></e>
+    <e><p><l>have<s n="vbmod"/></l><r>hae<s n="vbmod"/></r></p></e>
     <e><p><l>be<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>do<s n="vbdo"/></l><r>dae<s n="vbdo"/></r></p></e>
     <e><p><l>do<s n="vblex"/></l><r>dae<s n="vblex"/></r></p></e>
@@ -1637,9 +1664,12 @@
     <e><p><l>should<s n="vaux"/></l><r>shoud<s n="vaux"/></r></p></e>
     <e><p><l>have<g><b/>to</g><s n="vbmod"/></l><r>buid<s n="vaux"/></r></p></e>
 
+    <e><p><l>you're<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>be<s n="vbser"/><s n="pres"/></l>     <r>ye're<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
+
+
             <!-- VERBAL PHRASES  -->
     
-    <e><p><l>shut up<s n="vblex"/></l><r>haud<b/>yer<b/>wheesht<s n="vblex"/></r></p></e>
+    <e><p><l>shut<b/>up<s n="vblex"/></l><r>haud<b/>yer<b/>wheesht<s n="vblex"/></r></p></e>
 
 
 
@@ -2168,6 +2198,7 @@
     <e><p><l>head<s n="n"/></l><r>haid<s n="n"/></r></p></e>
     <e><p><l>whole<s n="n"/></l><r>hail<s n="n"/></r></p></e>
     <e><p><l>whole<s n="n"/></l><r>haill<s n="n"/></r></p></e>
+    <e><p><l>hair<s n="n"/></l><r>hair<s n="n"/></r></p></e>
     <e><p><l>hardship<s n="n"/></l><r>hairdship<s n="n"/></r></p></e>
     <e><p><l>harm<s n="n"/></l><r>hairm<s n="n"/></r></p></e>
     <e><p><l>nonsense<s n="n"/></l><r>haiver<s n="n"/></r></p></e>
@@ -2251,6 +2282,7 @@
     <e><p><l>note<s n="n"/></l><r>jotting<s n="n"/></r></p></e>
     <e><p><l>jug<s n="n"/></l><r>joog<s n="n"/></r></p></e>
     <e><p><l>jug<s n="n"/></l><r>joug<s n="n"/></r></p></e>
+    <e><p><l>juice<s n="n"/></l><r>juice<s n="n"/></r></p></e>
     <e><p><l>justice<s n="n"/></l><r>juistice<s n="n"/></r></p></e>
     <e><p><l>join<s n="n"/></l><r>jyne<s n="n"/></r></p></e>
     <e><p><l>joiner<s n="n"/></l><r>jyner<s n="n"/></r></p></e>
@@ -2428,7 +2460,8 @@
     <e><p><l>murderer<s n="n"/></l><r>murtherer<s n="n"/></r></p></e>
     <e><p><l>music<s n="n"/></l><r>music<s n="n"/></r></p></e>
     <e><p><l>mind<s n="n"/></l><r>mynd<s n="n"/></r></p></e>
-    <e><p><l>small gift<s n="n"/></l><r>myndin<s n="n"/></r></p></e>
+    <e><p><l>small<b/>gift<s n="n"/></l><r>myndin<s n="n"/></r></p></e>
+    <e><p><l>no<b/>good<s n="n"/></l><r>nae<b/>guid><s n="n"/></r></p></e>
     <e><p><l>nature<s n="n"/></l><r>naitur<s n="n"/></r></p></e>
     <e><p><l>name<s n="n"/></l><r>name<s n="n"/></r></p></e>
     <e><p><l>nose<s n="n"/></l><r>neb<s n="n"/></r></p></e>
