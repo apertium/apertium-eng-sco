@@ -303,6 +303,7 @@
     <e><p><l>snugly<s n="adv"/></l><r>queem<s n="adv"/></r></p></e>
     <e><p><l>quickly<s n="adv"/></l><r>quick<s n="adv"/></r></p></e>
     <e><p><l>very<s n="adv"/></l><r>richt<s n="adv"/></r></p></e>
+    <e><p><l>very<b/>well<s n="adv"/></l><r>richt<s n="adv"/></r></p></e>
     <e><p><l>rightly<s n="cnjadv"/></l><r>richtly<s n="adv"/></r></p></e>
     <e><p><l>so<s n="adv"/></l><r>sae<s n="cnjadv"/></r></p></e>
     <e><p><l>softly<s n="adv"/></l><r>saft<s n="adv"/></r></p></e>
@@ -763,6 +764,7 @@
     <e><p><l>heavy<s n="adj"/><s n="sint"/></l><r>hivy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>crowded<s n="adj"/></l><r>hoatchin<s n="adj"/></r></p></e>
     <e><p><l>honest<s n="adj"/></l><r>honest<s n="adj"/></r></p></e>
+    <e><p><l>stinking<s n="adj"/></l><r>honkin<s n="adj"/></r></p></e>
     <e><p><l>crowded<s n="adj"/></l><r>hotchin<s n="adj"/></r></p></e>
     <e><p><l>hollow<s n="adj"/><s n="sint"/></l><r>howe<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>humped<s n="adj"/></l><r>humphie<s n="adj"/></r></p></e>
@@ -871,7 +873,7 @@
     <e><p><l>pure<s n="adj"/><s n="sint"/></l><r>pure<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>quiet<s n="adj"/><s n="sint"/></l><r>quaet<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>snug<s n="adj"/><s n="sint"/></l><r>queem<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>snug<s n="adj"/><s n="sint"/></l><r>queem<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>queer<s n="adj"/><s n="sint"/></l><r>queer<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>living<s n="adj"/></l><r>quick<s n="adj"/></r></p></e>
     <e><p><l>bubbling<s n="adj"/></l><r>quick<s n="adj"/></r></p></e>
     <e><p><l>quick<s n="adj"/><s n="sint"/></l><r>quick<s n="adj"/><s n="sint"/></r></p></e>
@@ -1446,9 +1448,7 @@
     <e><p><l>remind<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
     <e><p><l>mind<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
     <e><p><l>care<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
-    <e><p><l>remember<s n="vblex"/></l><r>mindin<s n="vblex"/></r></p></e>
-    <e><p><l>remembered<s n="vblex"/></l><r>mindit<s n="vblex"/></r></p></e>
-    <e><p><l>remember<s n="vblex"/></l><r>minds<s n="vblex"/></r></p></e>
+    <e><p><l>remember<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>
     <e><p><l>mispronounce<s n="vblex"/></l><r>mispronoonce<s n="vblex"/></r></p></e>
     <e><p><l>mouth<s n="vblex"/></l><r>mooth<s n="vblex"/></r></p></e>
     <e><p><l>move<s n="vblex"/></l><r>move<s n="vblex"/></r></p></e>
@@ -1513,6 +1513,7 @@
     <e><p><l>genuflect<s n="vblex"/></l><r>sain<s n="vblex"/></r></p></e>
     <e><p><l>clothe<s n="vblex"/></l><r>sark<s n="vblex"/></r></p></e>
     <e><p><l>cover<s n="vblex"/></l><r>sark<s n="vblex"/></r></p></e>
+    <e><p><l>scratch<s n="vblex"/></l><r>scart<s n="vblex"/></r></p></e>
     <e><p><l>scheme<s n="vblex"/></l><r>scheme<s n="vblex"/></r></p></e>
     <e><p><l>scoff<s n="vblex"/></l><r>scoff<s n="vblex"/></r></p></e>
     <e><p><l>scoff<s n="vblex"/></l><r>scowf<s n="vblex"/></r></p></e>
@@ -1660,6 +1661,8 @@
     <e><p><l>may<s n="vaux"/></l><r>mey<s n="vaux"/></r></p></e>
     <e><p><l>must<s n="vaux"/></l><r>maun<s n="vaux"/></r></p></e>
     <e><p><l>could<s n="vaux"/></l><r>coud<s n="vaux"/></r></p></e>
+    <e><p><l>could<s n="vaux"/></l><r>could<s n="vaux"/></r></p></e>
+    <e><p><l>could<s n="vbmod"/></l><r>could<s n="vbmod"/></r></p></e>
     <e><p><l>might<s n="vaux"/></l><r>micht<s n="vaux"/></r></p></e>
     <e><p><l>should<s n="vaux"/></l><r>shoud<s n="vaux"/></r></p></e>
     <e><p><l>have<g><b/>to</g><s n="vbmod"/></l><r>buid<s n="vaux"/></r></p></e>
