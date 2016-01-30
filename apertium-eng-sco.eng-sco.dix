@@ -1227,6 +1227,9 @@
     <e><p><l>consist<s n="vblex"/></l><r>conseest<s n="vblex"/></r></p></e>
 
         <!-- NEW  REGULAR VERBS -->
+
+    <e><p><l>abstain<s n="vblex"/></l><r>absteen<s n="vblex"/></r></p></e> 
+    <e><p><l>abuse<s n="vblex"/></l><r>abuise<s n="vblex"/></r></p></e> 
     <e><p><l>act<s n="vblex"/></l><r>act<s n="vblex"/></r></p></e>
     <e><p><l>address<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>
     <e><p><l>admit<s n="vblex"/></l><r>admeet<s n="vblex"/></r></p></e>
@@ -1240,6 +1243,7 @@
     <e><p><l>announce<s n="vblex"/></l><r>annunce<s n="vblex"/></r></p></e>
     <e><p><l>open<s n="vblex"/></l><r>appen<s n="vblex"/></r></p></e>
     <e><p><l>attach<s n="vblex"/></l><r>appone<s n="vblex"/></r></p></e>
+    <e><p><l>absolve<s n="vblex"/></l><r>assoilyie<s n="vblex"/></r></p></e> 
     <e><p><l>attempt<s n="vblex"/></l><r>attempt<s n="vblex"/></r></p></e>
     <e><p><l>awaird<s n="vblex"/></l><r>awaird<s n="vblex"/></r></p></e>
     <e><p><l>own<s n="vblex"/></l><r>awn<s n="vblex"/></r></p></e>
@@ -1930,7 +1934,7 @@
     <e><p><l>dole<s n="n"/></l><r>buroo<s n="n"/></r></p></e>
     <e><p><l>business<s n="n"/></l><r>business<s n="n"/></r></p></e>
     <e><p><l>outer room<s n="n"/></l><r>but<s n="n"/></r></p></e>
-    <e><p><l>two roomed house<s n="n"/></l><r>but and ben<s n="n"/></r></p></e>
+    <e><p><l>two roomed house<s n="n"/></l><r>but<b/>and<b/>ben<s n="n"/></r></p></e>
     <e><p><l>caber<s n="n"/></l><r>caber<s n="n"/></r></p></e>
     <e><p><l>caddie<s n="n"/></l><r>caddie<s n="n"/></r></p></e>
     <e><p><l>odd-job boy<s n="n"/></l><r>caddie<s n="n"/></r></p></e>
