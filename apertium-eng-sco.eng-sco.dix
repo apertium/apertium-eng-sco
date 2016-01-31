@@ -1643,6 +1643,7 @@
     <e><p><l>tremble<s n="vblex"/></l><r>tremmle<s n="vblex"/></r></p></e>
     <e><p><l>trick<s n="vblex"/></l><r>trick<s n="vblex"/></r></p></e>
     <e><p><l>try<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
+    <e><p><l>tumble<s n="vblex"/></l><r>tummle<s n="vblex"/></r></p></e>
     <e><p><l>turn<s n="vblex"/></l><r>turn<s n="vblex"/></r></p></e>
     <e><p><l>use<s n="vblex"/></l><r>uise<s n="vblex"/></r></p></e>
     <e><p><l>visit<s n="vblex"/></l><r>veesit<s n="vblex"/></r></p></e>
@@ -2943,6 +2944,8 @@
     <e><p><l>wretch<s n="n"/></l><r>wratch<s n="n"/></r></p></e>
     <e><p><l>writer<s n="n"/></l><r>writer<s n="n"/></r></p></e>    
     <e><p><l>writing<s n="n"/></l><r>writin<s n="n"/></r></p></e>
+    <e><p><l>whelk<s n="n"/></l><r>wulk<s n="n"/></r></p></e>
+    <e><p><l>little<b/>whelk<s n="n"/></l><r>wulkie<s n="n"/></r></p></e>
     <e><p><l>woman<s n="n"/></l><r>wumman<s n="n"/></r></p></e>
     <e><p><l>way<s n="n"/></l><r>wye<s n="n"/></r></p></e>
     <e><p><l>yard<s n="n"/></l><r>yaird<s n="n"/></r></p></e>
