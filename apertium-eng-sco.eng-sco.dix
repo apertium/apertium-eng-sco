@@ -408,7 +408,7 @@
     <e><p><l>two<s n="num"/></l><r>twa<s n="num"/></r></p></e>
     <e><p><l>two<s n="num"/></l><r>two<s n="num"/></r></p></e>
     <e><p><l>three<s n="num"/></l><r>three<s n="num"/></r></p></e>
-
+    <e><p><l>four<s n="num"/></l><r>fower<s n="num"/></r></p></e>
 
     
     <e><p><l>very<s n="preadv"/></l><r>verra<s n="preadv"/></r></p></e>
@@ -964,6 +964,8 @@
     <e><p><l>small<s n="adj"/><s n="sint"/></l><r>sma<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>snowy<s n="adj"/><s n="sint"/></l><r>snawy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>some<s n="adj"/></l><r>some<s n="adj"/></r></p></e>
+    <e><p><l>attractive<s n="adj"/></l><r>sonsie<s n="adj"/></r></p></e>
+    <e><p><l>comely<s n="adj"/></l><r>sonsie<s n="adj"/></r></p></e>
     <e><p><l>southern<s n="adj"/></l><r>soothern<s n="adj"/></r></p></e>
     <e><p><l>southren<s n="adj"/></l><r>soothren<s n="adj"/></r></p></e>
     <e><p><l>dark<s n="adj"/><s n="sint"/></l><r>sootie<s n="adj"/></r></p></e>
@@ -1453,6 +1455,7 @@
     <e><p><l>land<s n="vblex"/></l><r>laund<s n="vblex"/></r></p></e>
     <e><p><l>teach<s n="vblex"/></l><r>lear<s n="vblex"/></r></p></e>
     <e><p><l>learn<s n="vblex"/></l><r>lear<s n="vblex"/></r></p></e>
+    <e><p><l>learn<s n="vblex"/></l><r>learn<s n="vblex"/></r></p></e>
     <e><p><l>lend<s n="vblex"/></l><r>len<s n="vblex"/></r></p></e>
     <e><p><l>lend<s n="vblex"/></l><r>lend<s n="vblex"/></r></p></e>
     <e><p><l>leuk<s n="vblex"/></l><r>leuk<s n="vblex"/></r></p></e>
@@ -2320,7 +2323,8 @@
     <e><p><l>hoof<s n="n"/></l><r>huif<s n="n"/></r></p></e>
     <e><p><l>hundred<s n="n"/></l><r>hunder<s n="n"/></r></p></e>
     <e><p><l>century<s n="n"/></l><r>hunder<s n="n"/></r></p></e>
-    <e><p><l>hundred<s n="n"/></l><r>hunner<s n="n"/></r></p></e>    
+    <e><p><l>hundred<s n="n"/></l><r>hunner<s n="n"/></r></p></e> 
+    <e><p><l>hedgehog<s n="n"/></l><r>hurcheon<s n="n"/></r></p></e> 
     <e><p><l>whore<s n="n"/></l><r>hure<s n="n"/></r></p></e>
     <e><p><l>oil<s n="n"/></l><r>ile<s n="n"/></r></p></e>
     <e><p><l>entrance<s n="n"/></l><r>in<s n="n"/></r></p></e>
@@ -2772,12 +2776,14 @@
     <e><p><l>catch<s n="n"/></l><r>sneck<s n="n"/></r></p></e>
     <e><p><l>notch<s n="n"/></l><r>sneck<s n="n"/></r></p></e>
     <e><p><l>soldier<s n="n"/></l><r>sodger<s n="n"/></r></p></e>
+    <e><p><l>sow<s n="n"/></l><r>soo<s n="n"/></r></p></e>
     <e><p><l>sound<s n="n"/></l><r>soon<s n="n"/></r></p></e>
     <e><p><l>sound<s n="n"/></l><r>soond<s n="n"/></r></p></e>
     <e><p><l>sounds<s n="n"/></l><r>soonds<s n="n"/></r></p></e>
     <e><p><l>soundtrack<s n="n"/></l><r>soondtrack<s n="n"/></r></p></e>
     <e><p><l>source<s n="n"/></l><r>soorce<s n="n"/></r></p></e>
     <e><p><l>south<s n="n"/></l><r>sooth<s n="n"/></r></p></e>
+    <e><p><l>sow<s n="n"/></l><r>sou<s n="n"/></r></p></e>
     <e><p><l>speed<s n="n"/></l><r>speed<s n="n"/></r></p></e>
     <e><p><l>spirit<s n="n"/></l><r>speerit<s n="n"/></r></p></e>
     <e><p><l>spirits<s n="n"/></l><r>speerits<s n="n"/></r></p></e>
