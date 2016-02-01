@@ -210,6 +210,7 @@
     <e><p><l>alright<s n="adv"/></l><r>awricht<s n="adv"/></r></p></e>
     <e><p><l>altogether<s n="adv"/></l><r>awthegither<s n="adv"/></r></p></e>
     <e><p><l>although<s n="adv"/></l><r>awtho<s n="adv"/></r></p></e>
+    <e><p><l>everywhere<s n="adv"/></l><r>awwherr<s n="adv"/></r></p></e>
     <e><p><l>yes<s n="adv"/></l><r>ay<s n="adv"/></r></p></e>
     <e><p><l>still<s n="adv"/></l><r>aye<s n="adv"/></r></p></e>
     <e><p><l>always<s n="adv"/></l><r>aye<s n="adv"/></r></p></e>
@@ -269,6 +270,7 @@
     <e><p><l>inside<s n="adv"/></l><r>inside<s n="adv"/></r></p></e>
     <e><p><l>instead<s n="adv"/></l><r>insteid<s n="adv"/></r></p></e>
     <e><p><l>other<s n="adv"/></l><r>ither<s n="adv"/></r></p></e>
+    <e><p><l>everywhere<s n="adv"/></l><r>ivrywherr<s n="adv"/></r></p></e>
     <e><p><l>just<s n="adv"/></l><r>jist<s n="adv"/></r></p></e>
     <e><p><l>just<s n="adv"/></l><r>juist<s n="adv"/></r></p></e>
     <e><p><l>keenly<s n="adv"/></l><r>keenly<s n="adv"/></r></p></e>
@@ -513,6 +515,9 @@
 
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
+    <e><p><l>itself<s n="prn"/></l><r>itsel<s n="prn"/></r></p></e>
+
+    <e><p><l>ithers<s n="prn"/></l><r>ithers<s n="prn"/></r></p></e>    
 
 
     <!-- RELATIVE PRONOUNS -->
@@ -634,7 +639,9 @@
     <e><p><l>left-handed<s n="adj"/></l><r>caur<s n="adj"/></r></p></e> 
     <e><p><l>civil<s n="adj"/></l><r>ceevil<s n="adj"/></r></p></e> 
     <e><p><l>mashed<s n="adj"/></l><r>chappit<s n="adj"/></r></p></e>
-    <e><p><l>intimate<s n="adj"/></l><r>cheif<s n="adj"/></r></p></e>  
+    <e><p><l>intimate<s n="adj"/></l><r>cheif<s n="adj"/></r></p></e> 
+    <e><p><l>dirty<s n="adj"/><s n="sint"/></l><r>clarty<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dirty<s n="adj"/><s n="sint"/></l><r>clarty<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>dirty<s n="adj"/><s n="sint"/></l><r>clattie<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>clear<s n="adj"/><s n="sint"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>classical<s n="adj"/></l><r>clessical<s n="adj"/></r></p></e>
@@ -1326,6 +1333,7 @@
     <e><p><l>decide<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
     <e><p><l>look<s n="vblex"/></l><r>deek<s n="vblex"/></r></p></e>
     <e><p><l>deliver<s n="vblex"/></l><r>deliver<s n="vblex"/></r></p></e>
+    <e><p><l>demand<s n="vblex"/></l><r>demand<s n="vblex"/></r></p></e>
     <e><p><l>resign<s n="vblex"/></l><r>demit<s n="vblex"/></r></p></e>
     <e><p><l>release<s n="vblex"/></l><r>demit<s n="vblex"/></r></p></e>
     <e><p><l>depart<s n="vblex"/></l><r>depairt<s n="vblex"/></r></p></e>
@@ -1388,6 +1396,8 @@
     <e><p><l>gather<s n="vblex"/></l><r>gaither<s n="vblex"/></r></p></e>
     <e><p><l>yawn<s n="vblex"/></l><r>gant<s n="vblex"/></r></p></e>
     <e><p><l>gasp<s n="vblex"/></l><r>gant<s n="vblex"/></r></p></e>
+    <e><p><l>strike<s n="vblex"/></l><r>gird<s n="vblex"/></r></p></e>
+    <e><p><l>push<s n="vblex"/></l><r>gird<s n="vblex"/></r></p></e>
     <e><p><l>complain<s n="vblex"/></l><r>girn<s n="vblex"/></r></p></e>
     <e><p><l>snarl<s n="vblex"/></l><r>girn<s n="vblex"/></r></p></e>
     <e><p><l>glisten<s n="vblex"/></l><r>glister<s n="vblex"/></r></p></e>
@@ -1524,6 +1534,7 @@
     <e><p><l>present<s n="vblex"/></l><r>praisent<s n="vblex"/></r></p></e>
     <e><p><l>predict<s n="vblex"/></l><r>predeect<s n="vblex"/></r></p></e>    
     <e><p><l>predict<s n="vblex"/></l><r>predict<s n="vblex"/></r></p></e>
+    <e><p><l>print<s n="vblex"/></l><r>prent<s n="vblex"/></r></p></e>
     <e><p><l>proceed<s n="vblex"/></l><r>process<s n="vblex"/></r></p></e>
     <e><p><l>proclaim<s n="vblex"/></l><r>proclaim<s n="vblex"/></r></p></e>
     <e><p><l>pronounce<s n="vblex"/></l><r>pronoonce<s n="vblex"/></r></p></e>
@@ -1992,8 +2003,9 @@
     <e><p><l>rabble<s n="n"/></l><r>clanjamphrie<s n="n"/></r></p></e>
     <e><p><l>crowd<s n="n"/></l><r>clanjamphrie<s n="n"/></r></p></e>
     <e><p><l>mud<s n="n"/></l><r>clart<s n="n"/></r></p></e>
-    <e><p><l>dirty<s n="n"/></l><r>clarty<s n="n"/></r></p></e>
-    <e><p><l>muddy<s n="n"/></l><r>clarty<s n="n"/></r></p></e>
+
+    <e><p><l>hook<s n="n"/></l><r>cleek<s n="n"/></r></p></e>
+    <e><p><l>crook<s n="n"/></l><r>cleek<s n="n"/></r></p></e>
     <e><p><l>class<s n="n"/></l><r>cless<s n="n"/></r></p></e>
     <e><p><l>classroom<s n="n"/></l><r>clessroom<s n="n"/></r></p></e>
     <e><p><l>cloth<s n="n"/></l><r>cloot<s n="n"/></r></p></e>
@@ -2230,6 +2242,8 @@
     <e><p><l>glasses<s n="n"/></l><r>glesses<s n="n"/></r></p></e>
     <e><p><l>dusk<s n="n"/></l><r>gloamin<s n="n"/></r></p></e>
     <e><p><l>twilight<s n="n"/></l><r>gloamin<s n="n"/></r></p></e>
+    <e><p><l>god<s n="n"/></l><r>god<s n="n"/></r></p></e>
+    <e><p><l>god<s n="n"/></l><r>gode<s n="n"/></r></p></e>
     <e><p><l>government<s n="n"/></l><r>govrenment<s n="n"/></r></p></e>    
     <e><p><l>gold<s n="n"/></l><r>gowd<s n="n"/></r></p></e>
     <e><p><l>golf<s n="n"/></l><r>gowf<s n="n"/></r></p></e>
@@ -2573,6 +2587,7 @@
     <e><p><l>fluff<s n="n"/></l><r>oo<s n="n"/></r></p></e>
     <e><p><l>hour<s n="n"/></l><r>oor<s n="n"/></r></p></e>
     <e><p><l>hours<s n="n"/></l><r>oors<s n="n"/></r></p></e>
+    <e><p><l>outrage<s n="n"/></l><r>ootrage<s n="n"/></r></p></e>
     <e><p><l>opinion<s n="n"/></l><r>opeenion<s n="n"/></r></p></e>
     <e><p><l>opening<s n="n"/></l><r>openin<s n="n"/></r></p></e>
     <e><p><l>ordinary<s n="n"/></l><r>ordinar<s n="n"/></r></p></e>
@@ -2677,8 +2692,8 @@
     <e><p><l>aggressive person<s n="n"/></l><r>radgie<s n="n"/></r></p></e>
     <e><p><l>radio<s n="n"/></l><r>radio<s n="n"/></r></p></e>
     <e><p><l>railway<s n="n"/></l><r>railwey<s n="n"/></r></p></e>
-    <e><p><l>street fight<s n="n"/></l><r>rammie<s n="n"/></r></p></e>
-    <e><p><l>street fight<s n="n"/></l><r>rammy<s n="n"/></r></p></e>
+    <e><p><l>street<b/>fight<s n="n"/></l><r>rammie<s n="n"/></r></p></e>
+    <e><p><l>street<b/>fight<s n="n"/></l><r>rammy<s n="n"/></r></p></e>
     <e><p><l>row<s n="n"/></l><r>raw<s n="n"/></r></p></e>
     <e><p><l>reading<s n="n"/></l><r>readin<s n="n"/></r></p></e>
     <e><p><l>nonsense<s n="n"/></l><r>reavel-raivel<s n="n"/></r></p></e>
