@@ -517,6 +517,8 @@
 
     <e><p><l>anything<s n="prn"/></l><r>onything<s n="prn"/></r></p></e> 
     <e><p><l>anything<s n="prn"/></l><r>onythin<s n="prn"/></r></p></e>
+    <e><p><l>something<s n="prn"/></l><r>something<s n="prn"/></r></p></e> 
+    <e><p><l>something<s n="prn"/></l><r>somethin<s n="prn"/></r></p></e>
 
     <e><p><l>ithers<s n="prn"/></l><r>ithers<s n="prn"/></r></p></e> 
 
@@ -1460,6 +1462,7 @@
     <e><p><l>prick<s n="vblex"/></l><r>jag<s n="vblex"/></r></p></e>
     <e><p><l>suspect<s n="vblex"/></l><r>jalouse<s n="vblex"/></r></p></e>
     <e><p><l>guess<s n="vblex"/></l><r>jalouse<s n="vblex"/></r></p></e>
+    <e><p><l>jump<s n="vblex"/></l><r>jimp<s n="vblex"/></r></p></e>
     <e><p><l>join<s n="vblex"/></l><r>jine<s n="vblex"/></r></p></e>
     <e><p><l>duck<s n="vblex"/></l><r>jouk<s n="vblex"/></r></p></e>
     <e><p><l>look<s n="vblex"/></l><r>keek<s n="vblex"/></r></p></e>
@@ -1499,6 +1502,7 @@
     <e><p><l>listen<s n="vblex"/></l><r>listen<s n="vblex"/></r></p></e>
     <e><p><l>look<s n="vblex"/></l><r>look<s n="vblex"/></r></p></e>
     <e><p><l>love<s n="vblex"/></l><r>love<s n="vblex"/></r></p></e>
+    <e><p><l>leap<s n="vblex"/></l><r>lowp<s n="vblex"/></r></p></e>
     <e><p><l>loosen<s n="vblex"/></l><r>lowse<s n="vblex"/></r></p></e>
     <e><p><l>free<s n="vblex"/></l><r>lowse<s n="vblex"/></r></p></e>
     <e><p><l>look<s n="vblex"/></l><r>luck<s n="vblex"/></r></p></e>
@@ -2111,6 +2115,7 @@
     <e><p><l>death<s n="n"/></l><r>deith<s n="n"/></r></p></e>
     <e><p><l>district<s n="n"/></l><r>destrict<s n="n"/></r></p></e>
     <e><p><l>detail<s n="n"/></l><r>detail<s n="n"/></r></p></e>
+    <e><p><l>duck<s n="n"/></l><r>deuk<s n="n"/></r></p></e>
     <e><p><l>dictionary<s n="n"/></l><r>dictionar<s n="n"/></r></p></e>
     <e><p><l>smashing blow<s n="n"/></l><r>dinger<s n="n"/></r></p></e>
     <e><p><l>vibration<s n="n"/></l><r>dinnle<s n="n"/></r></p></e>
@@ -2778,12 +2783,14 @@
     <e><p><l>shield<s n="n"/></l><r>shield<s n="n"/></r></p></e>
     <e><p><l>change<s n="n"/></l><r>shift<s n="n"/></r></p></e>
     <e><p><l>shipyard<s n="n"/></l><r>shipyaird<s n="n"/></r></p></e>
+    <e><p><l>shoulder<s n="n"/></l><r>shooder<s n="n"/></r></p></e>
     <e><p><l>shopping<s n="n"/></l><r>shoppin<s n="n"/></r></p></e>
     <e><p><l>shore<s n="n"/></l><r>shore<s n="n"/></r></p></e>
     <e><p><l>shot<s n="n"/></l><r>shot<s n="n"/></r></p></e>
     <e><p><l>turn<s n="n"/></l><r>shot<s n="n"/></r></p></e>
     <e><p><l>shot<s n="n"/></l><r>shote<s n="n"/></r></p></e>
     <e><p><l>shot<s n="n"/></l><r>shote<s n="n"/></r></p></e>
+    <e><p><l>shoulder<s n="n"/></l><r>shouder<s n="n"/></r></p></e>
     <e><p><l>shoes<s n="n"/></l><r>shuin<s n="n"/></r></p></e>
     <e><p><l>sleeve<s n="n"/></l><r>sleeve<s n="n"/></r></p></e>
     <e><p><l>sight<s n="n"/></l><r>sicht<s n="n"/></r></p></e>
