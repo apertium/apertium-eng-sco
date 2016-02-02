@@ -527,7 +527,9 @@
 
     <!-- Group pronouns -->
 
-    <e><p><l>nobody<s n="prn"/></l><r>naebody<s n="prn"/></r></p></e>    
+    <e><p><l>nobody<s n="prn"/></l><r>naebody<s n="prn"/></r></p></e> 
+
+    <e><p><l>one<s n="prn"/></l><r>ane<s n="prn"/></r></p></e>       
 
     <e><p><l>itself<s n="prn"/></l><r>itsel<s n="prn"/></r></p></e>
 
