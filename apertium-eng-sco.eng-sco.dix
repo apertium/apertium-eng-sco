@@ -214,6 +214,8 @@
     <e><p><l>yes<s n="adv"/></l><r>ay<s n="adv"/></r></p></e>
     <e><p><l>still<s n="adv"/></l><r>aye<s n="adv"/></r></p></e>
     <e><p><l>always<s n="adv"/></l><r>aye<s n="adv"/></r></p></e>
+    <e><p><l>always<s n="adv"/></l><r>ayeweys<s n="adv"/></r></p></e>
+    <e><p><l>always<s n="adv"/></l><r>ayewis<s n="adv"/></r></p></e>
     <e><p><l>back<s n="adv"/></l><r>back<s n="adv"/></r></p></e>    
     <e><p><l>childishly<s n="adv"/></l><r>bairnishly<s n="adv"/></r></p></e>
     <e><p><l>inside<s n="adv"/></l><r>ben<s n="adv"/></r></p></e>
@@ -512,6 +514,9 @@
 
     <e><p><l>this<s n="prn"/></l><r>this<s n="prn"/></r></p></e>    
     <e><p><l>that<s n="prn"/></l><r>that<s n="prn"/></r></p></e> 
+
+    <e><p><l>anything<s n="prn"/></l><r>onything<s n="prn"/></r></p></e> 
+    <e><p><l>anything<s n="prn"/></l><r>onythin<s n="prn"/></r></p></e>
 
     <e><p><l>ithers<s n="prn"/></l><r>ithers<s n="prn"/></r></p></e> 
 
@@ -878,6 +883,7 @@
     <e><p><l>northern<s n="adj"/></l><r>norlin<s n="adj"/></r></p></e>
     <e><p><l>farthest north<s n="adj"/></l><r>northmaist<s n="adj"/></r></p></e>
     <e><p><l>northern<s n="adj"/></l><r>northren<s n="adj"/></r></p></e>
+    <e><p><l>odd<s n="adj"/><s n="sint"/></l><r>oary<s n="adj"/></r></p></e> 
     <e><p><l>official<s n="adj"/></l><r>offeecial<s n="adj"/></r></p></e>
     <e><p><l>great<s n="adj"/><s n="sint"/></l><r>ojis<s n="adj"/></r></p></e>
     <e><p><l>any<s n="adj"/></l><r>ony<s n="adj"/></r></p></e>
@@ -1640,6 +1646,7 @@
     <e><p><l>bounce<s n="vblex"/></l><r>stot<s n="vblex"/></r></p></e>
     <e><p><l>rebound<s n="vblex"/></l><r>stot<s n="vblex"/></r></p></e>
     <e><p><l>ricochet<s n="vblex"/></l><r>stot<s n="vblex"/></r></p></e>
+    <e><p><l>stamp<s n="vblex"/></l><r>stramp<s n="vblex"/></r></p></e>
     <e><p><l>straighten<s n="vblex"/></l><r>straucht<s n="vblex"/></r></p></e>
     <e><p><l>wander<s n="vblex"/></l><r>stravaig<s n="vblex"/></r></p></e>
     <e><p><l>marvel<s n="vblex"/></l><r>streenge<s n="vblex"/></r></p></e>
@@ -2605,7 +2612,7 @@
     <e><p><l>opening<s n="n"/></l><r>openin<s n="n"/></r></p></e>
     <e><p><l>ordinary<s n="n"/></l><r>ordinar<s n="n"/></r></p></e>
     <e><p><l>left-over<s n="n"/></l><r>orra<s n="n"/></r></p></e>
-    <e><p><l>odd job man<s n="n"/></l><r>orraman<s n="n"/></r></p></e>
+    <e><p><l>odd<b/>job<b/>man<s n="n"/></l><r>orraman<s n="n"/></r></p></e>
     <e><p><l>odds and ends<s n="n"/></l><r>orras<s n="n"/></r></p></e>
     <e><p><l>otter<s n="n"/></l><r>otter<s n="n"/></r></p></e>
     <e><p><l>translator<s n="n"/></l><r>owersetter<s n="n"/></r></p></e>
