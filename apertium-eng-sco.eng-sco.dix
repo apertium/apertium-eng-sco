@@ -407,6 +407,7 @@
     <!-- NUMBERS -->
 
     <e><p><l>one<s n="num"/></l><r>ane<s n="num"/></r></p></e>
+    <e><p><l>een<s n="num"/></l><r>een<s n="num"/></r></p></e>
     <e><p><l>one<s n="num"/></l><r>wan<s n="num"/></r></p></e>
     <e><p><l>one<s n="num"/></l><r>yin<s n="num"/></r></p></e>
     <e><p><l>one<s n="num"/></l><r>one<s n="num"/></r></p></e>
@@ -1444,6 +1445,8 @@
     <e><p><l>harden<s n="vblex"/></l><r>hairden<s n="vblex"/></r></p></e>
     <e><p><l>harm<s n="vblex"/></l><r>hairm<s n="vblex"/></r></p></e>
     <e><p><l>speak nonsense<s n="vblex"/></l><r>haiver<s n="vblex"/></r></p></e>
+    <e><p><l>inaugurate<s n="vblex"/></l><r>handsel<s n="vblex"/></r></p></e>
+    <e><p><l>inaugurate<s n="vblex"/></l><r>hansel<s n="vblex"/></r></p></e>
     <e><p><l>happen<s n="vblex"/></l><r>hap<s n="vblex"/></r></p></e>
     <e><p><l>happen<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
     <e><p><l>hold<s n="vblex"/></l><r>haud<s n="vblex"/></r></p></e>
@@ -2386,6 +2389,7 @@
     <e><p><l>intellect<s n="n"/></l><r>intellect<s n="n"/></r></p></e>
     <e><p><l>wits<s n="n"/></l><r>intellects<s n="n"/></r></p></e>
     <e><p><l>island<s n="n"/></l><r>island<s n="n"/></r></p></e>
+    <e><p><l>other<s n="n"/></l><r>ither<s n="n"/></r></p></e>
     <e><p><l>jacket<s n="n"/></l><r>jaicket<s n="n"/></r></p></e>
     <e><p><l>caretaker<s n="n"/></l><r>janitor<s n="n"/></r></p></e>
     <e><p><l>caretaker<s n="n"/></l><r>janny<s n="n"/></r></p></e>
