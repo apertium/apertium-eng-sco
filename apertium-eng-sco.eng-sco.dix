@@ -349,7 +349,8 @@
     <e><p><l>at<b/>the<b/>moment<s n="adv"/></l><r>the<b/>noo<s n="adv"/></r></p></e>
     <e><p><l>at<b/>the<b/>moment<s n="adv"/></l><r>the<b/>nou<s n="adv"/></r></p></e>
     <e><p><l>together<s n="adv"/></l><r>thegither<s n="adv"/></r></p></e>
-    <e><p><l>there<s n="adv"/></l><r>there<s n="adv"/></r></p></e>    
+    <e><p><l>there<s n="adv"/></l><r>there<s n="adv"/></r></p></e> 
+    <e><p><l>though<s n="adv"/></l><r>tho<s n="adv"/></r></p></e>
     <e><p><l>through<s n="adv"/></l><r>throu<s n="adv"/></r></p></e>
     <e><p><l>formerly<s n="adv"/></l><r>umwhile<s n="adv"/></r></p></e>
     <e><p><l>under<s n="adv"/></l><r>unner<s n="adv"/></r></p></e>
@@ -527,6 +528,7 @@
 
     <!-- Group pronouns -->
 
+    <e><p><l>everybody<s n="prn"/></l><r>awbody<s n="prn"/></r></p></e>
     <e><p><l>nobody<s n="prn"/></l><r>naebody<s n="prn"/></r></p></e> 
 
     <e><p><l>one<s n="prn"/></l><r>ane<s n="prn"/></r></p></e>       
@@ -740,6 +742,7 @@
     <e><p><l>freestanding<s n="adj"/></l><r>freestaundin<s n="adj"/></r></p></e>
     <e><p><l>freestanding<s n="adj"/></l><r>freestaunin<s n="adj"/></r></p></e>
     <e><p><l>foreign<s n="adj"/></l><r>fremmit<s n="adj"/></r></p></e>
+    <e><p><l>full<s n="adj"/><s n="sint"/></l><r>fu<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>foreign<s n="adj"/></l><r>furrin<s n="adj"/></r></p></e>
     <e><p><l>outside<s n="adj"/></l><r>furth<s n="adj"/></r></p></e>
     <e><p><l>beyond<s n="adj"/></l><r>furth<s n="adj"/></r></p></e>
@@ -851,6 +854,7 @@
     <e><p><l>lawful<s n="adj"/><s n="sint"/></l><r>lawfu<s n="adj"/></r></p></e>
     <e><p><l>lowland<s n="adj"/><s n="sint"/></l><r>lawland<s n="adj"/></r></p></e>
     <e><p><l>leal<s n="adj"/><s n="sint"/></l><r>leal<s n="adj"/></r></p></e>
+    <e><p><l>last<s n="adj"/></l><r>lest<s n="adj"/></r></p></e>
     <e><p><l>light<s n="adj"/><s n="sint"/></l><r>licht<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>lightsome<s n="adj"/></l><r>lichtsome<s n="adj"/></r></p></e>
     <e><p><l>local<s n="adj"/></l><r>local<s n="adj"/></r></p></e>
@@ -1279,14 +1283,15 @@
     <e><p><l>attempt<s n="vblex"/></l><r>attempt<s n="vblex"/></r></p></e>
     <e><p><l>awaird<s n="vblex"/></l><r>awaird<s n="vblex"/></r></p></e>
     <e><p><l>own<s n="vblex"/></l><r>awn<s n="vblex"/></r></p></e>
-    <e><p><l>make pregnant<s n="vblex"/></l><r>bairn<s n="vblex"/></r></p></e>
+    <e><p><l>make<b/>pregnant<s n="vblex"/></l><r>bairn<s n="vblex"/></r></p></e>
     <e><p><l>hit<s n="vblex"/></l><r>banjo<s n="vblex"/></r></p></e>
     <e><p><l>baptise<s n="vblex"/></l><r>bapteese<s n="vblex"/></r></p></e>
     <e><p><l>bother<s n="vblex"/></l><r>bather<s n="vblex"/></r></p></e>
     <e><p><l>distort<s n="vblex"/></l><r>bauchle<s n="vblex"/></r></p></e>
     <e><p><l>fester<s n="vblex"/></l><r>beal<s n="vblex"/></r></p></e>
     <e><p><l>belong<s n="vblex"/></l><r>belang<s n="vblex"/></r></p></e>
-    <e><p><l>bet<s n="vblex"/></l><r>bet<s n="vblex"/></r></p></e>    
+    <e><p><l>bet<s n="vblex"/></l><r>bet<s n="vblex"/></r></p></e>
+    <e><p><l>protect<s n="vblex"/></l><r>bield<s n="vblex"/></r></p></e>
     <e><p><l>build<s n="vblex"/></l><r>big<s n="vblex"/></r></p></e>
     <e><p><l>boil<s n="vblex"/></l><r>bile<s n="vblex"/></r></p></e>
     <e><p><l>chat<s n="vblex"/></l><r>blether<s n="vblex"/></r></p></e>
@@ -1688,6 +1693,7 @@
     <e><p><l>use<s n="vblex"/></l><r>uise<s n="vblex"/></r></p></e>
     <e><p><l>visit<s n="vblex"/></l><r>veesit<s n="vblex"/></r></p></e>
     <e><p><l>vote<s n="vblex"/></l><r>vote<s n="vblex"/></r></p></e>
+    <e><p><l>want<s n="vblex"/></l><r>waant<s n="vblex"/></r></p></e>    
     <e><p><l>wash<s n="vblex"/></l><r>waash<s n="vblex"/></r></p></e>
     <e><p><l>weaken<s n="vblex"/></l><r>waiken<s n="vblex"/></r></p></e>
     <e><p><l>warn<s n="vblex"/></l><r>wairn<s n="vblex"/></r></p></e>
@@ -2547,6 +2553,7 @@
     <e><p><l>souvenir<s n="n"/></l><r>mindin<s n="n"/></r></p></e>
     <e><p><l>memory<s n="n"/></l><r>mindin<s n="n"/></r></p></e>
     <e><p><l>souvenir<s n="n"/></l><r>mindin<s n="n"/></r></p></e>
+    <e><p><l>mother<s n="n"/></l><r>mither<s n="n"/></r></p></e>
     <e><p><l>mixture<s n="n"/></l><r>mixter<s n="n"/></r></p></e>
     <e><p><l>mother<s n="n"/></l><r>mixtur<s n="n"/></r></p></e>
     <e><p><l>mixture<s n="n"/></l><r>mixtur<s n="n"/></r></p></e>
@@ -3399,6 +3406,7 @@
     <e><i>Bucardo<s n="np"/><s n="ant"/></i></e>
     <e><i>Buenaventura<s n="np"/><s n="ant"/></i></e>
     <e><i>Bulmaro<s n="np"/><s n="ant"/></i></e>
+    <e><i>Burns<s n="np"/><s n="ant"/></i></e>
     <e><i>Caetano<s n="np"/><s n="ant"/></i></e>
     <e><i>Caín<s n="np"/><s n="ant"/></i></e>
     <e><i>Caleb<s n="np"/><s n="ant"/></i></e>
