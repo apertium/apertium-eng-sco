@@ -592,6 +592,7 @@
     <e><p><l>fine<s n="adj"/><s n="sint"/></l><r>barry<s n="adj"/></r></p></e>
     <e><p><l>excellent<s n="adj"/><s n="sint"/></l><r>barry<s n="adj"/></r></p></e>
     <e><p><l>bad<s n="adj"/><s n="sint"/></l><r>baud<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>foolish<s n="adj"/></l><r>bawheidit<s n="adj"/></r></p></e>    
     <e><p><l>festering<s n="adj"/></l><r>bealin<s n="adj"/></r></p></e>
     <e><p><l>tear-stained<s n="adj"/></l><r>begrutten<s n="adj"/></r></p></e>
     <e><p><l>inner<s n="adj"/></l><r>ben<s n="adj"/></r></p></e>
@@ -1050,6 +1051,8 @@
     <e><p><l>tiny<s n="adj"/></l><r>tottie<s n="adj"/></r></p></e>
     <e><p><l>traditional<s n="adj"/></l><r>tradeetional<s n="adj"/></r></p></e>
     <e><p><l>traditional<s n="adj"/></l><r>tradeitional<s n="adj"/></r></p></e>
+    <e><p><l>bedraggled<s n="adj"/></l><r>trauchelt<s n="adj"/></r></p></e>
+    <e><p><l>bedraggled<s n="adj"/></l><r>trauchled<s n="adj"/></r></p></e>
     <e><p><l>tremendous<s n="adj"/></l><r>tremendous<s n="adj"/></r></p></e>
     <e><p><l>ugly<s n="adj"/></l><r>ugsome<s n="adj"/></r></p></e>
     <e><p><l>ugly<s n="adj"/></l><r>ugdsome<s n="adj"/></r></p></e>
@@ -1347,6 +1350,8 @@
     <e><p><l>confront<s n="vblex"/></l><r>confront<s n="vblex"/></r></p></e>
     <e><p><l>continue<s n="vblex"/></l><r>conteena<s n="vblex"/></r></p></e>
     <e><p><l>count<s n="vblex"/></l><r>coont<s n="vblex"/></r></p></e>
+    <e><p><l>ruin<s n="vblex"/></l><r>cowp<s n="vblex"/></r></p></e>
+    <e><p><l>upset<s n="vblex"/></l><r>cowp<s n="vblex"/></r></p></e>
     <e><p><l>grease<s n="vblex"/></l><r>creash<s n="vblex"/></r></p></e>
     <e><p><l>credit<s n="vblex"/></l><r>creedit<s n="vblex"/></r></p></e>
     <e><p><l>criticise<s n="vblex"/></l><r>creeticeese<s n="vblex"/></r></p></e>
@@ -1646,6 +1651,7 @@
     <e><p><l>sort<s n="vblex"/></l><r>sort<s n="vblex"/></r></p></e>
     <e><p><l>suck<s n="vblex"/></l><r>souk<s n="vblex"/></r></p></e>
     <e><p><l>ask<s n="vblex"/></l><r>speir<s n="vblex"/></r></p></e>
+    <e><p><l>spew<s n="vblex"/></l><r>spew<s n="vblex"/></r></p></e>
     <e><p><l>start<s n="vblex"/></l><r>stairt<s n="vblex"/></r></p></e>
     <e><p><l>stone<s n="vblex"/></l><r>stane<s n="vblex"/></r></p></e>
     <e><p><l>step<s n="vblex"/></l><r>stap<s n="vblex"/></r></p></e>
@@ -1673,6 +1679,7 @@
     <e><p><l>talk<s n="vblex"/></l><r>talk<s n="vblex"/></r></p></e>
     <e><p><l>borrow<s n="vblex"/></l><r>tap<s n="vblex"/></r></p></e>
     <e><p><l>teach<s n="vblex"/></l><r>teach<s n="vblex"/></r></p></e>
+    <e><p><l>teeter<s n="vblex"/></l><r>teeter<s n="vblex"/></r></p></e>
     <e><p><l>pay attention<s n="vblex"/></l><r>tent<s n="vblex"/></r></p></e>
     <e><p><l>thank<s n="vblex"/></l><r>thank<s n="vblex"/></r></p></e>
     <e><p><l>suffer<s n="vblex"/></l><r>thole<s n="vblex"/></r></p></e>
@@ -1808,9 +1815,10 @@
     <e><p><l>Vermont<s n="np"/></l><r>Vermont<s n="np"/></r></p></e>
     <e><p><l>Westminster<s n="np"/></l><r>Wastmeenster<s n="np"/></r></p></e>
 
+        <!-- Organisations -->
 
-
-
+    <e><p><l>Police<b/>Scotland<s n="np"/></l><r>Polis<b/>Scotland<s n="np"/></r></p></e>
+    <e><p><l>Wikipedia<s n="np"/></l><r>Wikipædia<s n="np"/></r></p></e>
 
         <!-- Days & Months -->
     <e><p><l>January<s n="n"/></l><r>Januar<s n="n"/></r></p></e>
@@ -1979,6 +1987,7 @@
     <e><p><l>brown<s n="n"/></l><r>broon<s n="n"/></r></p></e>
     <e><p><l>board<s n="n"/></l><r>buird<s n="n"/></r></p></e>
     <e><p><l>boot<s n="n"/></l><r>buit<s n="n"/></r></p></e>
+    <e><p><l>bonnet<s n="n"/></l><r>bunnet<s n="n"/></r></p></e>
     <e><p><l>woman<s n="n"/></l><r>burd<s n="n"/></r></p></e>
     <e><p><l>dole<s n="n"/></l><r>bureau<s n="n"/></r></p></e>
     <e><p><l>stream<s n="n"/></l><r>burn<s n="n"/></r></p></e>
@@ -2321,7 +2330,8 @@
     <e><p><l>hardship<s n="n"/></l><r>hairdship<s n="n"/></r></p></e>
     <e><p><l>harm<s n="n"/></l><r>hairm<s n="n"/></r></p></e>
     <e><p><l>nonsense<s n="n"/></l><r>haiver<s n="n"/></r></p></e>
-    <e><p><l>speaking nonsense<s n="n"/></l><r>haiverin<s n="n"/></r></p></e>
+    <e><p><l>nonsense<s n="n"/></l><r>haivers<s n="n"/></r></p></e>
+    <e><p><l>speaking<b/>nonsense<s n="n"/></l><r>haiverin<s n="n"/></r></p></e>
     <e><p><l>whole<s n="n"/></l><r>hale<s n="n"/></r></p></e>
     <e><p><l>holiday<s n="n"/></l><r>haliday<s n="n"/></r></p></e>
     <e><p><l>home<s n="n"/></l><r>hame<s n="n"/></r></p></e>
@@ -2336,11 +2346,14 @@
     <e><p><l>hand<s n="n"/></l><r>haun<s n="n"/></r></p></e>
     <e><p><l>hand<s n="n"/></l><r>haund<s n="n"/></r></p></e>
     <e><p><l>hardship<s n="n"/></l><r>haurdship<s n="n"/></r></p></e>
+    <e><p><l>oats<s n="n"/></l><r>haver<s n="n"/></r></p></e>
+    <e><p><l>nonsense<s n="n"/></l><r>havers<s n="n"/></r></p></e>
     <e><p><l>hall<s n="n"/></l><r>haw<s n="n"/></r></p></e>
     <e><p><l>heel<s n="n"/></l><r>heel<s n="n"/></r></p></e>
     <e><p><l>pasture<s n="n"/></l><r>heft<s n="n"/></r></p></e>
     <e><p><l>animal<s n="n"/></l><r>heft<s n="n"/></r></p></e>
     <e><p><l>head<s n="n"/></l><r>heid<s n="n"/></r></p></e>
+    <e><p><l>boss<s n="n"/></l><r>heid<b/>bummer<s n="n"/></r></p></e>
     <e><p><l>headline<s n="n"/></l><r>heidline<s n="n"/></r></p></e>
     <e><p><l>leader<s n="n"/></l><r>heidsman<s n="n"/></r></p></e>
     <e><p><l>inheritance<s n="n"/></l><r>heirskip<s n="n"/></r></p></e>
@@ -2604,6 +2617,7 @@
     <e><p><l>nephew<s n="n"/></l><r>neffae<s n="n"/></r></p></e>
     <e><p><l>neighbours<s n="n"/></l><r>neibours<s n="n"/></r></p></e>
     <e><p><l>underworld<s n="n"/></l><r>netherwarld<s n="n"/></r></p></e>
+    <e><p><l>corner<s n="n"/></l><r>neuk<s n="n"/></r></p></e>
     <e><p><l>nephew<s n="n"/></l><r>nevoy<s n="n"/></r></p></e>
     <e><p><l>night<s n="n"/></l><r>nicht<s n="n"/></r></p></e>
     <e><p><l>evening<s n="n"/></l><r>nicht<s n="n"/></r></p></e>
@@ -2684,6 +2698,7 @@
     <e><p><l>spot<s n="n"/></l><r>plouk<s n="n"/></r></p></e>
     <e><p><l>fall<s n="n"/></l><r>plump<s n="n"/></r></p></e>
     <e><p><l>pot<s n="n"/></l><r>poat<s n="n"/></r></p></e>
+    <e><p><l>poem<s n="n"/></l><r>poem<s n="n"/></r></p></e>
     <e><p><l>poet<s n="n"/></l><r>poet<s n="n"/></r></p></e>
     <e><p><l>poetry<s n="n"/></l><r>poetry<s n="n"/></r></p></e>
     <e><p><l>bag<s n="n"/></l><r>poke<s n="n"/></r></p></e>
@@ -2704,6 +2719,7 @@
     <e><p><l>power<s n="n"/></l><r>power<s n="n"/></r></p></e>
     <e><p><l>poetry<s n="n"/></l><r>poyet<s n="n"/></r></p></e>
     <e><p><l>poetry<s n="n"/></l><r>poyetry<s n="n"/></r></p></e>
+    <e><p><l>poem<s n="n"/></l><r>poyum<s n="n"/></r></p></e>
     <e><p><l>present<s n="n"/></l><r>praisent<s n="n"/></r></p></e>
     <e><p><l>practice<s n="n"/></l><r>prattick<s n="n"/></r></p></e>
     <e><p><l>custom<s n="n"/></l><r>prattick<s n="n"/></r></p></e>
