@@ -522,6 +522,8 @@
     <e><p><l>something<s n="prn"/></l><r>something<s n="prn"/></r></p></e> 
     <e><p><l>something<s n="prn"/></l><r>somethin<s n="prn"/></r></p></e>
 
+    <e><p><l>whatever<s n="prn"/></l><r>whitever<s n="prn"/></r></p></e>    
+
     <e><p><l>ithers<s n="prn"/></l><r>ithers<s n="prn"/></r></p></e> 
 
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
@@ -610,6 +612,7 @@
     <e><p><l>beautiful<s n="adj"/><s n="sint"/></l><r>bonny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>pretty<s n="adj"/><s n="sint"/></l><r>bonny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>gracefu<s n="adj"/><s n="sint"/></l><r>bonny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>boring<s n="adj"/></l><r>borin<s n="adj"/></r></p></e>    
     <e><p><l>elder<s n="adj"/></l><r>bour<s n="adj"/></r></p></e>
     <e><p><l>broad<s n="adj"/><s n="sint"/></l><r>braid<s n="adj"/><s n="sint"/></r></p></e>    
     <e><p><l>fine<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
@@ -804,6 +807,8 @@
     <e><p><l>homely<s n="adj"/></l><r>hamle<s n="adj"/></r></p></e>
     <e><p><l>plain<s n="adj"/></l><r>hamle<s n="adj"/></r></p></e>
     <e><p><l>half<s n="adj"/></l><r>hauf<s n="adj"/></r></p></e>
+    <e><p><l>clumsy<s n="adj"/></l><r>haundless<s n="adj"/></r></p></e>
+    <e><p><l>clumsy<s n="adj"/></l><r>haunless<s n="adj"/></r></p></e>
     <e><p><l>handy<s n="adj"/><s n="sint"/></l><r>haundy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hard<s n="adj"/><s n="sint"/></l><r>haurd<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>high<s n="adj"/><s n="sint"/></l><r>heich<s n="adj"/><s n="sint"/></r></p></e>
@@ -1467,6 +1472,7 @@
     <e><p><l>harm<s n="vblex"/></l><r>herm<s n="vblex"/></r></p></e>
     <e><p><l>hide<s n="vblex"/></l><r>hiddle<s n="vblex"/></r></p></e>
     <e><p><l>hang<s n="vblex"/></l><r>hing<s n="vblex"/></r></p></e>
+    <e><p><l>limp<s n="vblex"/></l><r>hirple<s n="vblex"/></r></p></e>
     <e><p><l>cough<s n="vblex"/></l><r>hoast<s n="vblex"/></r></p></e>
     <e><p><l>wadddle<s n="vblex"/></l><r>hoddle<s n="vblex"/></r></p></e>
     <e><p><l>stink<s n="vblex"/></l><r>honk<s n="vblex"/></r></p></e>
@@ -1946,6 +1952,8 @@
     <e><p><l>leaf<s n="n"/></l><r>blad<s n="n"/></r></p></e>
     <e><p><l>portfolio<s n="n"/></l><r>blad<s n="n"/></r></p></e>
     <e><p><l>shale<s n="n"/></l><r>blaes<s n="n"/></r></p></e>
+    <e><p><l>blaze<s n="n"/></l><r>bleeze<s n="n"/></r></p></e>
+    <e><p><l>blaze<s n="n"/></l><r>bleize<s n="n"/></r></p></e>
     <e><p><l>chat<s n="n"/></l><r>blether<s n="n"/></r></p></e>
     <e><p><l>gossip<s n="n"/></l><r>blether<s n="n"/></r></p></e>
     <e><p><l>little boat<s n="n"/></l><r>boatie<s n="n"/></r></p></e>
@@ -2288,6 +2296,9 @@
     <e><p><l>twilight<s n="n"/></l><r>gloamin<s n="n"/></r></p></e>
     <e><p><l>god<s n="n"/></l><r>god<s n="n"/></r></p></e>
     <e><p><l>god<s n="n"/></l><r>gode<s n="n"/></r></p></e>
+    <e><p><l>insect<s n="n"/></l><r>golach<s n="n"/></r></p></e>
+    <e><p><l>insect<s n="n"/></l><r>gollach<s n="n"/></r></p></e>
+    <e><p><l>god<s n="n"/></l><r>gode<s n="n"/></r></p></e>
     <e><p><l>government<s n="n"/></l><r>govrenment<s n="n"/></r></p></e>    
     <e><p><l>gold<s n="n"/></l><r>gowd<s n="n"/></r></p></e>
     <e><p><l>golf<s n="n"/></l><r>gowf<s n="n"/></r></p></e>
@@ -2354,6 +2365,7 @@
     <e><p><l>animal<s n="n"/></l><r>heft<s n="n"/></r></p></e>
     <e><p><l>head<s n="n"/></l><r>heid<s n="n"/></r></p></e>
     <e><p><l>boss<s n="n"/></l><r>heid<b/>bummer<s n="n"/></r></p></e>
+    <e><p><l>boss<s n="n"/></l><r>heidbummer<s n="n"/></r></p></e>
     <e><p><l>headline<s n="n"/></l><r>heidline<s n="n"/></r></p></e>
     <e><p><l>leader<s n="n"/></l><r>heidsman<s n="n"/></r></p></e>
     <e><p><l>inheritance<s n="n"/></l><r>heirskip<s n="n"/></r></p></e>
@@ -2376,6 +2388,9 @@
     <e><p><l>owl<s n="n"/></l><r>hoolet<s n="n"/></r></p></e>
     <e><p><l>whore<s n="n"/></l><r>hoor<s n="n"/></r></p></e>
     <e><p><l>house<s n="n"/></l><r>hoose<s n="n"/></r></p></e>
+    <e><p><l>earwig<s n="n"/></l><r>hornie<b/>golach<s n="n"/></r></p></e>
+    <e><p><l>earwig<s n="n"/></l><r>hornie<b/>gollach<s n="n"/></r></p></e>
+    <e><p><l>earwig<s n="n"/></l><r>hornie-gollach<s n="n"/></r></p></e>    
     <e><p><l>hour<s n="n"/></l><r>houre<s n="n"/></r></p></e>
     <e><p><l>hollow<s n="n"/></l><r>howe<s n="n"/></r></p></e>
     <e><p><l>tavern<s n="n"/></l><r>howff<s n="n"/></r></p></e>
@@ -2796,6 +2811,7 @@
     <e><p><l>speech<s n="n"/></l><r>screed<s n="n"/></r></p></e>
     <e><p><l>writer<s n="n"/></l><r>scriever<s n="n"/></r></p></e>
     <e><p><l>smack<s n="n"/></l><r>scud<s n="n"/></r></p></e>
+    <e><p><l>disgust<s n="n"/></l><r>scunner<s n="n"/></r></p></e>
     <e><p><l>sea<s n="n"/></l><r>sea<s n="n"/></r></p></e>
     <e><p><l>secretary<s n="n"/></l><r>secretar<s n="n"/></r></p></e>
     <e><p><l>system<s n="n"/></l><r>seestem<s n="n"/></r></p></e>
@@ -2805,7 +2821,9 @@
     <e><p><l>senator<s n="n"/></l><r>senator<s n="n"/></r></p></e>
     <e><p><l>napkin<s n="n"/></l><r>servit<s n="n"/></r></p></e>
     <e><p><l>serviette<s n="n"/></l><r>servit<s n="n"/></r></p></e>
+    <e><p><l>shadow<s n="n"/></l><r>shadda<s n="n"/></r></p></e>
     <e><p><l>shoe<s n="n"/></l><r>shae<s n="n"/></r></p></e>
+    <e><p><l>shadow<s n="n"/></l><r>shaidae<s n="n"/></r></p></e>  
     <e><p><l>shin<s n="n"/></l><r>shank<s n="n"/></r></p></e>
     <e><p><l>leg<s n="n"/></l><r>shank<s n="n"/></r></p></e>
     <e><p><l>show<s n="n"/></l><r>shaw<s n="n"/></r></p></e>
