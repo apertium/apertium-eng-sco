@@ -231,6 +231,7 @@
     <e><p><l>clearly<s n="adv"/></l><r>clear<s n="adv"/></r></p></e>
     <e><p><l>confidently<s n="adv"/></l><r>clear<s n="adv"/></r></p></e>
     <e><p><l>abruptly<s n="adv"/></l><r>cuttitly<s n="adv"/></r></p></e>
+    <e><p><l>stupidly<s n="adv"/></l><r>dippitly<s n="adv"/></r></p></e>
     <e><p><l>down<s n="adv"/></l><r>doon<s n="adv"/></r></p></e>
     <e><p><l>down<s n="adv"/></l><r>doun<s n="adv"/></r></p></e>
     <e><p><l>slowly<s n="adv"/></l><r>dreichly<s n="adv"/></r></p></e>
@@ -239,6 +240,8 @@
     <e><p><l>once<s n="adv"/></l><r>eence<s n="adv"/></r></p></e>
     <e><p><l>after<s n="adv"/></l><r>efter<s n="adv"/></r></p></e>
     <e><p><l>later<s n="adv"/></l><r>efter<s n="adv"/></r></p></e>
+    <e><p><l>endlessly<s n="adv"/></l><r>endlessly<s n="adv"/></r></p></e>
+    <e><p><l>enlessly<s n="adv"/></l><r>enlessly<s n="adv"/></r></p></e>
     <e><p><l>even<s n="adv"/></l><r>even<s n="adv"/></r></p></e>
     <e><p><l>completely<s n="adv"/></l><r>fair<s n="adv"/></r></p></e>
     <e><p><l>absolutely<s n="adv"/></l><r>fair<s n="adv"/></r></p></e>
@@ -390,6 +393,8 @@
     <e><p><l>each<s n="det"/><s n="ind"/></l><r>ilka<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>every<s n="det"/><s n="ind"/></l><r>ilka<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>other<s n="det"/><s n="ind"/></l><r>ither<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>every<s n="det"/><s n="ind"/></l><r>ivery<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>every<s n="det"/><s n="ind"/></l><r>ivry<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>more<s n="det"/><s n="qnt"/></l><r>mair<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>most<s n="det"/><s n="qnt"/></l><r>maist<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>my<s n="det"/><s n="pos"/></l><r>ma<s n="det"/><s n="pos"/></r></p></e>
@@ -517,6 +522,7 @@
     <e><p><l>this<s n="prn"/></l><r>this<s n="prn"/></r></p></e>    
     <e><p><l>that<s n="prn"/></l><r>that<s n="prn"/></r></p></e> 
 
+    <e><p><l>anybody<s n="prn"/></l><r>onybody<s n="prn"/></r></p></e>
     <e><p><l>anything<s n="prn"/></l><r>onything<s n="prn"/></r></p></e> 
     <e><p><l>anything<s n="prn"/></l><r>onythin<s n="prn"/></r></p></e>
     <e><p><l>something<s n="prn"/></l><r>something<s n="prn"/></r></p></e> 
@@ -538,6 +544,7 @@
 
     <e><p><l>itself<s n="prn"/></l><r>itsel<s n="prn"/></r></p></e>
 
+    <e><p><l>ourselves<s n="prn"/></l><r>oorsels<s n="prn"/></r></p></e> 
     <e><p><l>yourselves<s n="prn"/></l><r>yersels<s n="prn"/></r></p></e>    
 
    
@@ -689,11 +696,14 @@
     <e><p><l>dead<s n="adj"/><s n="sint"/></l><r>deid<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>deadly<s n="adj"/><s n="sint"/></l><r>deidly<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>departmental<s n="adj"/></l><r>departmental<s n="adj"/></r></p></e>
+    <e><p><l>depressing<s n="adj"/></l><r>depressin<s n="adj"/></r></p></e>
     <e><p><l>dark<s n="adj"/><s n="sint"/></l><r>derk<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>different<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
     <e><p><l>neat<s n="adj"/></l><r>dink<s n="adj"/></r></p></e>
     <e><p><l>neat<s n="adj"/></l><r>dink<s n="adj"/></r></p></e>
     <e><p><l>tidy<s n="adj"/></l><r>dink<s n="adj"/></r></p></e>
+    <e><p><l>daft<s n="adj"/></l><r>dippit<s n="adj"/></r></p></e>
+    <e><p><l>stupid<s n="adj"/></l><r>dippit<s n="adj"/></r></p></e>
     <e><p><l>dotit<s n="adj"/></l><r>dotit<s n="adj"/></r></p></e>
     <e><p><l>down<s n="adj"/></l><r>doun<s n="adj"/></r></p></e>
     <e><p><l>gloomy<s n="adj"/><s n="sint"/></l><r>dour<s n="adj"/><s n="sint"/></r></p></e>
@@ -721,6 +731,8 @@
     <e><p><l>early<s n="adj"/><s n="sint"/></l><r>early<s n="adj"/><s n="sint"/></r></p></e>    
     <e><p><l>farther east<s n="adj"/></l><r>easter<s n="adj"/></r></p></e>
     <e><p><l>easy<s n="adj"/><s n="sint"/></l><r>easy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>endless<s n="adj"/></l><r>endless<s n="adj"/></r></p></e>  
+    <e><p><l>endless<s n="adj"/></l><r>enless<s n="adj"/></r></p></e> 
     <e><p><l>equal<s n="adj"/></l><r>equal<s n="adj"/></r></p></e>
     <e><p><l>fair<s n="adj"/></l><r>fair<s n="adj"/></r></p></e>
     <e><p><l>absolute<s n="adj"/></l><r>fair<s n="adj"/></r></p></e>
@@ -869,6 +881,7 @@
     <e><p><l>luesome<s n="adj"/></l><r>luesome<s n="adj"/></r></p></e>
     <e><p><l>maggoty<s n="adj"/></l><r>maukit<s n="adj"/></r></p></e>
     <e><p><l>filthy<s n="adj"/></l><r>maukit<s n="adj"/></r></p></e>
+    <e><p><l>meaningful<s n="adj"/></l><r>meaningfu<s n="adj"/></r></p></e>
     <e><p><l>marked<s n="adj"/></l><r>merked<s n="adj"/></r></p></e>
     <e><p><l>marked<s n="adj"/></l><r>merkit<s n="adj"/></r></p></e>
     <e><p><l>much<s n="adj"/></l><r>mickle<s n="adj"/></r></p></e>
@@ -1154,6 +1167,7 @@
     <e><p><l>while<s n="cnjadv"/></l><r>whiles<s n="cnjadv"/></r></p></e>
     <e><p><l>whilst<s n="cnjadv"/></l><r>whiles<s n="cnjadv"/></r></p></e>
     <e><p><l>unless<s n="cnjadv"/></l><r>withoot<s n="cnjadv"/></r></p></e>
+    <e><p><l>yet<s n="cnjadv"/></l><r>yit<s n="cnjadv"/></r></p></e>
 
         <!-- NEW  IRREGULAR VERBS -->
 
@@ -1335,6 +1349,7 @@
     <e><p><l>chirp<s n="vblex"/></l><r>cheep<s n="vblex"/></r></p></e>
     <e><p><l>stab<s n="vblex"/></l><r>chib<s n="vblex"/></r></p></e>
     <e><p><l>tremble<s n="vblex"/></l><r>chitter<s n="vblex"/></r></p></e>
+    <e><p><l>choose<s n="vblex"/></l><r>choose<s n="vblex"/></r></p></e>
     <e><p><l>steal<s n="vblex"/></l><r>chore<s n="vblex"/></r></p></e>
     <e><p><l>pinch<s n="vblex"/></l><r>chorie<s n="vblex"/></r></p></e>
     <e><p><l>change<s n="vblex"/></l><r>chynge<s n="vblex"/></r></p></e>
@@ -1658,6 +1673,7 @@
     <e><p><l>suck<s n="vblex"/></l><r>souk<s n="vblex"/></r></p></e>
     <e><p><l>ask<s n="vblex"/></l><r>speir<s n="vblex"/></r></p></e>
     <e><p><l>spew<s n="vblex"/></l><r>spew<s n="vblex"/></r></p></e>
+    <e><p><l>ask<s n="vblex"/></l><r>spier<s n="vblex"/></r></p></e>
     <e><p><l>start<s n="vblex"/></l><r>stairt<s n="vblex"/></r></p></e>
     <e><p><l>stone<s n="vblex"/></l><r>stane<s n="vblex"/></r></p></e>
     <e><p><l>step<s n="vblex"/></l><r>stap<s n="vblex"/></r></p></e>
@@ -2216,7 +2232,7 @@
     <e><p><l>coward<s n="n"/></l><r>feartie<s n="n"/></r></p></e>
     <e><p><l>feast<s n="n"/></l><r>feast<s n="n"/></r></p></e>
     <e><p><l>feature<s n="n"/></l><r>featur<s n="n"/></r></p></e>
-    <e><p><l>fecht<s n="n"/></l><r>fecht<s n="n"/></r></p></e>
+    <e><p><l>fight<s n="n"/></l><r>fecht<s n="n"/></r></p></e>
     <e><p><l>fighter<s n="n"/></l><r>fechter<s n="n"/></r></p></e>
     <e><p><l>fighting<s n="n"/></l><r>fechtin<s n="n"/></r></p></e>
     <e><p><l>fights<s n="n"/></l><r>fechts<s n="n"/></r></p></e>
@@ -2367,6 +2383,7 @@
     <e><p><l>boss<s n="n"/></l><r>heid<b/>bummer<s n="n"/></r></p></e>
     <e><p><l>boss<s n="n"/></l><r>heidbummer<s n="n"/></r></p></e>
     <e><p><l>headline<s n="n"/></l><r>heidline<s n="n"/></r></p></e>
+    <e><p><l>leader<s n="n"/></l><r>heidyin<s n="n"/></r></p></e>
     <e><p><l>leader<s n="n"/></l><r>heidsman<s n="n"/></r></p></e>
     <e><p><l>inheritance<s n="n"/></l><r>heirskip<s n="n"/></r></p></e>
     <e><p><l>woman<s n="n"/></l><r>hen<s n="n"/></r></p></e>
