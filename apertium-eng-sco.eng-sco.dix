@@ -320,7 +320,9 @@
     <e><p><l>rightly<s n="cnjadv"/></l><r>richtly<s n="adv"/></r></p></e>
     <e><p><l>so<s n="adv"/></l><r>sae<s n="cnjadv"/></r></p></e>
     <e><p><l>softly<s n="adv"/></l><r>saft<s n="adv"/></r></p></e>
+    <e><p><l>surely<s n="adv"/></l><r>shairly<s n="adv"/></r></p></e>    
     <e><p><l>sharply<s n="adv"/></l><r>shairply<s n="adv"/></r></p></e>
+    <e><p><l>surely<s n="adv"/></l><r>shuirly<s n="adv"/></r></p></e>
     <e><p><l>so<s n="adv"/></l><r>sic<s n="adv"/></r></p></e>
     <e><p><l>separately<s n="adv"/></l><r>sindrie<s n="adv"/></r></p></e>
     <e><p><l>separately<s n="adv"/></l><r>sindry<s n="adv"/></r></p></e>
@@ -1118,7 +1120,7 @@
     <e><p><l>yellow<s n="adj"/><s n="sint"/></l><r>yellae<s n="adj"/></r></p></e>
     <e><p><l>young<s n="adj"/><s n="sint"/></l><r>young<s n="adj"/></r></p></e>
 
-
+    <e><p><l>too<b/>many<s n="adj"/></l><r>ower<b/>mony<s n="adj"/></r></p></e>
 
     
     <e><p><l>nice<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
@@ -1283,7 +1285,7 @@
     <e><p><l>freeze<s n="vblex"/></l><r>freeze<s n="vblex"/></r></p></e>
     <e><p><l>give<s n="vblex"/></l><r>gie<s n="vblex"/></r></p></e>
 
-    <e><p><l>consist<s n="vblex"/></l><r>conseest<s n="vblex"/></r></p></e>
+
 
         <!-- NEW  REGULAR VERBS -->
 
@@ -1368,6 +1370,7 @@
     <e><p><l>conduct<s n="vblex"/></l><r>conduct<s n="vblex"/></r></p></e>
     <e><p><l>confuse<s n="vblex"/></l><r>conflummix<s n="vblex"/></r></p></e>
     <e><p><l>confront<s n="vblex"/></l><r>confront<s n="vblex"/></r></p></e>
+    <e><p><l>consist<s n="vblex"/></l><r>conseest<s n="vblex"/></r></p></e>
     <e><p><l>continue<s n="vblex"/></l><r>conteena<s n="vblex"/></r></p></e>
     <e><p><l>count<s n="vblex"/></l><r>coont<s n="vblex"/></r></p></e>
     <e><p><l>ruin<s n="vblex"/></l><r>cowp<s n="vblex"/></r></p></e>
@@ -1601,6 +1604,7 @@
     <e><p><l>raise<s n="vblex"/></l><r>raise<s n="vblex"/></r></p></e>
     <e><p><l>search<s n="vblex"/></l><r>rake<s n="vblex"/></r></p></e>
     <e><p><l>stretch<s n="vblex"/></l><r>rax<s n="vblex"/></r></p></e>
+    <e><p><l>record<s n="vblex"/></l><r>record<s n="vblex"/></r></p></e>
     <e><p><l>smoke<s n="vblex"/></l><r>reek<s n="vblex"/></r></p></e>
     <e><p><l>emit<b/>smoke<s n="vblex"/></l><r>reek<s n="vblex"/></r></p></e>
     <e><p><l>smoking<s n="vblex"/></l><r>reekin<s n="vblex"/></r></p></e>
@@ -1628,6 +1632,7 @@
     <e><p><l>write<s n="vblex"/></l><r>screive<s n="vblex"/></r></p></e>    
     <e><p><l>write<s n="vblex"/></l><r>scrieve<s n="vblex"/></r></p></e>
     <e><p><l>slide<s n="vblex"/></l><r>scud<s n="vblex"/></r></p></e>
+    <e><p><l>seek<s n="vblex"/></l><r>seek<s n="vblex"/></r></p></e>
     <e><p><l>seem<s n="vblex"/></l><r>seem<s n="vblex"/></r></p></e>
     <e><p><l>ser<s n="vblex"/></l><r>ser<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>serve<s n="vblex"/></l><r>serve<s n="vblex"/></r></p></e>
@@ -1637,6 +1642,7 @@
     <e><p><l>show<s n="vblex"/></l><r>shaw<s n="vblex"/></r></p></e>
     <e><p><l>shine<s n="vblex"/></l><r>sheen<s n="vblex"/></r></p></e>
     <e><p><l>shoot<s n="vblex"/></l><r>shuit<s n="vblex"/></r></p></e>
+    <e><p><l>seek<s n="vblex"/></l><r>sick<s n="vblex"/></r></p></e>
     <e><p><l>arrange<s n="vblex"/></l><r>side<s n="vblex"/></r></p></e>
     <e><p><l>summer<s n="vblex"/></l><r>simmer<s n="vblex"/></r></p></e>
     <e><p><l>separate<s n="vblex"/></l><r>sinder<s n="vblex"/></r></p></e>
