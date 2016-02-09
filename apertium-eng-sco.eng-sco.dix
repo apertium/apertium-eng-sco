@@ -540,6 +540,7 @@
     <!-- Group pronouns -->
 
     <e><p><l>everybody<s n="prn"/></l><r>awbody<s n="prn"/></r></p></e>
+    <e><p><l>everybody<s n="prn"/></l><r>aabody<s n="prn"/></r></p></e>
     <e><p><l>nobody<s n="prn"/></l><r>naebody<s n="prn"/></r></p></e> 
 
     <e><p><l>one<s n="prn"/></l><r>ane<s n="prn"/></r></p></e>       
@@ -1195,6 +1196,8 @@
     <e><p><l>stoop<s n="vblex"/></l><r>courie<s n="vblex"/></r></p></e>
     <e><p><l>embrace<s n="vblex"/></l><r>courie<s n="vblex"/></r></p></e>
     <e><p><l>crow<s n="vblex"/></l><r>craw<s n="vblex"/></r></p></e>
+    <e><p><l>call<s n="vblex"/></l><r>crie<s n="vblex"/></r></p></e>
+    <e><p><l>call<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>    
     <e><p><l>cry<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>
     <e><p><l>die<s n="vblex"/></l><r>dee<s n="vblex"/></r></p></e>
     <e><p><l>strike<s n="vblex"/></l><r>ding<s n="vblex"/></r></p></e>
@@ -1828,6 +1831,7 @@
     <e><p><l>English<b/>Channel<s n="np"/></l><r>Inglis<b/>Chainnel<s n="np"/></r></p></e>
     <e><p><l>Ireland<s n="np"/></l><r>Ireland<s n="np"/></r></p></e>
     <e r="RL"><p><l>Ireland<s n="np"/></l><r>Irland<s n="np"/></r></p></e>
+    <e><p><l>Latin<b/>America<s n="np"/></l><r>Laitin<b/>Americae<s n="np"/></r></p></e>    
     <e><p><l>London<s n="np"/></l><r>Lunnon<s n="np"/></r></p></e>
     <e><p><l>Northern<b/>Ireland<s n="np"/></l><r>Northren<b/>Ireland<s n="np"/></r></p></e>
     <e r="RL"><p><l>Northern<b/>Ireland<s n="np"/></l><r>Northren<b/>Irland<s n="np"/></r></p></e>
@@ -1835,6 +1839,7 @@
     <e><p><l>Russia<s n="np"/></l><r>Roushie<s n="np"/></r></p></e>
     <e><p><l>Scotland<s n="np"/></l><r>Scotland<s n="np"/></r></p></e>
     <e><p><l>Spain<s n="np"/></l><r>Spain<s n="np"/></r></p></e>
+    <e><p><l>Spanish<s n="n"/></l><r>Spaingie<s n="n"/></r></p></e>
     <e><p><l>Sparta<s n="np"/></l><r>Sparta<s n="np"/></r></p></e>
     <e><p><l>United<b/>Kingdom<s n="np"/></l><r>Unitit<b/>Kinrick<s n="np"/></r></p></e>
     <e><p><l>United<b/>States<s n="np"/></l><r>Unitit<b/>States<s n="np"/></r></p></e>
@@ -2509,6 +2514,7 @@
     <e><p><l>boy<s n="n"/></l><r>laddie<s n="n"/></r></p></e>
     <e><p><l>lair<s n="n"/></l><r>lair<s n="n"/></r></p></e>
     <e><p><l>mud<s n="n"/></l><r>lair<s n="n"/></r></p></e>
+    <e><p><l>latin<s n="n"/></l><r>laitin<s n="n"/></r></p></e>
     <e><p><l>rest<s n="n"/></l><r>laive<s n="n"/></r></p></e>
     <e><p><l>language<s n="n"/></l><r>langage<s n="n"/></r></p></e>
     <e><p><l>lantern<s n="n"/></l><r>lantren<s n="n"/></r></p></e>
@@ -2896,6 +2902,8 @@
     <e><p><l>source<s n="n"/></l><r>soorce<s n="n"/></r></p></e>
     <e><p><l>south<s n="n"/></l><r>sooth<s n="n"/></r></p></e>
     <e><p><l>sow<s n="n"/></l><r>sou<s n="n"/></r></p></e>
+    <e><p><l>Spanish<s n="n"/></l><r>Spaingie<s n="n"/></r></p></e>
+    <e><p><l>Spanish<s n="n"/></l><r>Spainyie<s n="n"/></r></p></e>
     <e><p><l>speed<s n="n"/></l><r>speed<s n="n"/></r></p></e>
     <e><p><l>spirit<s n="n"/></l><r>speerit<s n="n"/></r></p></e>
     <e><p><l>spirits<s n="n"/></l><r>speerits<s n="n"/></r></p></e>
