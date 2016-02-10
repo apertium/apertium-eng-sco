@@ -562,7 +562,6 @@
 
     <!-- Adjectives -->
 
-    <e><p><l>bright<s n="adj"/><s n="sint"/></l><r>bricht<s n="adj"/></r></p></e>
     <e><p><l>poor<s n="adj"/><s n="sint"/></l><r>puir<s n="adj"/></r></p></e>
     <e><p><l>great<s n="adj"/><s n="sint"/></l><r>greet<s n="adj"/></r></p></e>
 
@@ -579,6 +578,7 @@
     <e><p><l>armed<s n="adj"/></l><r>airmed<s n="adj"/></r></p></e>
     <e><p><l>alone<s n="adj"/></l><r>alane<s n="adj"/></r></p></e>
     <e><p><l>although<s n="adj"/></l><r>altho<s n="adj"/></r></p></e>
+    <e><p><l>American<s n="adj"/></l><r>Americaen<s n="adj"/></r></p></e>
     <e><p><l>another<s n="adj"/></l><r>anither<s n="adj"/></r></p></e>
     <e><p><l>annual<s n="adj"/></l><r>annual<s n="adj"/></r></p></e>
     <e><p><l>articicial<s n="adj"/></l><r>artifeecial<s n="adj"/></r></p></e>
@@ -629,6 +629,7 @@
     <e><p><l>fine<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>handsome<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>good<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>bright<s n="adj"/><s n="sint"/></l><r>bricht<s n="adj"/></r></p></e>
     <e><p><l>bright<s n="adj"/><s n="sint"/></l><r>bricht<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>brown<s n="adj"/><s n="sint"/></l><r>broon<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>brittle<s n="adj"/><s n="sint"/></l><r>bruckle<s n="adj"/><s n="sint"/></r></p></e>
@@ -695,6 +696,8 @@
     <e><p><l>paralytic<s n="adj"/></l><r>cuntit<s n="adj"/></r></p></e> 
     <e><p><l>custom<s n="adj"/></l><r>custom<s n="adj"/></r></p></e> 
     <e><p><l>customisable<s n="adj"/></l><r>customisable<s n="adj"/></r></p></e> 
+    <e><p><l>short<s n="adj"/><s n="sint"/></l><r>cuttie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>short<s n="adj"/><s n="sint"/></l><r>cutty<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>deep<s n="adj"/><s n="sint"/></l><r>deep<s n="adj"/><s n="sint"/></r></p></e>    
     <e><p><l>dead<s n="adj"/><s n="sint"/></l><r>deid<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>deadly<s n="adj"/><s n="sint"/></l><r>deidly<s n="adj"/><s n="sint"/></r></p></e>
@@ -1132,6 +1135,7 @@
     <e><p><l>African<s n="adj"/></l><r>Africaen<s n="adj"/></r></p></e>
     <e><p><l>African<s n="adj"/></l><r>African<s n="adj"/></r></p></e>
     <e><p><l>American<s n="adj"/></l><r>American<s n="adj"/></r></p></e>
+    <e><p><l>American<s n="adj"/></l><r>Americaen<s n="adj"/></r></p></e>
     <e><p><l>Breetish<s n="adj"/></l><r>Breetish<s n="adj"/></r></p></e>
     <e><p><l>British<s n="adj"/></l><r>British<s n="adj"/></r></p></e>
     <e><p><l>Danish<s n="adj"/></l><r>Dens<s n="adj"/></r></p></e> 
@@ -1245,7 +1249,7 @@
     <e><p><l>send<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
     <e><p><l>set<s n="vblex"/></l><r>set<s n="vblex"/></r></p></e>
     <e><p><l>sit<s n="vblex"/></l><r>sit<s n="vblex"/></r></p></e>
-    <e><p><l>spaek<s n="vblex"/></l><r>spaek<s n="vblex"/></r></p></e>    
+    <e><p><l>speak<s n="vblex"/></l><r>spaek<s n="vblex"/></r></p></e>    
     <e><p><l>speak<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e><p><l>speak<s n="vblex"/></l><r>speik<s n="vblex"/></r></p></e>
     <e><p><l>spit<s n="vblex"/></l><r>spit<s n="vblex"/></r></p></e>
@@ -2706,6 +2710,7 @@
     <e><p><l>pattern<s n="n"/></l><r>paitren<s n="n"/></r></p></e>
     <e><p><l>friend<s n="n"/></l><r>pal<s n="n"/></r></p></e>
     <e><p><l>dock<s n="n"/></l><r>panel<s n="n"/></r></p></e>
+    <e><p><l>Pope<s n="n"/></l><r>Pape<s n="n"/></r></p></e>
     <e><p><l>paper<s n="n"/></l><r>paper<s n="n"/></r></p></e>
     <e><p><l>parent<s n="n"/></l><r>parent<s n="n"/></r></p></e>
     <e><p><l>porridge<s n="n"/></l><r>parritch<s n="n"/></r></p></e>
@@ -3024,6 +3029,7 @@
     <e><p><l>wealth<s n="n"/></l><r>walth<s n="n"/></r></p></e>
     <e><p><l>muster<s n="n"/></l><r>wappenschawing<s n="n"/></r></p></e>
     <e><p><l>war<s n="n"/></l><r>war<s n="n"/></r></p></e>
+    <e><p><l>word<s n="n"/></l><r>ward<s n="n"/></r></p></e>
     <e><p><l>work<s n="n"/></l><r>wark<s n="n"/></r></p></e>
     <e><p><l>work<s n="n"/></l><r>warker<s n="n"/></r></p></e>
     <e><p><l>world<s n="n"/></l><r>warld<s n="n"/></r></p></e>
