@@ -524,6 +524,7 @@
     <e><p><l>this<s n="prn"/></l><r>this<s n="prn"/></r></p></e>    
     <e><p><l>that<s n="prn"/></l><r>that<s n="prn"/></r></p></e> 
 
+    <e><p><l>everything<s n="prn"/></l><r>awthing<s n="prn"/></r></p></e>
     <e><p><l>anybody<s n="prn"/></l><r>onybody<s n="prn"/></r></p></e>
     <e><p><l>anything<s n="prn"/></l><r>onything<s n="prn"/></r></p></e> 
     <e><p><l>anything<s n="prn"/></l><r>onythin<s n="prn"/></r></p></e>
@@ -1505,6 +1506,7 @@
     <e><p><l>hope<s n="vblex"/></l><r>howp<s n="vblex"/></r></p></e>
     <e><p><l>hunt<s n="vblex"/></l><r>hunt<s n="vblex"/></r></p></e>
     <e><p><l>oil<s n="vblex"/></l><r>ile<s n="vblex"/></r></p></e>
+    <e><p><l>invade<s n="vblex"/></l><r>invade<s n="vblex"/></r></p></e>
     <e><p><l>prick<s n="vblex"/></l><r>jag<s n="vblex"/></r></p></e>
     <e><p><l>suspect<s n="vblex"/></l><r>jalouse<s n="vblex"/></r></p></e>
     <e><p><l>guess<s n="vblex"/></l><r>jalouse<s n="vblex"/></r></p></e>
@@ -1930,6 +1932,7 @@
     <e><p><l>article<s n="n"/></l><r>airticle<s n="n"/></r></p></e>
     <e><p><l>ash<s n="n"/></l><r>aish<s n="n"/></r></p></e>
     <e><p><l>alarm<s n="n"/></l><r>alairm<s n="n"/></r></p></e>
+    <e><p><l>American<s n="n"/></l><r>Americaen<s n="n"/></r></p></e>
     <e><p><l>announcement<s n="n"/></l><r>annuncement<s n="n"/></r></p></e>
     <e><p><l>opening<s n="n"/></l><r>appenin<s n="n"/></r></p></e>
     <e><p><l>assembly<s n="n"/></l><r>assemmly<s n="n"/></r></p></e>
@@ -2514,8 +2517,10 @@
     <e><p><l>boy<s n="n"/></l><r>lad<s n="n"/></r></p></e>
     <e><p><l>man<s n="n"/></l><r>lad<s n="n"/></r></p></e>
     <e><p><l>guy<s n="n"/></l><r>lad<s n="n"/></r></p></e>
+    <e><p><l>load<s n="n"/></l><r>lade<s n="n"/></r></p></e>
     <e><p><l>young man<s n="n"/></l><r>laddie<s n="n"/></r></p></e>
     <e><p><l>boy<s n="n"/></l><r>laddie<s n="n"/></r></p></e>
+    <e><p><l>load<s n="n"/></l><r>laid<s n="n"/></r></p></e>    
     <e><p><l>lair<s n="n"/></l><r>lair<s n="n"/></r></p></e>
     <e><p><l>mud<s n="n"/></l><r>lair<s n="n"/></r></p></e>
     <e><p><l>latin<s n="n"/></l><r>laitin<s n="n"/></r></p></e>
