@@ -932,6 +932,7 @@
     <e><p><l>spare<s n="adj"/></l><r>orra<s n="adj"/></r></p></e>
     <e><p><l>abnormal<s n="adj"/></l><r>orra<s n="adj"/></r></p></e>
     <e><p><l>upper<s n="adj"/></l><r>ower<s n="adj"/></r></p></e>
+    <e><p><l>our<s n="adj"/><s n="sint"/></l><r>oor<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>pally<s n="adj"/><s n="sint"/></l><r>pally<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>short winded<s n="adj"/></l><r>pechie<s n="adj"/></r></p></e>
     <e><p><l>out of breath<s n="adj"/></l><r>pecht<s n="adj"/></r></p></e>
@@ -1104,6 +1105,7 @@
     <e><p><l>wantit<s n="adj"/></l><r>wantit<s n="adj"/></r></p></e>
     <e><p><l>enormous<s n="adj"/></l><r>wappin<s n="adj"/></r></p></e>
     <e><p><l>working<s n="adj"/></l><r>warkin<s n="adj"/></r></p></e>
+    <e><p><l>worth<s n="adj"/></l><r>warth<s n="adj"/></r></p></e>
     <e><p><l>west<s n="adj"/></l><r>wast<s n="adj"/></r></p></e>
     <e><p><l>farther west<s n="adj"/></l><r>waster<s n="adj"/></r></p></e>
     <e><p><l>farthest west<s n="adj"/></l><r>wastmaist<s n="adj"/></r></p></e>
@@ -1242,6 +1244,7 @@
     <e><p><l>party<s n="vblex"/></l><r>pairty<s n="vblex"/></r></p></e>
     <e><p><l>take<b/>sides<s n="vblex"/></l><r>pairty<s n="vblex"/></r></p></e>
     <e><p><l>put<s n="vblex"/></l><r>pit<s n="vblex"/></r></p></e>
+    <e><p><l>pretend<s n="vblex"/></l><r>pretend<s n="vblex"/></r></p></e>
     <e><p><l>read<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
     <e><p><l>tidy<s n="vblex"/></l><r>redd<s n="vblex"/></r></p></e>
     <e><p><l>prepare<s n="vblex"/></l><r>redd<s n="vblex"/></r></p></e>
@@ -2374,6 +2377,7 @@
     <e><p><l>masquerade<s n="n"/></l><r>guise<s n="n"/></r></p></e>
     <e><p><l>trick-or-treater<s n="n"/></l><r>guiser<s n="n"/></r></p></e>
     <e><p><l>trick-or-treating<s n="n"/></l><r>guisin<s n="n"/></r></p></e>
+    <e><p><l>plimsoll<s n="n"/></l><r>guttie<s n="n"/></r></p></e>
     <e><p><l>fog<s n="n"/></l><r>haar<s n="n"/></r></p></e>
     <e><p><l>pasture<s n="n"/></l><r>haft<s n="n"/></r></p></e>
     <e><p><l>head<s n="n"/></l><r>haid<s n="n"/></r></p></e>
