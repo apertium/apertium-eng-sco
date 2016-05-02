@@ -102,7 +102,7 @@
         <!-- GENATIVE - temp as noun ??? -->
     <e><p><l>s<s n="n"/></l><r>s<s n="n"/></r></p></e>    
 
-    <e><p><l>calf<s n="n"/></l><r>cauf<s n="n"/></r></p></e>
+
     <e><p><l>foot<s n="n"/></l><r>fit<s n="n"/></r></p></e>
     <e><p><l>eye<s n="n"/></l><r>ee<s n="n"/></r></p></e>
     <e><p><l>mouse<s n="n"/></l><r>moose<s n="n"/></r></p></e>
@@ -267,8 +267,7 @@
     <e><p><l>hot<s n="adv"/></l><r>het<s n="adv"/></r></p></e>
     <e><p><l>eventually<s n="adv"/></l><r>hinderly<s n="adv"/></r></p></e>
     <e><p><l>honestly<s n="adv"/></l><r>honestly<s n="adv"/></r></p></e>
-    <e><p><l>how<s n="adv"/><s n="itg"/></l><r>who<s n="adv"/><s n="itg"/></r></p></e>
-    <e><p><l>why<s n="adv"/><s n="itg"/></l><r>who<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>where<s n="adv"/><s n="itg"/></l><r>hoo<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>however<s n="adv"/><s n="itg"/></l><r>hooanever<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>however<s n="adv"/><s n="itg"/></l><r>hooaniver<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>in<s n="adv"/></l><r>in<s n="adv"/></r></p></e>
@@ -335,6 +334,7 @@
     <e><p><l>special<s n="adv"/></l><r>speicial<s n="adv"/></r></p></e>
     <e><p><l>still<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
     <e><p><l>strong<s n="adv"/></l><r>strang<s n="adv"/></r></p></e>
+    <e><p><l>strongly<s n="adv"/></l><r>strangly<s n="adv"/></r></p></e>
     <e><p><l>straight<s n="adv"/></l><r>straucht<s n="adv"/></r></p></e>
     <e><p><l>still<s n="adv"/></l><r>stull<s n="adv"/></r></p></e>
     <e><p><l>soon<s n="adv"/></l><r>suin<s n="adv"/></r></p></e>
@@ -371,6 +371,8 @@
     <e><p><l>while<s n="adv"/></l><r>while<s n="adv"/></r></p></e>
     <e><p><l>sometimes<s n="adv"/></l><r>whiles<s n="adv"/></r></p></e>
     <e><p><l>how<s n="adv"/><s n="itg"/></l><r>whitwey<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>how<s n="adv"/><s n="itg"/></l><r>who<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>why<s n="adv"/><s n="itg"/></l><r>who<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>without<s n="adv"/></l><r>wioot<s n="adv"/></r></p></e>
     <e><p><l>without<s n="adv"/></l><r>withoot<s n="adv"/></r></p></e>
     <e><p><l>yesterday<s n="adv"/></l><r>yestreen<s n="adv"/></r></p></e>
@@ -440,6 +442,8 @@
 
     <e><p><l>below<s n="pr"/></l><r>ablo<s n="pr"/></r></p></e>
     <e><p><l>under<s n="pr"/></l><r>ablo<s n="pr"/></r></p></e>
+    <e><p><l>below<s n="pr"/></l><r>ablow<s n="pr"/></r></p></e>
+    <e><p><l>under<s n="pr"/></l><r>ablow<s n="pr"/></r></p></e>
     <e><p><l>above<s n="pr"/></l><r>aboon<s n="pr"/></r></p></e>
     <e><p><l>about<s n="pr"/></l><r>aboot<s n="pr"/></r></p></e>
     <e><p><l>above<s n="pr"/></l><r>abuin<s n="pr"/></r></p></e>
@@ -1253,6 +1257,7 @@
     <e><p><l>speak<s n="vblex"/></l><r>spaek<s n="vblex"/></r></p></e>    
     <e><p><l>speak<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e><p><l>speak<s n="vblex"/></l><r>speik<s n="vblex"/></r></p></e>
+    <e><p><l>spell<s n="vblex"/></l><r>spell<s n="vblex"/></r></p></e>
     <e><p><l>spit<s n="vblex"/></l><r>spit<s n="vblex"/></r></p></e>
     <e><p><l>stand<s n="vblex"/></l><r>staun<s n="vblex"/></r></p></e>
     <e><p><l>stand<s n="vblex"/></l><r>staund<s n="vblex"/></r></p></e>
@@ -1997,6 +2002,8 @@
     <e><p><l>person<s n="n"/></l><r>bodie<s n="n"/></r></p></e>
     <e><p><l>person<s n="n"/></l><r>body<s n="n"/></r></p></e>
     <e><p><l>being<s n="n"/></l><r>body<s n="n"/></r></p></e>
+    <e><p><l>bugbear<s n="n"/></l><r>bogill<s n="n"/></r></p></e>
+    <e><p><l>bugbear<s n="n"/></l><r>bogillis<s n="n"/></r></p></e>
     <e><p><l>ghost<s n="n"/></l><r>bogle<s n="n"/></r></p></e>
     <e><p><l>bonfire<s n="n"/></l><r>bonie<s n="n"/></r></p></e>
     <e><p><l>beauty<s n="n"/></l><r>bonnieness<s n="n"/></r></p></e>
@@ -2054,6 +2061,7 @@
     <e><p><l>hag<s n="n"/></l><r>carline<s n="n"/></r></p></e>
     <e><p><l>case<s n="n"/></l><r>case<s n="n"/></r></p></e>
     <e><p><l>castaway<s n="n"/></l><r>castawa<s n="n"/></r></p></e>
+    <e><p><l>calf<s n="n"/></l><r>cauf<s n="n"/></r></p></e>
     <e><p><l>cold<s n="n"/></l><r>cauld<s n="n"/></r></p></e>
     <e><p><l>coldness<s n="n"/></l><r>cauldness<s n="n"/></r></p></e>
     <e><p><l>candle<s n="n"/></l><r>caunle<s n="n"/></r></p></e>
@@ -2408,7 +2416,7 @@
     <e><p><l>hen<s n="n"/></l><r>hen<s n="n"/></r></p></e>
     <e><p><l>harm<s n="n"/></l><r>herm<s n="n"/></r></p></e>
     <e><p><l>heart<s n="n"/></l><r>hert<s n="n"/></r></p></e>
-    <e><p><l>stag<s n="n"/></l><r>hert<s n="n"/></r></p></e>
+    <e r="LR"><p><l>stag<s n="n"/></l><r>hert<s n="n"/></r></p></e>
     <e><p><l>cliff<s n="n"/></l><r>heuch<s n="n"/></r></p></e>
     <e><p><l>precipice<s n="n"/></l><r>heuch<s n="n"/></r></p></e>
     <e><p><l>ravine<s n="n"/></l><r>heuch<s n="n"/></r></p></e>
@@ -2466,6 +2474,7 @@
     <e><p><l>shit<s n="n"/></l><r>jobbie<s n="n"/></r></p></e>
     <e><p><l>thing<s n="n"/></l><r>jobbie<s n="n"/></r></p></e>
     <e><p><l>shit<s n="n"/></l><r>jobby<s n="n"/></r></p></e>
+    <e><p><l>turd<s n="n"/></l><r>jobby<s n="n"/></r></p></e>
     <e><p><l>thing<s n="n"/></l><r>jobby<s n="n"/></r></p></e>
     <e><p><l>note<s n="n"/></l><r>jottin<s n="n"/></r></p></e>
     <e><p><l>note<s n="n"/></l><r>jotting<s n="n"/></r></p></e>
@@ -2846,6 +2855,7 @@
     <e><p><l>scholar<s n="n"/></l><r>scholart<s n="n"/></r></p></e>
     <e><p><l>school<s n="n"/></l><r>schuil<s n="n"/></r></p></e>
     <e><p><l>schools<s n="n"/></l><r>schuils<s n="n"/></r></p></e>
+    <e><p><l>school<s n="n"/></l><r>schule<s n="n"/></r></p></e>
     <e><p><l>food<s n="n"/></l><r>scran<s n="n"/></r></p></e>
     <e><p><l>speech<s n="n"/></l><r>screed<s n="n"/></r></p></e>
     <e><p><l>writer<s n="n"/></l><r>scriever<s n="n"/></r></p></e>
@@ -2965,6 +2975,7 @@
     <e><p><l>fresh milk<s n="n"/></l><r>sweet milk<s n="n"/></r></p></e>
     <e><p><l>sweetie<s n="n"/></l><r>sweetie<s n="n"/></r></p></e>
     <e><p><l>toe<s n="n"/></l><r>tae<s n="n"/></r></p></e>
+    <e><p><l>toenail<s n="n"/></l><r>taenail<s n="n"/></r></p></e>
     <e><p><l>tartan<s n="n"/></l><r>tairtan<s n="n"/></r></p></e>
     <e><p><l>puffin<s n="n"/></l><r>tammie norrie<s n="n"/></r></p></e>
     <e><p><l>puffin<s n="n"/></l><r>tammie-norrie<s n="n"/></r></p></e>
