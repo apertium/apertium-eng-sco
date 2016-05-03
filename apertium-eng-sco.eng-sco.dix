@@ -409,6 +409,7 @@
     <e><p><l>any<s n="det"/><s n="ind"/></l><r>ony<s n="det"/><s n="ind"/></r></p></e>    
     <e><p><l>some<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>the<s n="det"/><s n="def"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
+    <e><p><l>their<s n="det"/><s n="def"/></l><r>thir<s n="det"/><s n="def"/></r></p></e>
     <e><p><l>what<s n="det"/><s n="itg"/></l><r>whit<s n="det"/><s n="itg"/></r></p></e>
     <e><p><l>your<s n="det"/><s n="pos"/></l><r>yer<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>your<s n="det"/><s n="pos"/></l><r>your<s n="det"/><s n="pos"/></r></p></e>
@@ -424,6 +425,7 @@
     <e><p><l>two<s n="num"/></l><r>two<s n="num"/></r></p></e>
     <e><p><l>three<s n="num"/></l><r>three<s n="num"/></r></p></e>
     <e><p><l>four<s n="num"/></l><r>fower<s n="num"/></r></p></e>
+    <e><p><l>five<s n="num"/></l><r>five<s n="num"/></r></p></e>
 
     
     <e><p><l>very<s n="preadv"/></l><r>verra<s n="preadv"/></r></p></e>
@@ -534,10 +536,12 @@
     <e><p><l>anything<s n="prn"/></l><r>onythin<s n="prn"/></r></p></e>
     <e><p><l>something<s n="prn"/></l><r>something<s n="prn"/></r></p></e> 
     <e><p><l>something<s n="prn"/></l><r>somethin<s n="prn"/></r></p></e>
-
+    <e><p><l>somewhere<s n="prn"/></l><r>somewhaur<s n="prn"/></r></p></e>
     <e><p><l>whatever<s n="prn"/></l><r>whitever<s n="prn"/></r></p></e>    
 
     <e><p><l>ithers<s n="prn"/></l><r>ithers<s n="prn"/></r></p></e> 
+
+    <e><p><l>nothing<b/>at<b/>all<s n="prn"/></l><r>hee<b/>haw<s n="prn"/></r></p></e>
 
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
@@ -705,6 +709,7 @@
     <e><p><l>customisable<s n="adj"/></l><r>customisable<s n="adj"/></r></p></e> 
     <e><p><l>short<s n="adj"/><s n="sint"/></l><r>cuttie<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>short<s n="adj"/><s n="sint"/></l><r>cutty<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dear<s n="adj"/><s n="sint"/></l><r>dear<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>deep<s n="adj"/><s n="sint"/></l><r>deep<s n="adj"/><s n="sint"/></r></p></e>    
     <e><p><l>dead<s n="adj"/><s n="sint"/></l><r>deid<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>deadly<s n="adj"/><s n="sint"/></l><r>deidly<s n="adj"/><s n="sint"/></r></p></e>
@@ -936,8 +941,10 @@
     <e><p><l>upper<s n="adj"/></l><r>ower<s n="adj"/></r></p></e>
     <e><p><l>our<s n="adj"/><s n="sint"/></l><r>oor<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>pally<s n="adj"/><s n="sint"/></l><r>pally<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>short winded<s n="adj"/></l><r>pechie<s n="adj"/></r></p></e>
-    <e><p><l>out of breath<s n="adj"/></l><r>pecht<s n="adj"/></r></p></e>
+    <e><p><l>astute<s n="adj"/></l><r>paukie<s n="adj"/></r></p></e>  
+    <e><p><l>astute<s n="adj"/></l><r>pawkie<s n="adj"/></r></p></e>   
+    <e><p><l>short<b/>winded<s n="adj"/></l><r>pechie<s n="adj"/></r></p></e>
+    <e><p><l>out<b/>of<b/>breath<s n="adj"/></l><r>pecht<s n="adj"/></r></p></e>
     <e><p><l>thin<s n="adj"/></l><r>peelie<s n="adj"/></r></p></e>
     <e><p><l>emaciated<s n="adj"/></l><r>peelie<s n="adj"/></r></p></e>
     <e><p><l>emaciated<s n="adj"/></l><r>peelie<s n="adj"/></r></p></e>
