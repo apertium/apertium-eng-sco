@@ -618,6 +618,8 @@
     <e><p><l>energetic<s n="adj"/><s n="sint"/></l><r>birkie<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>blank<s n="adj"/><s n="sint"/></l><r>blank<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>modest<s n="adj"/></l><r>blate<s n="adj"/></r></p></e>
+    <e><p><l>blazing<s n="adj"/></l><r>bleezin<s n="adj"/></r></p></e>
+    <e><p><l>blazing<s n="adj"/></l><r>bleizin<s n="adj"/></r></p></e>
     <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>blythe<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>handsome<s n="adj"/><s n="sint"/></l><r>bonnie<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>beautiful<s n="adj"/><s n="sint"/></l><r>bonnie<s n="adj"/><s n="sint"/></r></p></e>
@@ -1496,6 +1498,8 @@
     <e><p><l>hold<s n="vblex"/></l><r>haud<s n="vblex"/></r></p></e>
     <e><p><l>hand<s n="vblex"/></l><r>haun<s n="vblex"/></r></p></e>
     <e><p><l>hand<s n="vblex"/></l><r>haund<s n="vblex"/></r></p></e>
+    <e><p><l>handle<s n="vblex"/></l><r>haundle<s n="vblex"/></r></p></e>
+    <e><p><l>handle<s n="vblex"/></l><r>haunnle<s n="vblex"/></r></p></e>
     <e><p><l>harden<s n="vblex"/></l><r>haurden<s n="vblex"/></r></p></e>
     <e><p><l>speak nonsense<s n="vblex"/></l><r>haver<s n="vblex"/></r></p></e>
     <e><p><l>become accustomed<s n="vblex"/></l><r>heft<s n="vblex"/></r></p></e>
@@ -1645,6 +1649,7 @@
     <e><p><l>scratch<s n="vblex"/></l><r>scart<s n="vblex"/></r></p></e>
     <e><p><l>scheme<s n="vblex"/></l><r>scheme<s n="vblex"/></r></p></e>
     <e><p><l>scoff<s n="vblex"/></l><r>scoff<s n="vblex"/></r></p></e>
+    <e><p><l>scour<s n="vblex"/></l><r>scooor<s n="vblex"/></r></p></e>
     <e><p><l>scoff<s n="vblex"/></l><r>scowf<s n="vblex"/></r></p></e>
     <e><p><l>write<s n="vblex"/></l><r>screive<s n="vblex"/></r></p></e>    
     <e><p><l>write<s n="vblex"/></l><r>scrieve<s n="vblex"/></r></p></e>
@@ -1841,6 +1846,7 @@
     <e><p><l>Glasgow<s n="np"/></l><r>Glesga<s n="np"/></r></p></e>
     <e><p><l>Greece<s n="np"/></l><r>Greece<s n="np"/></r></p></e>
     <e><p><l>Holyrood<s n="np"/></l><r>Halyruid<s n="np"/></r></p></e>
+    <e r="RL"><p><l>Holyrood<s n="np"/></l><r>Holyrood<s n="np"/></r></p></e>  
     <e><p><l>England<s n="np"/></l><r>Ingland<s n="np"/></r></p></e>
     <e><p><l>English<b/>Channel<s n="np"/></l><r>Inglis<b/>Chainnel<s n="np"/></r></p></e>
     <e><p><l>Ireland<s n="np"/></l><r>Ireland<s n="np"/></r></p></e>
@@ -2538,6 +2544,8 @@
     <e><p><l>mud<s n="n"/></l><r>lair<s n="n"/></r></p></e>
     <e><p><l>latin<s n="n"/></l><r>laitin<s n="n"/></r></p></e>
     <e><p><l>rest<s n="n"/></l><r>laive<s n="n"/></r></p></e>
+    <e><p><l>country<s n="n"/></l><r>landward<s n="n"/></r></p></e>
+    <e><p><l>country<s n="n"/></l><r>landwart<s n="n"/></r></p></e>
     <e><p><l>language<s n="n"/></l><r>langage<s n="n"/></r></p></e>
     <e><p><l>lantern<s n="n"/></l><r>lantren<s n="n"/></r></p></e>
     <e><p><l>lorry<s n="n"/></l><r>larrie<s n="n"/></r></p></e>
@@ -2704,7 +2712,7 @@
     <e><p><l>wool<s n="n"/></l><r>oo<s n="n"/></r></p></e>
     <e><p><l>fluff<s n="n"/></l><r>oo<s n="n"/></r></p></e>
     <e><p><l>hour<s n="n"/></l><r>oor<s n="n"/></r></p></e>
-    <e><p><l>hours<s n="n"/></l><r>oors<s n="n"/></r></p></e>
+    <e><p><l>outlet<s n="n"/></l><r>ootlet<s n="n"/></r></p></e>    
     <e><p><l>outrage<s n="n"/></l><r>ootrage<s n="n"/></r></p></e>
     <e><p><l>opinion<s n="n"/></l><r>opeenion<s n="n"/></r></p></e>
     <e><p><l>opening<s n="n"/></l><r>openin<s n="n"/></r></p></e>
