@@ -409,7 +409,7 @@
     <e><p><l>any<s n="det"/><s n="ind"/></l><r>ony<s n="det"/><s n="ind"/></r></p></e>    
     <e><p><l>some<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>the<s n="det"/><s n="def"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
-    <e><p><l>their<s n="det"/><s n="def"/></l><r>thir<s n="det"/><s n="def"/></r></p></e>
+    <e><p><l>their<s n="det"/><s n="def"/></l><r>thir<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>what<s n="det"/><s n="itg"/></l><r>whit<s n="det"/><s n="itg"/></r></p></e>
     <e><p><l>your<s n="det"/><s n="pos"/></l><r>yer<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>your<s n="det"/><s n="pos"/></l><r>your<s n="det"/><s n="pos"/></r></p></e>
