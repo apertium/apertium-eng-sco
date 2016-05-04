@@ -1133,6 +1133,7 @@
     <e><p><l>wooden<s n="adj"/></l><r>widden<s n="adj"/></r></p></e>
     <e><p><l>our<s n="adj"/><s n="sint"/></l><r>wir<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>working<s n="adj"/></l><r>wirkin<s n="adj"/></r></p></e>
+    <e><p><l>working<b/>class<s n="adj"/></l><r>workin<b/>cless<s n="adj"/></r></p></e>
     <e><p><l>valuable<s n="adj"/></l><r>worth<s n="adj"/></r></p></e>
     <e><p><l>worthwhile<s n="adj"/></l><r>worth<s n="adj"/></r></p></e>
     <e><p><l>wrong<s n="adj"/></l><r>wrang<s n="adj"/></r></p></e>
@@ -2723,7 +2724,8 @@
     <e><p><l>wool<s n="n"/></l><r>oo<s n="n"/></r></p></e>
     <e><p><l>fluff<s n="n"/></l><r>oo<s n="n"/></r></p></e>
     <e><p><l>hour<s n="n"/></l><r>oor<s n="n"/></r></p></e>
-    <e><p><l>outlet<s n="n"/></l><r>ootlet<s n="n"/></r></p></e>    
+    <e><p><l>outlet<s n="n"/></l><r>ootlet<s n="n"/></r></p></e>
+    <e><p><l>outline<s n="n"/></l><r>ootline<s n="n"/></r></p></e>
     <e><p><l>outrage<s n="n"/></l><r>ootrage<s n="n"/></r></p></e>
     <e><p><l>opinion<s n="n"/></l><r>opeenion<s n="n"/></r></p></e>
     <e><p><l>opening<s n="n"/></l><r>openin<s n="n"/></r></p></e>
@@ -2738,8 +2740,8 @@
     <e><p><l>armpit<s n="n"/></l><r>oxter<s n="n"/></r></p></e>
     <e><p><l>armpits<s n="n"/></l><r>oxters<s n="n"/></r></p></e>
     <e><p><l>parish<s n="n"/></l><r>pairish<s n="n"/></r></p></e>
-    <e><p><l>parlament<s n="n"/></l><r>pairlament<s n="n"/></r></p></e>
-    <e><p><l>parlament<s n="n"/></l><r>pairliament<s n="n"/></r></p></e>
+    <e><p><l>parliament<s n="n"/></l><r>pairlament<s n="n"/></r></p></e>
+    <e><p><l>parliament<s n="n"/></l><r>pairliament<s n="n"/></r></p></e>
     <e><p><l>part<s n="n"/></l><r>pairt<s n="n"/></r></p></e>
     <e><p><l>partner<s n="n"/></l><r>pairtner<s n="n"/></r></p></e>
     <e><p><l>party<s n="n"/></l><r>pairty<s n="n"/></r></p></e>
