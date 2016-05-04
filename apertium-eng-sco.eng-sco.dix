@@ -1010,6 +1010,8 @@
     <e><p><l>sick<s n="adj"/><s n="sint"/></l><r>seek<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>systematic<s n="adj"/></l><r>seestematic<s n="adj"/></r></p></e>
     <e><p><l>second<s n="adj"/></l><r>seicont<s n="adj"/></r></p></e>
+    <e><p><l>shock<s n="adj"/></l><r>shoack<s n="adj"/></r></p></e>    
+    <e><p><l>shock<s n="adj"/></l><r>shock<s n="adj"/></r></p></e>
     <e><p><l>sick<s n="adj"/><s n="sint"/></l><r>seik<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>set<s n="adj"/></l><r>set<s n="adj"/></r></p></e>
     <e><p><l>sure<s n="adj"/><s n="sint"/></l><r>shair<s n="adj"/><s n="sint"/></r></p></e>
@@ -2395,6 +2397,7 @@
     <e><p><l>trick-or-treater<s n="n"/></l><r>guiser<s n="n"/></r></p></e>
     <e><p><l>trick-or-treating<s n="n"/></l><r>guisin<s n="n"/></r></p></e>
     <e><p><l>plimsoll<s n="n"/></l><r>guttie<s n="n"/></r></p></e>
+    <e><p><l>hall<s n="n"/></l><r>ha<s n="n"/></r></p></e>
     <e><p><l>fog<s n="n"/></l><r>haar<s n="n"/></r></p></e>
     <e><p><l>pasture<s n="n"/></l><r>haft<s n="n"/></r></p></e>
     <e><p><l>head<s n="n"/></l><r>haid<s n="n"/></r></p></e>
