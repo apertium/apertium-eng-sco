@@ -1813,6 +1813,7 @@
     <e><p><l>shall<s n="vaux"/></l><r>sall<s n="vaux"/></r></p></e>
     <e><p><l>would<s n="vaux"/></l><r>wad<s n="vaux"/></r></p></e>
     <e><p><l>will<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
+    <e><p><l>will<s n="vbmod"/></l><r>wull<s n="vbmod"/></r></p></e>
     <e><p><l>may<s n="vaux"/></l><r>mey<s n="vaux"/></r></p></e>
     <e><p><l>must<s n="vaux"/></l><r>maun<s n="vaux"/></r></p></e>
     <e><p><l>could<s n="vaux"/></l><r>coud<s n="vaux"/></r></p></e>
@@ -2674,6 +2675,7 @@
     <e><p><l>morning<s n="n"/></l><r>morn<s n="n"/></r></p></e>
     <e><p><l>tomorrow<s n="n"/></l><r>morn<s n="n"/></r></p></e>
     <e><p><l>morning<s n="n"/></l><r>mornin<s n="n"/></r></p></e>
+    <e><p><l>mouth<s n="n"/></l><r>mou<s n="n"/></r></p></e>
     <e><p><l>mole<s n="n"/></l><r>mowdie<s n="n"/></r></p></e>
     <e><p><l>dung<s n="n"/></l><r>muck<s n="n"/></r></p></e>
     <e><p><l>manure<s n="n"/></l><r>muck<s n="n"/></r></p></e>
