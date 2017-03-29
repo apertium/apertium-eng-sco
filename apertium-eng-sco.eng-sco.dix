@@ -847,6 +847,7 @@
     <e><p><l>high<s n="adj"/><s n="sint"/></l><r>heich<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>tall<s n="adj"/><s n="sint"/></l><r>heich<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>harsh<s n="adj"/><s n="sint"/></l><r>hersh<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>heartfelt<s n="adj"/></l><r>hertfelt<s n="adj"/></r></p></e>
     <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>het<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>hett<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>abashed<s n="adj"/></l><r>hingin-heidit<s n="adj"/></r></p></e>
@@ -2646,6 +2647,7 @@
     <e><p><l>minute<s n="n"/></l><r>meenit<s n="n"/></r></p></e>
     <e><p><l>meeting<s n="n"/></l><r>meetin<s n="n"/></r></p></e>
     <e><p><l>member<s n="n"/></l><r>memmer<s n="n"/></r></p></e>
+    <e><p><l>dignity<s n="n"/></l><r>mense<s n="n"/></r></p></e>
     <e><p><l>market<s n="n"/></l><r>mercat<s n="n"/></r></p></e>
     <e><p><l>mark<s n="n"/></l><r>merk<s n="n"/></r></p></e>
     <e><p><l>message<s n="n"/></l><r>message<s n="n"/></r></p></e>
@@ -3068,6 +3070,7 @@
     <e><p><l>vision<s n="n"/></l><r>veesion<s n="n"/></r></p></e>
     <e><p><l>visit<s n="n"/></l><r>veesit<s n="n"/></r></p></e>
     <e><p><l>visitor<s n="n"/></l><r>veesitor<s n="n"/></r></p></e>
+    <e><p><l>vigour<s n="n"/></l><r>virr<s n="n"/></r></p></e>
     <e><p><l>vocabulary<s n="n"/></l><r>vocabular<s n="n"/></r></p></e>
     <e><p><l>vote<s n="n"/></l><r>vote<s n="n"/></r></p></e>
     <e><p><l>wretch<s n="n"/></l><r>vratch<s n="n"/></r></p></e>
