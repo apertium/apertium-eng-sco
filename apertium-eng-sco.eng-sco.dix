@@ -427,6 +427,7 @@
     <e><p><l>four<s n="num"/></l><r>fower<s n="num"/></r></p></e>
     <e><p><l>five<s n="num"/></l><r>five<s n="num"/></r></p></e>
 
+    <e><p><l>fourty<s n="num"/></l><r>fowerty<s n="num"/></r></p></e>
     
     <e><p><l>very<s n="preadv"/></l><r>verra<s n="preadv"/></r></p></e>
     <e><p><l>more<s n="preadv"/></l><r>mair<s n="preadv"/></r></p></e>
@@ -841,6 +842,8 @@
     <e><p><l>clumsy<s n="adj"/></l><r>haunless<s n="adj"/></r></p></e>
     <e><p><l>handy<s n="adj"/><s n="sint"/></l><r>haundy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hard<s n="adj"/><s n="sint"/></l><r>haurd<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>topsy-turvy<s n="adj"/><s n="sint"/></l><r>heeliegoleerie<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>topsy-turvy<s n="adj"/><s n="sint"/></l><r>heeligoleery<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>high<s n="adj"/><s n="sint"/></l><r>heich<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>tall<s n="adj"/><s n="sint"/></l><r>heich<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>harsh<s n="adj"/><s n="sint"/></l><r>hersh<s n="adj"/><s n="sint"/></r></p></e>
@@ -2092,6 +2095,7 @@
     <e><p><l>call<s n="n"/></l><r>caw<s n="n"/></r></p></e>
     <e><p><l>calling<s n="n"/></l><r>cawin<s n="n"/></r></p></e>
     <e><p><l>city<s n="n"/></l><r>ceety<s n="n"/></r></p></e>
+    <e><p><l>dance<s n="n"/></l><r>ceilidh<s n="n"/></r></p></e>
     <e><p><l>century<s n="n"/></l><r>century<s n="n"/></r></p></e>
     <e><p><l>ceremony<s n="n"/></l><r>ceremony<s n="n"/></r></p></e>
     <e><p><l>charge<s n="n"/></l><r>chairge<s n="n"/></r></p></e>
@@ -2564,6 +2568,7 @@
     <e><p><l>country<s n="n"/></l><r>landward<s n="n"/></r></p></e>
     <e><p><l>country<s n="n"/></l><r>landwart<s n="n"/></r></p></e>
     <e><p><l>language<s n="n"/></l><r>langage<s n="n"/></r></p></e>
+    <e><p><l>language<s n="n"/></l><r>language<s n="n"/></r></p></e>
     <e><p><l>lantern<s n="n"/></l><r>lantren<s n="n"/></r></p></e>
     <e><p><l>lorry<s n="n"/></l><r>larrie<s n="n"/></r></p></e>
     <e><p><l>girl<s n="n"/></l><r>lass<s n="n"/></r></p></e>
@@ -3004,7 +3009,7 @@
     <e><p><l>glimpse<s n="n"/></l><r>swatch<s n="n"/></r></p></e>
     <e><p><l>sample<s n="n"/></l><r>swatch<s n="n"/></r></p></e>
     <e><p><l>sweet<s n="n"/></l><r>sweet<s n="n"/></r></p></e>
-    <e><p><l>fresh milk<s n="n"/></l><r>sweet milk<s n="n"/></r></p></e>
+    <e><p><l>fresh<b/>milk<s n="n"/></l><r>sweet<b/>milk<s n="n"/></r></p></e>
     <e><p><l>sweetie<s n="n"/></l><r>sweetie<s n="n"/></r></p></e>
     <e><p><l>toe<s n="n"/></l><r>tae<s n="n"/></r></p></e>
     <e><p><l>toenail<s n="n"/></l><r>taenail<s n="n"/></r></p></e>
@@ -3087,6 +3092,7 @@
     <e><p><l>water<s n="n"/></l><r>watter<s n="n"/></r></p></e>
     <e><p><l>stream<s n="n"/></l><r>watter<s n="n"/></r></p></e>
     <e><p><l>waterfall<s n="n"/></l><r>watterfaw<s n="n"/></r></p></e>
+    <e><p><l>incomplete<b/>rainbow<s n="n"/></l><r>wattergaw<s n="n"/></r></p></e>
     <e><p><l>swig<s n="n"/></l><r>waucht<s n="n"/></r></p></e>
     <e><p><l>wave<s n="n"/></l><r>waw<s n="n"/></r></p></e>
     <e><p><l>child<s n="n"/></l><r>wean<s n="n"/></r></p></e>
@@ -3137,7 +3143,7 @@
     <e><p><l>earth<s n="n"/></l><r>yerd<s n="n"/></r></p></e>
     <e><p><l>ground<s n="n"/></l><r>yerd<s n="n"/></r></p></e>
     <e><p><l>land-hunger<s n="n"/></l><r>yerd-hunger<s n="n"/></r></p></e>
-    <e><p><l>yesterday evening<s n="n"/></l><r>yestreen<s n="n"/></r></p></e>
+    <e><p><l>yesterday<b/>evening<s n="n"/></l><r>yestreen<s n="n"/></r></p></e>
     <e><p><l>gate<s n="n"/></l><r>yett<s n="n"/></r></p></e>
 
 
