@@ -228,6 +228,8 @@
     <e><p><l>cautiously<s n="adv"/></l><r>cannie<s n="adv"/></r></p></e>
     <e><p><l>carefully<s n="adv"/></l><r>canny<s n="adv"/></r></p></e>
     <e><p><l>cautiously<s n="adv"/></l><r>canny<s n="adv"/></r></p></e>
+    <e><p><l>assuredly<s n="adv"/></l><r>certe<s n="adv"/></r></p></e>
+    <e><p><l>assuredly<s n="adv"/></l><r>certes<s n="adv"/></r></p></e>
     <e><p><l>clearly<s n="adv"/></l><r>clear<s n="adv"/></r></p></e>
     <e><p><l>confidently<s n="adv"/></l><r>clear<s n="adv"/></r></p></e>
     <e><p><l>abruptly<s n="adv"/></l><r>cuttitly<s n="adv"/></r></p></e>
@@ -317,6 +319,7 @@
     <e><p><l>very<s n="adv"/></l><r>richt<s n="adv"/></r></p></e>
     <e><p><l>very<b/>well<s n="adv"/></l><r>richt<s n="adv"/></r></p></e>
     <e><p><l>rightly<s n="cnjadv"/></l><r>richtly<s n="adv"/></r></p></e>
+    <e><p><l>on<b/>the<b/>road<s n="adv"/></l><r>roadit<s n="adv"/></r></p></e>
     <e><p><l>so<s n="adv"/></l><r>sae<s n="cnjadv"/></r></p></e>
     <e><p><l>softly<s n="adv"/></l><r>saft<s n="adv"/></r></p></e>
     <e><p><l>surely<s n="adv"/></l><r>shairly<s n="adv"/></r></p></e>    
@@ -1090,8 +1093,6 @@
     <e><p><l>twisted<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
     <e><p><l>misshapen<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
     <e><p><l>awkward<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
-    <e><p><l>contrary<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
-    <e><p><l>contrary<s n="adj"/></l><r>thrawn<s n="adj"/></r></p></e>
     <e><p><l>tied<s n="adj"/></l><r>tied<s n="adj"/></r></p></e>
     <e><p><l>tiny<s n="adj"/></l><r>tottie<s n="adj"/></r></p></e>
     <e><p><l>traditional<s n="adj"/></l><r>tradeetional<s n="adj"/></r></p></e>
@@ -1356,6 +1357,7 @@
     <e><p><l>vomit<s n="vblex"/></l><r>boak<s n="vblex"/></r></p></e>
     <e><p><l>vomit<s n="vblex"/></l><r>boke<s n="vblex"/></r></p></e>
     <e><p><l>borrow<s n="vblex"/></l><r>borrae<s n="vblex"/></r></p></e>
+    <e><p><l>borrow<s n="vblex"/></l><r>borry<s n="vblex"/></r></p></e>
     <e><p><l>vomit<s n="vblex"/></l><r>bowk<s n="vblex"/></r></p></e>
     <e><p><l>brag<s n="vblex"/></l><r>braig<s n="vblex"/></r></p></e>
     <e><p><l>broadcast<s n="vblex"/></l><r>braidcast<s n="vblex"/></r></p></e>
@@ -2221,6 +2223,7 @@
     <e><p><l>disrespect<s n="n"/></l><r>disrespect<s n="n"/></r></p></e>
     <e><p><l>district<s n="n"/></l><r>district<s n="n"/></r></p></e>
     <e><p><l>diversity<s n="n"/></l><r>diversity<s n="n"/></r></p></e>
+    <e><p><l>dozen<s n="n"/></l><r>dizzen<s n="n"/></r></p></e>
     <e><p><l>dog<s n="n"/></l><r>doag<s n="n"/></r></p></e>
     <e><p><l>daughter<s n="n"/></l><r>dochter<s n="n"/></r></p></e>
     <e><p><l>schoolmaster<s n="n"/></l><r>dominie<s n="n"/></r></p></e>
@@ -2648,6 +2651,7 @@
     <e><p><l>meeting<s n="n"/></l><r>meetin<s n="n"/></r></p></e>
     <e><p><l>member<s n="n"/></l><r>memmer<s n="n"/></r></p></e>
     <e><p><l>dignity<s n="n"/></l><r>mense<s n="n"/></r></p></e>
+    <e><p><l>crowd<s n="n"/></l><r>menyie<s n="n"/></r></p></e>
     <e><p><l>market<s n="n"/></l><r>mercat<s n="n"/></r></p></e>
     <e><p><l>mark<s n="n"/></l><r>merk<s n="n"/></r></p></e>
     <e><p><l>message<s n="n"/></l><r>message<s n="n"/></r></p></e>
@@ -2993,6 +2997,7 @@
     <e><p><l>story<s n="n"/></l><r>story<s n="n"/></r></p></e>
     <e><p><l>bounce<s n="n"/></l><r>stot<s n="n"/></r></p></e>
     <e><p><l>rebound<s n="n"/></l><r>stot<s n="n"/></r></p></e>
+    <e><p><l>stumble<s n="n"/></l><r>stotter<s n="n"/></r></p></e>
     <e><p><l>dust<s n="n"/></l><r>stour<s n="n"/></r></p></e>
     <e><p><l>strife<s n="n"/></l><r>stour<s n="n"/></r></p></e>
     <e><p><l>commotion<s n="n"/></l><r>stramash<s n="n"/></r></p></e>
@@ -3060,6 +3065,8 @@
     <e><p><l>trade<s n="n"/></l><r>tred<s n="n"/></r></p></e>
     <e><p><l>trade<b/>unionist<s n="n"/></l><r>tred<b/>unionist<s n="n"/></r></p></e>
     <e><p><l>tremble<s n="n"/></l><r>tremmle<s n="n"/></r></p></e>
+    <e><p><l>troll<s n="n"/></l><r>trowe<s n="n"/></r></p></e>
+    <e><p><l>troll<s n="n"/></l><r>trowie<s n="n"/></r></p></e>
     <e><p><l>tunnel<s n="n"/></l><r>tunnel<s n="n"/></r></p></e>
     <e><p><l>user<s n="n"/></l><r>uiser<s n="n"/></r></p></e>
     <e><p><l>use<s n="n"/></l><r>uiss<s n="n"/></r></p></e>
