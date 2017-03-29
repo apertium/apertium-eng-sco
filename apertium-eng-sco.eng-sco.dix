@@ -647,6 +647,8 @@
     <e><p><l>bright<s n="adj"/><s n="sint"/></l><r>bricht<s n="adj"/></r></p></e>
     <e><p><l>bright<s n="adj"/><s n="sint"/></l><r>bricht<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>brown<s n="adj"/><s n="sint"/></l><r>broon<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dirty<s n="adj"/></l><r>broukit<s n="adj"/></r></p></e>
+    <e><p><l>dirty<s n="adj"/><s n="sint"/></l><r>brouky<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>brittle<s n="adj"/><s n="sint"/></l><r>bruckle<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>built<s n="adj"/></l><r>built<s n="adj"/></r></p></e>    
     <e><p><l>dressed<s n="adj"/></l><r>buskit<s n="adj"/></r></p></e>
@@ -1323,7 +1325,8 @@
         <!-- NEW  REGULAR VERBS -->
 
     <e><p><l>abstain<s n="vblex"/></l><r>absteen<s n="vblex"/></r></p></e> 
-    <e><p><l>abuse<s n="vblex"/></l><r>abuise<s n="vblex"/></r></p></e> 
+    <e><p><l>abuse<s n="vblex"/></l><r>abuise<s n="vblex"/></r></p></e>
+    <e><p><l>accept<s n="vblex"/></l><r>accept<s n="vblex"/></r></p></e>
     <e><p><l>act<s n="vblex"/></l><r>act<s n="vblex"/></r></p></e>
     <e><p><l>address<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>
     <e><p><l>admit<s n="vblex"/></l><r>admeet<s n="vblex"/></r></p></e>
@@ -2265,6 +2268,7 @@
     <e><p><l>buttocks<s n="n"/></l><r>ers<s n="n"/></r></p></e>
     <e><p><l>ash<s n="n"/></l><r>ess<s n="n"/></r></p></e>
     <e><p><l>ashes<s n="n"/></l><r>ess<s n="n"/></r></p></e>
+    <e><p><l>establishment<s n="n"/></l><r>estaiblishment<s n="n"/></r></p></e>
     <e><p><l>purpose<s n="n"/></l><r>ettle<s n="n"/></r></p></e>
     <e><p><l>ambition<s n="n"/></l><r>ettlin<s n="n"/></r></p></e>
     <e><p><l>ambitions<s n="n"/></l><r>ettlins<s n="n"/></r></p></e>
