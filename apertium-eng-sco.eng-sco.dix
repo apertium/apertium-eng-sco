@@ -2018,7 +2018,7 @@
     <e><p><l>partner<s n="n"/></l><r>bidie-in<s n="n"/></r></p></e>
     <e><p><l>building<s n="n"/></l><r>biggin<s n="n"/></r></p></e>
     <e><p><l>bird<s n="n"/></l><r>bird<s n="n"/></r></p></e>
-    <e><p><l>woman<s n="n"/></l><r>bird<s n="n"/></r></p></e>
+    <e r="RL"><p><l>woman<s n="n"/></l><r>bird<s n="n"/></r></p></e>
     <e><p><l>little bird<s n="n"/></l><r>birdie<s n="n"/></r></p></e>
     <e><p><l>energetic young man<s n="n"/></l><r>birkie<s n="n"/></r></p></e>
     <e><p><l>bit<s n="n"/></l><r>bit<s n="n"/></r></p></e>
@@ -2073,7 +2073,7 @@
     <e><p><l>board<s n="n"/></l><r>buird<s n="n"/></r></p></e>
     <e><p><l>boot<s n="n"/></l><r>buit<s n="n"/></r></p></e>
     <e><p><l>bonnet<s n="n"/></l><r>bunnet<s n="n"/></r></p></e>
-    <e><p><l>woman<s n="n"/></l><r>burd<s n="n"/></r></p></e>
+    <e r="RL"><p><l>woman<s n="n"/></l><r>burd<s n="n"/></r></p></e>
     <e><p><l>dole<s n="n"/></l><r>bureau<s n="n"/></r></p></e>
     <e><p><l>stream<s n="n"/></l><r>burn<s n="n"/></r></p></e>
     <e><p><l>dole<s n="n"/></l><r>buroo<s n="n"/></r></p></e>
@@ -2211,7 +2211,7 @@
     <e><p><l>decision<s n="n"/></l><r>deceesion<s n="n"/></r></p></e>
     <e><p><l>spas<s n="n"/></l><r>deej<s n="n"/></r></p></e>
     <e><p><l>look<s n="n"/></l><r>deek<s n="n"/></r></p></e>
-    <e><p><l>woman<s n="n"/></l><r>deem<s n="n"/></r></p></e>
+    <e r="RL"><p><l>woman<s n="n"/></l><r>deem<s n="n"/></r></p></e>
     <e><p><l>dame<s n="n"/></l><r>deem<s n="n"/></r></p></e>
     <e><p><l>maid<s n="n"/></l><r>deem<s n="n"/></r></p></e>
     <e><p><l>demon<s n="n"/></l><r>deevilock<s n="n"/></r></p></e>
@@ -2455,7 +2455,7 @@
     <e><p><l>leader<s n="n"/></l><r>heidyin<s n="n"/></r></p></e>
     <e><p><l>leader<s n="n"/></l><r>heidsman<s n="n"/></r></p></e>
     <e><p><l>inheritance<s n="n"/></l><r>heirskip<s n="n"/></r></p></e>
-    <e><p><l>woman<s n="n"/></l><r>hen<s n="n"/></r></p></e>
+    <e r="RL"><p><l>woman<s n="n"/></l><r>hen<s n="n"/></r></p></e>
     <e><p><l>hen<s n="n"/></l><r>hen<s n="n"/></r></p></e>
     <e><p><l>harm<s n="n"/></l><r>herm<s n="n"/></r></p></e>
     <e><p><l>heart<s n="n"/></l><r>hert<s n="n"/></r></p></e>
@@ -3137,9 +3137,9 @@
     <e><p><l>white<s n="n"/></l><r>white<s n="n"/></r></p></e>
     <e><p><l>wood<s n="n"/></l><r>wid<s n="n"/></r></p></e>
     <e><p><l>wood<s n="n"/></l><r>widd<s n="n"/></r></p></e>
-    <e><p><l>woman<s n="n"/></l><r>wife<s n="n"/></r></p></e>
+    <e r="RL"><p><l>woman<s n="n"/></l><r>wife<s n="n"/></r></p></e>
     <e><p><l>wife<s n="n"/></l><r>wife<s n="n"/></r></p></e>
-    <e><p><l>woman<s n="n"/></l><r>wifie<s n="n"/></r></p></e>
+    <e r="RL"><p><l>woman<s n="n"/></l><r>wifie<s n="n"/></r></p></e>
     <e><p><l>window<s n="n"/></l><r>winda<s n="n"/></r></p></e>
     <e><p><l>window<s n="n"/></l><r>windae<s n="n"/></r></p></e>
     <e><p><l>word<s n="n"/></l><r>wird<s n="n"/></r></p></e>
@@ -8932,6 +8932,9 @@
     <e><i>Natàlia<s n="np"/><s n="ant"/></i></e>
     <e><i>Neus<s n="np"/><s n="ant"/></i></e>
     <e><i>Sílvia<s n="np"/><s n="ant"/></i></e>
+
+    <e><p><l>'s<s n="gen"/></l><r>'s<s n="gen"/></r></p></e> 
+
 
 
 
