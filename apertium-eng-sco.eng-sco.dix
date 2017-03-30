@@ -256,6 +256,7 @@
     <e><p><l>ordinarily<s n="adv"/></l><r>for<b/>ordinar<s n="adv"/></r></p></e>
     <e><p><l>forward<s n="adv"/></l><r>for<b/>forrit<s n="adv"/></r></p></e>
     <e><p><l>very<s n="adv"/></l><r>for<b/>gey<s n="adv"/></r></p></e>
+    <e><p><l>besudes<s n="adv"/></l><r>forby<s n="adv"/></r></p></e>
     <e><p><l>quite<s n="adv"/></l><r>gey<s n="adv"/></r></p></e>
     <e><p><l>gladly<s n="adv"/></l><r>gledly<s n="adv"/></r></p></e>
     <e><p><l>hae<s n="adv"/></l><r>hae<s n="adv"/></r></p></e>
@@ -431,6 +432,8 @@
     <e><p><l>five<s n="num"/></l><r>five<s n="num"/></r></p></e>
 
     <e><p><l>fourty<s n="num"/></l><r>fowerty<s n="num"/></r></p></e>
+
+    <e><p><l>million<s n="num"/></l><r>million<s n="num"/></r></p></e>    
     
     <e><p><l>very<s n="preadv"/></l><r>verra<s n="preadv"/></r></p></e>
     <e><p><l>more<s n="preadv"/></l><r>mair<s n="preadv"/></r></p></e>
@@ -1749,7 +1752,8 @@
     <e><p><l>borrow<s n="vblex"/></l><r>tap<s n="vblex"/></r></p></e>
     <e><p><l>teach<s n="vblex"/></l><r>teach<s n="vblex"/></r></p></e>
     <e><p><l>teeter<s n="vblex"/></l><r>teeter<s n="vblex"/></r></p></e>
-    <e><p><l>pay attention<s n="vblex"/></l><r>tent<s n="vblex"/></r></p></e>
+    <e><p><l>pay<b/>attention<s n="vblex"/></l><r>tent<s n="vblex"/></r></p></e>
+    <e><p><l>test<s n="vblex"/></l><r>test<s n="vblex"/></r></p></e>
     <e><p><l>thank<s n="vblex"/></l><r>thank<s n="vblex"/></r></p></e>
     <e><p><l>suffer<s n="vblex"/></l><r>thole<s n="vblex"/></r></p></e>
     <e><p><l>tolerate<s n="vblex"/></l><r>thole<s n="vblex"/></r></p></e>
@@ -2245,6 +2249,7 @@
     <e><p><l>download<s n="n"/></l><r>dounlaid<s n="n"/></r></p></e>
     <e><p><l>download<s n="n"/></l><r>dounload<s n="n"/></r></p></e>
     <e><p><l>doubt<s n="n"/></l><r>dout<s n="n"/></r></p></e>
+    <e><p><l>bottom<s n="n"/></l><r>dowp<s n="n"/></r></p></e>
     <e><p><l>dragon<s n="n"/></l><r>draigon<s n="n"/></r></p></e>
     <e><p><l>drop<s n="n"/></l><r>drap<s n="n"/></r></p></e>
     <e><p><l>small drop<s n="n"/></l><r>drappie<s n="n"/></r></p></e>
@@ -2663,6 +2668,7 @@
     <e><p><l>groceries<s n="n"/></l><r>messages<s n="n"/></r></p></e>
     <e><p><l>messenger<s n="n"/></l><r>messinger<s n="n"/></r></p></e>
     <e><p><l>metre<s n="n"/></l><r>metre<s n="n"/></r></p></e>
+    <e><p><l>mettle<s n="n"/></l><r>mettle<s n="n"/></r></p></e>
     <e><p><l>mice<s n="n"/></l><r>mice<s n="n"/></r></p></e>
     <e><p><l>great amount<s n="n"/></l><r>mickle<s n="n"/></r></p></e>
     <e><p><l>compost heap<s n="n"/></l><r>midden<s n="n"/></r></p></e>
@@ -2938,8 +2944,8 @@
     <e><p><l>sleeve<s n="n"/></l><r>sleeve<s n="n"/></r></p></e>
     <e><p><l>sight<s n="n"/></l><r>sicht<s n="n"/></r></p></e>
     <e><p><l>side<s n="n"/></l><r>side<s n="n"/></r></p></e>
-    <e><p><l>silver<s n="n"/></l><r>siller<s n="n"/></r></p></e>
     <e><p><l>money<s n="n"/></l><r>siller<s n="n"/></r></p></e>
+    <e><p><l>silver<s n="n"/></l><r>siller<s n="n"/></r></p></e>
     <e><p><l>summer<s n="n"/></l><r>simmer<s n="n"/></r></p></e>
     <e><p><l>summertime<s n="n"/></l><r>simmertime<s n="n"/></r></p></e>
     <e><p><l>damage<s n="n"/></l><r>skaith<s n="n"/></r></p></e>
