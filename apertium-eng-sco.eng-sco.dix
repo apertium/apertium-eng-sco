@@ -166,6 +166,7 @@
 
         <!-- ADVERBS -->
 
+    <e><p><l>all<s n="adv"/></l><r>aa<s n="adv"/></r></p></e>
     <e><p><l>about<s n="adv"/></l><r>aboot<s n="adv"/></r></p></e>
     <e><p><l>below<s n="adv"/></l><r>ablo<s n="adv"/></r></p></e>
     <e><p><l>beneath<s n="adv"/></l><r>ablo<s n="adv"/></r></p></e>
@@ -313,7 +314,10 @@
     <e><p><l>originally<s n="adv"/></l><r>oreeginally<s n="adv"/></r></p></e>
     <e><p><l>too<s n="adv"/></l><r>ower<s n="adv"/></r></p></e>
     <e><p><l>over<s n="adv"/></l><r>ower<s n="adv"/></r></p></e>
+    <e><p><l>overhead<s n="adv"/></l><r>owerheid<s n="adv"/></r></p></e>
     <e><p><l>excessively<s n="adv"/></l><r>owerly<s n="adv"/></r></p></e>
+    <e><p><l>over<s n="adv"/></l><r>owre<s n="adv"/></r></p></e>
+    <e><p><l>overhead<s n="adv"/></l><r>owreheid<s n="adv"/></r></p></e>
     <e><p><l>partly<s n="adv"/></l><r>pairtly<s n="adv"/></r></p></e>
     <e><p><l>particularly<s n="adv"/></l><r>pairteecularly<s n="adv"/></r></p></e>
     <e><p><l>snugly<s n="adv"/></l><r>queem<s n="adv"/></r></p></e>
@@ -433,6 +437,7 @@
     <e><p><l>five<s n="num"/></l><r>five<s n="num"/></r></p></e>
 
     <e><p><l>fourty<s n="num"/></l><r>fowerty<s n="num"/></r></p></e>
+    <e><p><l>sixty<s n="num"/></l><r>saxty<s n="num"/></r></p></e>
 
     <e><p><l>hundred<s n="num"/></l><r>hunner<s n="num"/></r></p></e>   
     <e><p><l>hundred<s n="num"/></l><r>hundred<s n="num"/></r></p></e>   
@@ -440,7 +445,10 @@
     <e><p><l>thousand<s n="num"/></l><r>thoosan<s n="num"/></r></p></e>   
     <e><p><l>thousand<s n="num"/></l><r>thoosand<s n="num"/></r></p></e>     
 
-    <e><p><l>million<s n="num"/></l><r>million<s n="num"/></r></p></e>    
+    <e><p><l>million<s n="num"/></l><r>million<s n="num"/></r></p></e>  
+
+    <e><p><l>first<s n="det"/></l><r>furst<s n="det"/></r></p></e>
+    <e><p><l>second<s n="det"/></l><r>seicont<s n="det"/></r></p></e>
     
     <e><p><l>very<s n="preadv"/></l><r>verra<s n="preadv"/></r></p></e>
     <e><p><l>more<s n="preadv"/></l><r>mair<s n="preadv"/></r></p></e>
@@ -638,6 +646,7 @@
     <e><p><l>modest<s n="adj"/></l><r>blate<s n="adj"/></r></p></e>
     <e><p><l>blazing<s n="adj"/></l><r>bleezin<s n="adj"/></r></p></e>
     <e><p><l>blazing<s n="adj"/></l><r>bleizin<s n="adj"/></r></p></e>
+    <e><p><l>blue<s n="adj"/></l><r>blue<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>happy<s n="adj"/><s n="sint"/></l><r>blythe<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>handsome<s n="adj"/><s n="sint"/></l><r>bonnie<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>beautiful<s n="adj"/><s n="sint"/></l><r>bonnie<s n="adj"/><s n="sint"/></r></p></e>
@@ -1158,11 +1167,8 @@
     <e><p><l>wrong<s n="adj"/></l><r>wrang<s n="adj"/></r></p></e>
     <e><p><l>yellow<s n="adj"/><s n="sint"/></l><r>yella<s n="adj"/></r></p></e>
     <e><p><l>yellow<s n="adj"/><s n="sint"/></l><r>yellae<s n="adj"/></r></p></e>
-    <e><p><l>young<s n="adj"/><s n="sint"/></l><r>young<s n="adj"/></r></p></e>
-
+    <e><p><l>young<s n="adj"/><s n="sint"/></l><r>young<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>too<b/>many<s n="adj"/></l><r>ower<b/>mony<s n="adj"/></r></p></e>
-
-    
     <e><p><l>nice<s n="adj"/><s n="sint"/></l><r>braw<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>good<s n="adj"/><s n="sint"/></l><r>guid<s n="adj"/><s n="sint"/></r></p></e>
 
@@ -1260,7 +1266,6 @@
     <e><p><l>weep<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
     <e><p><l>go<s n="vblex"/></l><r>gyang<s n="vblex"/></r></p></e>
     <e><p><l>cover<s n="vblex"/></l><r>hap<s n="vblex"/></r></p></e>
-    <e><p><l>hold<s n="vblex"/></l><r>haud<s n="vblex"/></r></p></e>
     <e><p><l>hear<s n="vblex"/></l><r>hear<s n="vblex"/></r></p></e>
     <e><p><l>let<s n="vblex"/></l><r>lat<s n="vblex"/></r></p></e>
     <e><p><l>leave<s n="vblex"/></l><r>lea<s n="vblex"/></r></p></e>
@@ -1394,6 +1399,7 @@
     <e><p><l>call<s n="vblex"/></l><r>caw<s n="vblex"/></r></p></e>
     <e><p><l>chant<s n="vblex"/></l><r>chant<s n="vblex"/></r></p></e>
     <e><p><l>chase<s n="vblex"/></l><r>chase<s n="vblex"/></r></p></e>
+    <e><p><l>chant<s n="vblex"/></l><r>chaunt<s n="vblex"/></r></p></e>
     <e><p><l>change<s n="vblex"/></l><r>cheenge<s n="vblex"/></r></p></e>
     <e><p><l>chirp<s n="vblex"/></l><r>cheep<s n="vblex"/></r></p></e>
     <e><p><l>stab<s n="vblex"/></l><r>chib<s n="vblex"/></r></p></e>
@@ -1406,7 +1412,8 @@
     <e><p><l>dirty<s n="vblex"/></l><r>clart<s n="vblex"/></r></p></e>
     <e><p><l>clear<s n="vblex"/></l><r>clear<s n="vblex"/></r></p></e>
     <e><p><l>invent<s n="vblex"/></l><r>cleck<s n="vblex"/></r></p></e>
-    <e><p><l>class<s n="vblex"/></l><r>cless<s n="vblex"/></r></p></e>
+    <e><p><l>invent<s n="vblex"/></l><r>cleck<s n="vblex"/></r></p></e>
+    <e><p><l>hook<s n="vblex"/></l><r>cleek<s n="vblex"/></r></p></e>
     <e><p><l>tell<s n="vblex"/></l><r>clype<s n="vblex"/></r></p></e>
     <e><p><l>grass<s n="vblex"/></l><r>clype<s n="vblex"/></r></p></e>
     <e><p><l>grassing<s n="vblex"/></l><r>clypin<s n="vblex"/></r></p></e>
@@ -1714,6 +1721,7 @@
     <e><p><l>sleeks<s n="vblex"/></l><r>sleeks<s n="vblex"/></r></p></e>
     <e><p><l>slight<s n="vblex"/></l><r>slicht<s n="vblex"/></r></p></e>
     <e><p><l>smash<s n="vblex"/></l><r>smash<s n="vblex"/></r></p></e>
+    <e><p><l>smother<s n="vblex"/></l><r>smother<s n="vblex"/></r></p></e>
     <e><p><l>snap<s n="vblex"/></l><r>snash<s n="vblex"/></r></p></e>
     <e><p><l>snow<s n="vblex"/></l><r>snaw<s n="vblex"/></r></p></e>
     <e><p><l>latch<s n="vblex"/></l><r>sneck<s n="vblex"/></r></p></e>
@@ -1724,6 +1732,7 @@
     <e><p><l>shut<s n="vblex"/></l><r>snek<s n="vblex"/></r></p></e>
     <e><p><l>twist<s n="vblex"/></l><r>snoove<s n="vblex"/></r></p></e>
     <e><p><l>twist<s n="vblex"/></l><r>snuve<s n="vblex"/></r></p></e>
+    <e><p><l>soar<s n="vblex"/></l><r>soar<s n="vblex"/></r></p></e>
     <e><p><l>suck<s n="vblex"/></l><r>sook<s n="vblex"/></r></p></e>
     <e><p><l>sound<s n="vblex"/></l><r>soond<s n="vblex"/></r></p></e>
     <e><p><l>sort<s n="vblex"/></l><r>sort<s n="vblex"/></r></p></e>
@@ -1833,6 +1842,7 @@
     <e><p><l>can<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>shall<s n="vaux"/></l><r>sall<s n="vaux"/></r></p></e>
     <e><p><l>would<s n="vaux"/></l><r>wad<s n="vaux"/></r></p></e>
+    <e><p><l>would<s n="vaux"/></l><r>wid<s n="vaux"/></r></p></e>
     <e><p><l>will<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
     <e><p><l>will<s n="vbmod"/></l><r>wull<s n="vbmod"/></r></p></e>
     <e><p><l>may<s n="vaux"/></l><r>mey<s n="vaux"/></r></p></e>
@@ -2038,7 +2048,8 @@
     <e><p><l>blaze<s n="n"/></l><r>bleize<s n="n"/></r></p></e>
     <e><p><l>chat<s n="n"/></l><r>blether<s n="n"/></r></p></e>
     <e><p><l>gossip<s n="n"/></l><r>blether<s n="n"/></r></p></e>
-    <e><p><l>little boat<s n="n"/></l><r>boatie<s n="n"/></r></p></e>
+    <e><p><l>blue<s n="n"/></l><r>blue<s n="n"/></r></p></e>
+    <e><p><l>little<b/>boat<s n="n"/></l><r>boatie<s n="n"/></r></p></e>
     <e><p><l>boy<s n="n"/></l><r>boay<s n="n"/></r></p></e>
     <e><p><l>quagmire<s n="n"/></l><r>bobbin-quaw<s n="n"/></r></p></e>
     <e><p><l>quagmire<s n="n"/></l><r>bobbinquaw<s n="n"/></r></p></e>
@@ -2311,6 +2322,7 @@
     <e><p><l>fighting<s n="n"/></l><r>fechtin<s n="n"/></r></p></e>
     <e><p><l>fights<s n="n"/></l><r>fechts<s n="n"/></r></p></e>
     <e><p><l>quantity<s n="n"/></l><r>feck<s n="n"/></r></p></e>
+    <e><p><l>feeling<s n="n"/></l><r>feelin<s n="n"/></r></p></e>
     <e><p><l>wonders<s n="n"/></l><r>ferlies<s n="n"/></r></p></e>
     <e><p><l>wonder<s n="n"/></l><r>ferly<s n="n"/></r></p></e>
     <e><p><l>farm<s n="n"/></l><r>ferm<s n="n"/></r></p></e>
@@ -2570,6 +2582,7 @@
     <e><p><l>coffin<s n="n"/></l><r>kist<s n="n"/></r></p></e>
     <e><p><l>cover<s n="n"/></l><r>kivver<s n="n"/></r></p></e>
     <e><p><l>kneecap<s n="n"/></l><r>knap<s n="n"/></r></p></e>
+    <e><p><l>knuckle<s n="n"/></l><r>knuckle<s n="n"/></r></p></e>
     <e><p><l>cows<s n="n"/></l><r>kye<s n="n"/></r></p></e>
     <e><p><l>hobble<s n="n"/></l><r>kye booties<s n="n"/></r></p></e>
     <e><p><l>strait<s n="n"/></l><r>kyle<s n="n"/></r></p></e>
@@ -2902,6 +2915,7 @@
     <e><p><l>ruler<s n="n"/></l><r>ruler<s n="n"/></r></p></e>
     <e><p><l>rash<s n="n"/></l><r>rush<s n="n"/></r></p></e>
     <e><p><l>software<s n="n"/></l><r>saftware<s n="n"/></r></p></e>
+    <e><p><l>saltire<s n="n"/></l><r>saltire<s n="n"/></r></p></e>
     <e><p><l>saint<s n="n"/></l><r>sanct<s n="n"/></r></p></e>
     <e><p><l>song<s n="n"/></l><r>sang<s n="n"/></r></p></e>
     <e><p><l>singer<s n="n"/></l><r>sangster<s n="n"/></r></p></e>
@@ -2991,6 +3005,7 @@
     <e><p><l>spirits<s n="n"/></l><r>speerits<s n="n"/></r></p></e>
     <e><p><l>question<s n="n"/></l><r>speir<s n="n"/></r></p></e>
     <e><p><l>speaker<s n="n"/></l><r>spikker<s n="n"/></r></p></e>
+    <e><p><l>springtime<s n="n"/></l><r>springtime<s n="n"/></r></p></e>
     <e><p><l>spoon<s n="n"/></l><r>spuin<s n="n"/></r></p></e>
     <e><p><l>porridge<b/>stick<s n="n"/></l><r>spurtle<s n="n"/></r></p></e>
     <e><p><l>large number<s n="n"/></l><r>squatter<s n="n"/></r></p></e>
@@ -8944,7 +8959,7 @@
     <e><i>Sílvia<s n="np"/><s n="ant"/></i></e>
 
     <e><p><l>'s<s n="gen"/></l><r>'s<s n="gen"/></r></p></e> 
-
+    <e><p><l>’s<s n="gen"/></l><r>’s<s n="gen"/></r></p></e>
 
 
 
