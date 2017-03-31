@@ -216,6 +216,7 @@
     <e><p><l>always<s n="adv"/></l><r>aye<s n="adv"/></r></p></e>
     <e><p><l>always<s n="adv"/></l><r>ayeweys<s n="adv"/></r></p></e>
     <e><p><l>always<s n="adv"/></l><r>ayewis<s n="adv"/></r></p></e>
+    <e><p><l>beyond<s n="adv"/></l><r>ayont<s n="adv"/></r></p></e>
     <e><p><l>back<s n="adv"/></l><r>back<s n="adv"/></r></p></e>    
     <e><p><l>childishly<s n="adv"/></l><r>bairnishly<s n="adv"/></r></p></e>
     <e><p><l>inside<s n="adv"/></l><r>ben<s n="adv"/></r></p></e>
@@ -432,6 +433,12 @@
     <e><p><l>five<s n="num"/></l><r>five<s n="num"/></r></p></e>
 
     <e><p><l>fourty<s n="num"/></l><r>fowerty<s n="num"/></r></p></e>
+
+    <e><p><l>hundred<s n="num"/></l><r>hunner<s n="num"/></r></p></e>   
+    <e><p><l>hundred<s n="num"/></l><r>hundred<s n="num"/></r></p></e>   
+     
+    <e><p><l>thousand<s n="num"/></l><r>thoosan<s n="num"/></r></p></e>   
+    <e><p><l>thousand<s n="num"/></l><r>thoosand<s n="num"/></r></p></e>     
 
     <e><p><l>million<s n="num"/></l><r>million<s n="num"/></r></p></e>    
     
@@ -1787,6 +1794,7 @@
     <e><p><l>want<s n="vblex"/></l><r>want<s n="vblex"/></r></p></e>
     <e><p><l>wake<s n="vblex"/></l><r>wauk<s n="vblex"/></r></p></e>
     <e><p><l>wake up<s n="vblex"/></l><r>wauken<s n="vblex"/></r></p></e>
+    <e><p><l>welcome<s n="vblex"/></l><r>weelcome<s n="vblex"/></r></p></e>
     <e><p><l>wet<s n="vblex"/></l><r>weet<s n="vblex"/></r></p></e>
     <e><p><l>ordain<s n="vblex"/></l><r>weird<s n="vblex"/></r></p></e>
     <e><p><l>destine<s n="vblex"/></l><r>weird<s n="vblex"/></r></p></e>
@@ -2504,6 +2512,7 @@
     <e><p><l>intellect<s n="n"/></l><r>intellect<s n="n"/></r></p></e>
     <e><p><l>wits<s n="n"/></l><r>intellects<s n="n"/></r></p></e>
     <e><p><l>island<s n="n"/></l><r>island<s n="n"/></r></p></e>
+    <e><p><l>issue<s n="n"/></l><r>issue<s n="n"/></r></p></e>
     <e><p><l>other<s n="n"/></l><r>ither<s n="n"/></r></p></e>
     <e><p><l>jacket<s n="n"/></l><r>jaicket<s n="n"/></r></p></e>
     <e><p><l>caretaker<s n="n"/></l><r>janitor<s n="n"/></r></p></e>
@@ -3118,6 +3127,7 @@
     <e><p><l>child<s n="n"/></l><r>wean<s n="n"/></r></p></e>
     <e><p><l>young child<s n="n"/></l><r>wean<s n="n"/></r></p></e>
     <e><p><l>weaving<s n="n"/></l><r>weavin<s n="n"/></r></p></e>
+    <e><p><l>welcome<s n="n"/></l><r>weelcome<s n="n"/></r></p></e>
     <e><p><l>women<s n="n"/></l><r>weemin<s n="n"/></r></p></e>
     <e><p><l>fate<s n="n"/></l><r>weird<s n="n"/></r></p></e>
     <e><p><l>fortune<s n="n"/></l><r>weird<s n="n"/></r></p></e>
