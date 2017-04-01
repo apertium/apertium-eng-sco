@@ -436,6 +436,8 @@
     <e><p><l>four<s n="num"/></l><r>fower<s n="num"/></r></p></e>
     <e><p><l>five<s n="num"/></l><r>five<s n="num"/></r></p></e>
 
+    <e><p><l>seven<s n="num"/></l><r>seiven<s n="num"/></r></p></e>    
+
     <e><p><l>fourty<s n="num"/></l><r>fowerty<s n="num"/></r></p></e>
     <e><p><l>sixty<s n="num"/></l><r>saxty<s n="num"/></r></p></e>
 
@@ -447,8 +449,8 @@
 
     <e><p><l>million<s n="num"/></l><r>million<s n="num"/></r></p></e>  
 
-    <e><p><l>first<s n="det"/></l><r>furst<s n="det"/></r></p></e>
-    <e><p><l>second<s n="det"/></l><r>seicont<s n="det"/></r></p></e>
+    <e><p><l>first<s n="adj"/></l><r>furst<s n="adj"/></r></p></e>
+    <e><p><l>second<s n="adj"/></l><r>seicont<s n="adj"/></r></p></e>
     
     <e><p><l>very<s n="preadv"/></l><r>verra<s n="preadv"/></r></p></e>
     <e><p><l>more<s n="preadv"/></l><r>mair<s n="preadv"/></r></p></e>
@@ -536,6 +538,7 @@
     <e><p><l>through<s n="pr"/></l><r>through<s n="pr"/></r></p></e>
     <e><p><l>throughout<s n="pr"/></l><r>throuoot<s n="pr"/></r></p></e>
     <e><p><l>to<s n="pr"/></l><r>til<s n="pr"/></r></p></e>
+    <e><p><l>till<s n="pr"/></l><r>till<s n="pr"/></r></p></e>
     <e><p><l>to<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>under<s n="pr"/></l><r>unner<s n="pr"/></r></p></e>
     <e><p><l>west<s n="pr"/></l><r>wast<s n="pr"/></r></p></e>
@@ -747,6 +750,7 @@
     <e><p><l>tidy<s n="adj"/></l><r>dink<s n="adj"/></r></p></e>
     <e><p><l>daft<s n="adj"/></l><r>dippit<s n="adj"/></r></p></e>
     <e><p><l>stupid<s n="adj"/></l><r>dippit<s n="adj"/></r></p></e>
+    <e><p><l>disheartening<s n="adj"/></l><r>dishertenin<s n="adj"/></r></p></e>
     <e><p><l>dotit<s n="adj"/></l><r>dotit<s n="adj"/></r></p></e>
     <e><p><l>down<s n="adj"/></l><r>doun<s n="adj"/></r></p></e>
     <e><p><l>gloomy<s n="adj"/><s n="sint"/></l><r>dour<s n="adj"/><s n="sint"/></r></p></e>
@@ -871,6 +875,7 @@
     <e><p><l>high<s n="adj"/><s n="sint"/></l><r>heich<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>tall<s n="adj"/><s n="sint"/></l><r>heich<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>harsh<s n="adj"/><s n="sint"/></l><r>hersh<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>disheartening<s n="adj"/></l><r>dishertenin<s n="adj"/></r></p></e>
     <e><p><l>heartfelt<s n="adj"/></l><r>hertfelt<s n="adj"/></r></p></e>
     <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>het<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hot<s n="adj"/><s n="sint"/></l><r>hett<s n="adj"/><s n="sint"/></r></p></e>
@@ -1699,6 +1704,7 @@
     <e><p><l>shake<s n="vblex"/></l><r>shak<s n="vblex"/></r></p></e>
     <e><p><l>show<s n="vblex"/></l><r>shaw<s n="vblex"/></r></p></e>
     <e><p><l>shine<s n="vblex"/></l><r>sheen<s n="vblex"/></r></p></e>
+    <e><p><l>shake<s n="vblex"/></l><r>shoogle<s n="vblex"/></r></p></e>
     <e><p><l>shoot<s n="vblex"/></l><r>shuit<s n="vblex"/></r></p></e>
     <e><p><l>seek<s n="vblex"/></l><r>sick<s n="vblex"/></r></p></e>
     <e><p><l>arrange<s n="vblex"/></l><r>side<s n="vblex"/></r></p></e>
@@ -1981,6 +1987,7 @@
     <e><p><l>result<s n="n"/></l><r>affcome<s n="n"/></r></p></e>
     <e><p><l>abbey<s n="n"/></l><r>aibey<s n="n"/></r></p></e>    
     <e><p><l>apple<s n="n"/></l><r>aipple<s n="n"/></r></p></e>
+    <e><p><l>air<s n="n"/></l><r>air<s n="n"/></r></p></e>
     <e><p><l>arm<s n="n"/></l><r>airm<s n="n"/></r></p></e>
     <e><p><l>army<s n="n"/></l><r>airmy<s n="n"/></r></p></e>
     <e><p><l>direction<s n="n"/></l><r>airt<s n="n"/></r></p></e>
@@ -2299,6 +2306,7 @@
     <e><p><l>example<s n="n"/></l><r>example<s n="n"/></r></p></e>
     <e><p><l>example<s n="n"/></l><r>exemple<s n="n"/></r></p></e>
     <e><p><l>exhibition<s n="n"/></l><r>exhibeetion<s n="n"/></r></p></e>
+    <e><p><l>experience<s n="n"/></l><r>experience<s n="n"/></r></p></e>
     <e><p><l>face<s n="n"/></l><r>face<s n="n"/></r></p></e>
     <e><p><l>fact<s n="n"/></l><r>fact<s n="n"/></r></p></e>
     <e><p><l>agent<s n="n"/></l><r>factor<s n="n"/></r></p></e>
@@ -2530,6 +2538,7 @@
     <e><p><l>caretaker<s n="n"/></l><r>janitor<s n="n"/></r></p></e>
     <e><p><l>caretaker<s n="n"/></l><r>janny<s n="n"/></r></p></e>
     <e><p><l>jar<s n="n"/></l><r>jaur<s n="n"/></r></p></e>
+    <e><p><l>jaw<s n="n"/></l><r>jaw<s n="n"/></r></p></e>
     <e><p><l>join<s n="n"/></l><r>jine<s n="n"/></r></p></e>
     <e><p><l>joiner<s n="n"/></l><r>jiner<s n="n"/></r></p></e>
     <e><p><l>lot<s n="n"/></l><r>jing-bang<s n="n"/></r></p></e>
