@@ -1,0 +1,10 @@
+{
+    "eng-sco": {
+        "input": "eng-sco-input.txt",
+        "mode": "eng-sco"
+    },
+    "sco-eng": {
+        "input": "sco-eng-input.txt",
+        "mode": "sco-eng"
+    }
+}

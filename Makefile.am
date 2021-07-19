@@ -207,11 +207,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "vigour" | apertium -d . eng-sco | tee .test-mt
-	@echo "virr" > .test-ref
-	@diff .test-ref .test-mt
-	echo "hoose" | apertium -d . sco-eng | tee .test-mt
-	@echo "house" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
-
+	apertium-regtest test

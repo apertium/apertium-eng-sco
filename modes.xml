@@ -11,7 +11,7 @@
       <program name="cg-proc -w">
         <file name="eng-sco.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-sco.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
